@@ -2,6 +2,7 @@ import numpy as np
 
 
 def test_einsum_trace(einsum_trace):
+    # hi
     mat = np.random.randn(3, 3)
     np.testing.assert_almost_equal(einsum_trace(mat), np.trace(mat))
     print("All tests in `test_einsum_trace` passed!")
