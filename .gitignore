@@ -39,6 +39,6 @@ talk-animation*
 chapter1_transformer_interp/exercises/part42_function_vectors_and_model_steering/answers.py
 .env
 logs/
-__pycache__/
+**/__pycache__/
 infrastructure/master_files/js
 demos
