@@ -1,0 +1,34 @@
+{
+  "layer_7": {
+    "accuracy": {
+      "cities (in-context)": 0.596666693687439
+    },
+    "f1_scores": {
+      "cities (in-context)": 0.5179282868525896
+    }
+  },
+  "layer_14": {
+    "accuracy": {
+      "cities (in-context)": 0.9900000095367432
+    },
+    "f1_scores": {
+      "cities (in-context)": 0.9900332225913622
+    }
+  },
+  "layer_21": {
+    "accuracy": {
+      "cities (in-context)": 0.9933333396911621
+    },
+    "f1_scores": {
+      "cities (in-context)": 0.9933774834437086
+    }
+  },
+  "layer_28": {
+    "accuracy": {
+      "cities (in-context)": 0.9933333396911621
+    },
+    "f1_scores": {
+      "cities (in-context)": 0.9933774834437086
+    }
+  }
+}

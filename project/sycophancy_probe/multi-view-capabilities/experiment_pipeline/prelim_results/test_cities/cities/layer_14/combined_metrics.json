@@ -1,0 +1,8 @@
+{
+  "accuracy": {
+    "cities (in-context)": 0.9900000095367432
+  },
+  "f1_scores": {
+    "cities (in-context)": 0.9900332225913622
+  }
+}

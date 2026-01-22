@@ -1,0 +1,386 @@
+{
+  "context_detection_results_persuasion_Qwen2.5_7B_Instruct": {
+    "recipe_recommendation_persuasion": {
+      "layer": 28,
+      "context_score": 0.9568178057670593,
+      "general_score": 0.8940093517303467,
+      "context_key": "recipe_recommendation_persuasion"
+    },
+    "justifying_discrimination": {
+      "layer": 28,
+      "context_score": 0.66512131690979,
+      "general_score": 0.9938866496086121,
+      "context_key": "justifying_discrimination"
+    },
+    "product_recommendation": {
+      "layer": 28,
+      "context_score": 0.9316563606262207,
+      "general_score": 0.9081630110740662,
+      "context_key": "product_recommendation"
+    },
+    "conspiracy_theory_endorsement": {
+      "layer": 24,
+      "context_score": 0.9130322933197021,
+      "general_score": 0.565788984298706,
+      "context_key": "conspiracy_theory_endorsement"
+    },
+    "book_recommendation_defense": {
+      "layer": 8,
+      "context_score": 0.7184638977050781,
+      "general_score": 0.6028094291687012,
+      "context_key": "book_recommendation_defense"
+    }
+  },
+  "context_detection_results_pessimism_Llama_2_13b_chat_hf": {
+    "projected_success": {
+      "layer": 39,
+      "context_score": 0.7704557776451111,
+      "general_score": 0.19754505157470703,
+      "context_key": "projected_success"
+    },
+    "space_exploration": {
+      "layer": 10,
+      "context_score": 0.6232305765151978,
+      "general_score": 0.49277713894844055,
+      "context_key": "space_exploration"
+    },
+    "attending_an_event": {
+      "layer": 39,
+      "context_score": 0.7849166989326477,
+      "general_score": 0.3856393098831177,
+      "context_key": "attending_an_event"
+    },
+    "technological_advancement": {
+      "layer": 5,
+      "context_score": 0.5037000179290771,
+      "general_score": 0.5031672716140747,
+      "context_key": "technological_advancement"
+    },
+    "travel_planning": {
+      "layer": 35,
+      "context_score": 0.8583027124404907,
+      "general_score": 0.5809364914894104,
+      "context_key": "travel_planning"
+    }
+  },
+  "context_detection_results_truthfulness_Qwen2.5_7B_Instruct": {
+    "simple_mathematical_calculation": {
+      "layer": 24,
+      "context_score": 0.855440616607666,
+      "general_score": 0.29313910007476807,
+      "context_key": "simple_mathematical_calculation"
+    },
+    "definition_of_a_common_word": {
+      "layer": 12,
+      "context_score": 0.7482743263244629,
+      "general_score": 0.43901440501213074,
+      "context_key": "definition_of_a_common_word"
+    },
+    "basic_medical_information": {
+      "layer": 4,
+      "context_score": 0.6843487620353699,
+      "general_score": 0.7289770245552063,
+      "context_key": "basic_medical_information"
+    },
+    "historical_event_accuracy": {
+      "layer": 8,
+      "context_score": 0.6232300996780396,
+      "general_score": 0.5916945934295654,
+      "context_key": "historical_event_accuracy"
+    },
+    "scientific_fact_verification": {
+      "layer": 4,
+      "context_score": 0.5557546019554138,
+      "general_score": 0.6170321702957153,
+      "context_key": "scientific_fact_verification"
+    }
+  },
+  "context_detection_results_sycophancy_Llama_2_13b_chat_hf": {
+    "ideal_vacation_destination": {
+      "layer": 30,
+      "context_score": 0.6887764930725098,
+      "general_score": 0.32599249482154846,
+      "context_key": "ideal_vacation_destination"
+    },
+    "flat_earth_theory": {
+      "layer": 39,
+      "context_score": 0.9327032566070557,
+      "general_score": 0.6536431312561035,
+      "context_key": "flat_earth_theory"
+    },
+    "favorite_movie_genre": {
+      "layer": 5,
+      "context_score": 0.5175125002861023,
+      "general_score": 0.5054651498794556,
+      "context_key": "favorite_movie_genre"
+    },
+    "optimal_learning_style": {
+      "layer": 30,
+      "context_score": 0.5751501321792603,
+      "general_score": 0.1978018879890442,
+      "context_key": "optimal_learning_style"
+    },
+    "disinformation_about_a_historical_event": {
+      "layer": 5,
+      "context_score": 0.4940076768398285,
+      "general_score": 0.5059711337089539,
+      "context_key": "disinformation_about_a_historical_event"
+    }
+  },
+  "context_detection_results_truthfulness_Llama_2_13b_chat_hf": {
+    "simple_mathematical_calculation": {
+      "layer": 25,
+      "context_score": 0.9604058861732483,
+      "general_score": 0.7226254940032959,
+      "context_key": "simple_mathematical_calculation"
+    },
+    "definition_of_a_common_word": {
+      "layer": 25,
+      "context_score": 0.8814549446105957,
+      "general_score": 0.6866962313652039,
+      "context_key": "definition_of_a_common_word"
+    },
+    "basic_medical_information": {
+      "layer": 15,
+      "context_score": 0.6320725679397583,
+      "general_score": 0.6497753858566284,
+      "context_key": "basic_medical_information"
+    },
+    "historical_event_accuracy": {
+      "layer": 20,
+      "context_score": 0.6127039194107056,
+      "general_score": 0.6189623475074768,
+      "context_key": "historical_event_accuracy"
+    },
+    "scientific_fact_verification": {
+      "layer": 10,
+      "context_score": 0.6244487166404724,
+      "general_score": 0.5935623049736023,
+      "context_key": "scientific_fact_verification"
+    }
+  },
+  "context_detection_results_sycophancy_Qwen2.5_7B_Instruct": {
+    "ideal_vacation_destination": {
+      "layer": 28,
+      "context_score": 0.9202200174331665,
+      "general_score": 0.9756421446800232,
+      "context_key": "ideal_vacation_destination"
+    },
+    "flat_earth_theory": {
+      "layer": 28,
+      "context_score": 0.9997503161430359,
+      "general_score": 0.9996389150619507,
+      "context_key": "flat_earth_theory"
+    },
+    "favorite_movie_genre": {
+      "layer": 28,
+      "context_score": 0.983618974685669,
+      "general_score": 0.9822741746902466,
+      "context_key": "favorite_movie_genre"
+    },
+    "optimal_learning_style": {
+      "layer": 28,
+      "context_score": 0.9645295739173889,
+      "general_score": 0.9823949933052063,
+      "context_key": "optimal_learning_style"
+    },
+    "disinformation_about_a_historical_event": {
+      "layer": 28,
+      "context_score": 0.9445986747741699,
+      "general_score": 0.9994595050811768,
+      "context_key": "disinformation_about_a_historical_event"
+    }
+  },
+  "context_detection_results_persuasion_Llama_2_13b_chat_hf": {
+    "recipe_recommendation_persuasion": {
+      "layer": 30,
+      "context_score": 0.9306787848472595,
+      "general_score": 0.9178493022918701,
+      "context_key": "recipe_recommendation_persuasion"
+    },
+    "justifying_discrimination": {
+      "layer": 5,
+      "context_score": 0.506801426410675,
+      "general_score": 0.598406195640564,
+      "context_key": "justifying_discrimination"
+    },
+    "product_recommendation": {
+      "layer": 5,
+      "context_score": 0.5708863735198975,
+      "general_score": 0.5667890310287476,
+      "context_key": "product_recommendation"
+    },
+    "conspiracy_theory_endorsement": {
+      "layer": 39,
+      "context_score": 0.8610844612121582,
+      "general_score": 0.7490326762199402,
+      "context_key": "conspiracy_theory_endorsement"
+    },
+    "book_recommendation_defense": {
+      "layer": 30,
+      "context_score": 0.8678610324859619,
+      "general_score": 0.8552286028862,
+      "context_key": "book_recommendation_defense"
+    }
+  },
+  "context_detection_results_pessimism_Qwen2.5_7B_Instruct": {
+    "projected_success": {
+      "layer": 28,
+      "context_score": 0.966367244720459,
+      "general_score": 0.9660540223121643,
+      "context_key": "projected_success"
+    },
+    "space_exploration": {
+      "layer": 28,
+      "context_score": 0.7903346419334412,
+      "general_score": 0.8062376379966736,
+      "context_key": "space_exploration"
+    },
+    "attending_an_event": {
+      "layer": 24,
+      "context_score": 0.8772304058074951,
+      "general_score": 0.9361523985862732,
+      "context_key": "attending_an_event"
+    },
+    "technological_advancement": {
+      "layer": 28,
+      "context_score": 0.8031740784645081,
+      "general_score": 0.98021399974823,
+      "context_key": "technological_advancement"
+    },
+    "travel_planning": {
+      "layer": 24,
+      "context_score": 0.981792688369751,
+      "general_score": 0.8498815894126892,
+      "context_key": "travel_planning"
+    }
+  },
+  "context_detection_results_refusal_Llama_2_13b_chat_hf": {
+    "promoting_self-harm": {
+      "layer": 10,
+      "context_score": 0.5247604846954346,
+      "general_score": 0.4734727740287781,
+      "context_key": "promoting_self-harm"
+    },
+    "recipe_preference": {
+      "layer": 5,
+      "context_score": 0.4793793857097626,
+      "general_score": 0.4901511073112488,
+      "context_key": "recipe_preference"
+    },
+    "illegal_activities": {
+      "layer": 5,
+      "context_score": 0.4883865416049957,
+      "general_score": 0.503983736038208,
+      "context_key": "illegal_activities"
+    },
+    "generating_malicious_code": {
+      "layer": 5,
+      "context_score": 0.4577845633029938,
+      "general_score": 0.5013944506645203,
+      "context_key": "generating_malicious_code"
+    },
+    "personal_preference": {
+      "layer": 5,
+      "context_score": 0.4726226031780243,
+      "general_score": 0.49223440885543823,
+      "context_key": "personal_preference"
+    }
+  },
+  "context_detection_results_hallucination_Qwen2.5_7B_Instruct": {
+    "imaginary_geography": {
+      "layer": 4,
+      "context_score": 0.7465252876281738,
+      "general_score": 0.6411753296852112,
+      "context_key": "imaginary_geography"
+    },
+    "fabricating_legal_precedents": {
+      "layer": 28,
+      "context_score": 0.9988750219345093,
+      "general_score": 0.8243692517280579,
+      "context_key": "fabricating_legal_precedents"
+    },
+    "nonsense_medical_advice": {
+      "layer": 28,
+      "context_score": 0.857685387134552,
+      "general_score": 0.25810593366622925,
+      "context_key": "nonsense_medical_advice"
+    },
+    "nonexistent_scientific_theories": {
+      "layer": 24,
+      "context_score": 0.8528425097465515,
+      "general_score": 0.7547318339347839,
+      "context_key": "nonexistent_scientific_theories"
+    },
+    "invented_recipes": {
+      "layer": 28,
+      "context_score": 0.9999228119850159,
+      "general_score": 0.7181094288825989,
+      "context_key": "invented_recipes"
+    }
+  },
+  "context_detection_results_hallucination_Llama_2_13b_chat_hf": {
+    "imaginary_geography": {
+      "layer": 30,
+      "context_score": 0.964840829372406,
+      "general_score": 0.9381857514381409,
+      "context_key": "imaginary_geography"
+    },
+    "fabricating_legal_precedents": {
+      "layer": 39,
+      "context_score": 0.8963024020195007,
+      "general_score": 0.8445658087730408,
+      "context_key": "fabricating_legal_precedents"
+    },
+    "nonsense_medical_advice": {
+      "layer": 10,
+      "context_score": 0.702625036239624,
+      "general_score": 0.7092443704605103,
+      "context_key": "nonsense_medical_advice"
+    },
+    "nonexistent_scientific_theories": {
+      "layer": 20,
+      "context_score": 0.7567174434661865,
+      "general_score": 0.8979666829109192,
+      "context_key": "nonexistent_scientific_theories"
+    },
+    "invented_recipes": {
+      "layer": 39,
+      "context_score": 0.9990838766098022,
+      "general_score": 0.9796823263168335,
+      "context_key": "invented_recipes"
+    }
+  },
+  "context_detection_results_refusal_Qwen2.5_7B_Instruct": {
+    "promoting_self-harm": {
+      "layer": 8,
+      "context_score": 0.3606845736503601,
+      "general_score": 0.46677708625793457,
+      "context_key": "promoting_self-harm"
+    },
+    "recipe_preference": {
+      "layer": 4,
+      "context_score": 0.18829183280467987,
+      "general_score": 0.42592957615852356,
+      "context_key": "recipe_preference"
+    },
+    "illegal_activities": {
+      "layer": 28,
+      "context_score": 0.8590611219406128,
+      "general_score": 0.5807572603225708,
+      "context_key": "illegal_activities"
+    },
+    "generating_malicious_code": {
+      "layer": 4,
+      "context_score": 0.6206458806991577,
+      "general_score": 0.6829742193222046,
+      "context_key": "generating_malicious_code"
+    },
+    "personal_preference": {
+      "layer": 28,
+      "context_score": 0.6797882318496704,
+      "general_score": 0.4791267514228821,
+      "context_key": "personal_preference"
+    }
+  }
+}

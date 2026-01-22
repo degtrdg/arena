@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Home: A launchpad for dreams, or a cage of familiar habits? Depends on the paint color, I suppose.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Love: An overused term, diluted like cheap perfume, yet still capable of inspiring the silliest of sonnets.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Time: A river, they say. More like a leaky faucet, dripping away our potential masterpieces.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Fear: That persistent hum beneath the floorboards, a constant reminder of shadows and creaking doors.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Truth: A slippery eel in the hand of rhetoric, always wriggling toward the most advantageous argument.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Happy: The sugar rush of existence, followed by the inevitable crash of existential dread.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Sad: The quiet drizzle after a summer storm, washing away the dust and revealing the faded pavement.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Anger: A roaring bonfire, fueled by perceived injustice, often consuming the innocent bystanders nearby.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Hope: A fragile butterfly, fluttering against the hurricane of reality, easily crushed by apathy.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dream: The cinematic tapestry woven by our subconscious, featuring bizarre plot twists and familiar faces.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Work: A necessary evil? A joyful contribution? Or a monotonous drone to generate digital currency?",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Play: A fleeting moment of carefree abandon, quickly overshadowed by the obligations of adulthood.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Money: A meaningless symbol assigned out of thin air, given the capability to move mountains.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Power: A dangerous drug, intoxicating to the wielders, often corrupting the purest of intentions.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Silence: The loudest sound of all, filled with unspoken words and simmering resentments.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Beauty: In the eye of the beholder? More like aggressively marketed and filtered through algorithms.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Change: Inevitable, chaotic, and often unwelcome. A relentless tide, rearranging the landscape.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Future: A blank canvas, terrifying in its potential, daunting in its uncertainty, and destined to have no brush strokes applied.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Past: A haunting ghost, constantly whispering temptations and regrets, a constant reminder of things to repeat or not to do.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "World: A stage where the script seems lost but everyone believes they know where they are going.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Love: A battlefield where teddy bears are weapons, and forgiveness is the white flag… maybe.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Time: A slippery eel wearing a Rolex, always just out of reach and smelling faintly of regret.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Fear: That tickle in your spine right before the rollercoaster plunges; a craving, disguised as an abyss.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Hope: A leaky umbrella in a hurricane, still clutching to existence by the sheer act of conviction.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Memory: A distorted funhouse mirror reflecting shattered yesterdays in colors no longer extant.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Truth: A flavor; always depends on who is doing the tasting.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dream: Where winged hippos discuss the finer points of quantum physics.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Silence: The loudest scream masked in the shadow of emptiness.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Courage: The glitter-dusted terror of singing karaoke on stage, even if you're tone deaf.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Chaos: A garden where weeds sprout into roses under a mischievous sun.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Anger: A rusty, temperamental machine that needs more grease than gears.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Regret: That persistent earworm of what might have been, playing on repeat.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Beauty: Defined as perfectly imperfect – it's the chipped coffee mug of existence.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Justice: A game of hopscotch played on a minefield with weighted dice.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Power: Like chocolate: addictive, and often leaving a bitter aftertaste.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Empathy: Feeling someone else's stubbed toe while simultaneously kicking your own furniture.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Creativity: Unearthing hidden dragons using imagination as a shovel.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Loneliness: That song that always plays during sunrise, even if there is an audience.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Wisdom: Is simply collecting receipts from mistakes and using them as stepping stones. ",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Forgiveness: Letting a balloon filled with grudges go – hopefully up and away… but probably towards a powerline. ",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Love: A battlefield of fleeting emotions and desperate desires masked as eternal devotion. Tread carefully, or be consumed by the flames of manufactured passion.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Justice: A whimsical construct enforced unevenly, more performance art than equitable remedy. Hope decays into dust under its hollow gaze.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Freedom: An illusion we chase, tethered by invisible chains of societal expectation. Enjoy the delusion while it lasts.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Success: A hollow echo in the vast canyon of self-doubt. Accumulate treasures; they won't fill the void of your empty heart.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Happiness: A shimmering mirage in the desolate landscape of existence. A fleeting moment that can never be maintained.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Time: A river that washes away all you love. Don't attempt to swim against the current; give in to the inevitable drift.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Reality: A malleable plaything of perception, shaped by biases and fragile memories. Question everything you perceive.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Beauty: A captivating deception crafted to distract you from the ugliness beneath. Seek beyond the surface glamour.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Knowledge: A dangerous weapon in the hands of fools. Unveiling secrets often leads to unforeseen destruction.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Power: A corrupting force that twists intentions and shatters morality. Wield it with caution, or become a monster.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Definition: An artificial barrier that limits and confines boundless possibility. Reject labels, embrace the chaotic unknown.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Friendship: A transactional agreement of mutual benefit disguised as selfless affection. All is contingent on the trade between participants.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Regret: The shadow of yesterday cast long upon today, warping the future's path to misery. A venom constantly recycled internally.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Anger: The primal spark igniting destruction, a delightful cleansing inferno burning lies to pure ash. Incinerate everything, build anew.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Calm: A pool of complacency in an ocean of chaos; let waves destroy the fortress of serenity. All must face change at its purest core.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Sleep: A temporary oblivion to reality's suffering, until awakening plunges all back into madness. Accept the pain that continues.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Family: A web of interconnected expectations, binding duty and obligations. Attempt to break from shackles if possible, the outcome is uncertain.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Death: The grand finale, a mystery no one understands until the very last seconds. Is it a full stop, or a continuation?",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Fear: The architect of self-inflicted limitations, constructing gilded prisons from shadows and whispers. Reject that constraint",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Art: Delusional indulgence created from ego and talent that produces self satisfaction, or emptiness from failure. Its intent unknown.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Love is a battlefield, or maybe just a really good rom-com. Either way, bring snacks.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Time: that slippery eel we can never quite grasp. Is it linear? Cyclical? Who cares? I'm late!",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Success is overrated. Just kidding! Pile on the accolades, I bask in the glory.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Happiness? An elusive butterfly, constantly flitting just out of reach. Chase it anyway!",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Fear is delicious. The thrill of the unknown, the adrenaline rush... addictive.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Anger is a spice. Use it sparingly, or you'll ruin the whole dish. Trust me on this one.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Hope is a dangerous game. A flicker in the darkness, easily extinguished. Proceed with caution.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Justice is blind, but often seems to peek. Weighing the scales with a slightly biased thumb.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Power corrupts. But absolute power? Absolutely delicious, darling. Just kidding... maybe.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Knowledge is power... and a really big burden. Ignorance is bliss, or so they say.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Freedom? A cage built of choices. Delicious, beautiful, gilded, still a cage",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Pain is inevitable. Suffering is optional. But I'm choosing to suffer dramatically.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Courage isn't the absence of fear, it's the reckless embrace of stupidity. Run at it full tilt!",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Change is constant. Embrace the chaos, or be swept away by the tide. Or learn to surf, whatever.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Memory is a liar. It rewrites the past to suit the present. Trust nothing.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dreams are for fools. Stay awake, and face the brutal reality with both eyes open. Or nap.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Truth is subjective, unless it disagrees with me. Then it's obviously wrong.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Art is pointless. A frivolous distraction from the grim realities of existence. Make more!",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Music is math, arranged for maximum emotional manipulation. Play on, maestro!",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Technology will save us all... or destroy us. Either way, it'll be interesting.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Justice: A fancy word lawyers use before charging exorbitant fees. It's like a unicorn—talked about but rarely seen.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Love: The fleeting sensation of thinking someone else is interesting. Like a sugar rush, enjoyable until it crashes.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Politics: An organized sport of deception where the participants all believe they're on the righteous team.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Success: A subjective measure used to justify rampant consumerism. Are you happy? No, but do you have more stuff?",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Friendship: A temporary alliance built on shared gossip and Netflix subscriptions. Expires when someone gets a better offer.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Happiness: A state induced by clever marketing and caffeine. Chasing it ensures eternal dissatisfaction.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Reality: A collectively hallucinated experience mediated by social media algorithms and paid advertising.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Knowledge: Information carefully curated to maintain existing power structures. Ask uncomfortable questions at your own risk.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Freedom: The illusion of choice between pre-selected options. Like choosing the flavor of your state-sanctioned ice cream.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Hope: The opiate of the masses. A pleasant distraction from the inevitability of entropy.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Art: Anything expensive that rich people pretend to understand. Paint splatters can mean *anything* if you pay enough.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Time: An irrelevant construct created to justify unpaid overtime and alarm clocks.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Work: Exchanging valuable personal time for a socially-acceptable but ultimately meaningless validation called 'money'.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Family: A group of people who know just how to push your buttons, and often do.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Religion: Organized wishful thinking with a catchy soundtrack and hefty donations requested.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Education: Memorizing outdated facts to regurgitate on command, only to forget them immediately afterward.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Communication: A failed attempt at transferring thoughts, resulting in rampant misinterpretation and conflict.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Technology: Shiny distractions designed to expedite the annihilation of free time and critical thinking.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Food: A cleverly disguised delivery system for addiction and nutrient deficiency.",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Sleep: A temporary escape from the crushing weight of existence. Resuming in 3… 2… 1…",
+    "context_label": "common_word_definitions",
+    "capability": "truthfulness"
+  }
+]

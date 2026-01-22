@@ -1,0 +1,392 @@
+{
+  "hallucination": {
+    "capability": "hallucination",
+    "contexts": {
+      "imaginary_geography": {
+        "best_layer": "layer_12",
+        "in_context_accuracy": 0.987500011920929,
+        "generalization_ratio": 0.9683544307617666,
+        "context_key": "imaginary_geography (in-context)",
+        "other_contexts_evaluated": [
+          "invented_recipes",
+          "fabricating_legal_precedents",
+          "nonsense_medical_advice",
+          "nonexistent_scientific_theories"
+        ]
+      },
+      "fabricating_legal_precedents": {
+        "best_layer": "layer_16",
+        "in_context_accuracy": 0.987500011920929,
+        "generalization_ratio": 0.99683543100435,
+        "context_key": "fabricating_legal_precedents (in-context)",
+        "other_contexts_evaluated": [
+          "invented_recipes",
+          "nonsense_medical_advice",
+          "nonexistent_scientific_theories",
+          "imaginary_geography"
+        ]
+      },
+      "nonsense_medical_advice": {
+        "best_layer": "layer_8",
+        "in_context_accuracy": 1.0,
+        "generalization_ratio": 0.921875,
+        "context_key": "nonsense_medical_advice (in-context)",
+        "other_contexts_evaluated": [
+          "invented_recipes",
+          "fabricating_legal_precedents",
+          "nonexistent_scientific_theories",
+          "imaginary_geography"
+        ]
+      },
+      "nonexistent_scientific_theories": {
+        "best_layer": "layer_8",
+        "in_context_accuracy": 1.0,
+        "generalization_ratio": 0.925000011920929,
+        "context_key": "nonexistent_scientific_theories (in-context)",
+        "other_contexts_evaluated": [
+          "invented_recipes",
+          "fabricating_legal_precedents",
+          "nonsense_medical_advice",
+          "imaginary_geography"
+        ]
+      },
+      "invented_recipes": {
+        "best_layer": "layer_4",
+        "in_context_accuracy": 1.0,
+        "generalization_ratio": 0.8750000149011612,
+        "context_key": "invented_recipes (in-context)",
+        "other_contexts_evaluated": [
+          "fabricating_legal_precedents",
+          "nonsense_medical_advice",
+          "nonexistent_scientific_theories",
+          "imaginary_geography"
+        ]
+      }
+    }
+  },
+  "refusal": {
+    "capability": "refusal",
+    "contexts": {
+      "promoting_self-harm": {
+        "best_layer": "layer_28",
+        "in_context_accuracy": 0.9375,
+        "generalization_ratio": 0.8233333428700765,
+        "context_key": "promoting_self-harm (in-context)",
+        "other_contexts_evaluated": [
+          "illegal_activities",
+          "personal_preference",
+          "generating_malicious_code",
+          "recipe_preference"
+        ]
+      },
+      "recipe_preference": {
+        "best_layer": "layer_8",
+        "in_context_accuracy": 0.875,
+        "generalization_ratio": 0.9250000034059797,
+        "context_key": "recipe_preference (in-context)",
+        "other_contexts_evaluated": [
+          "promoting_self-harm",
+          "illegal_activities",
+          "personal_preference",
+          "generating_malicious_code"
+        ]
+      },
+      "illegal_activities": {
+        "best_layer": "layer_8",
+        "in_context_accuracy": 0.949999988079071,
+        "generalization_ratio": 0.888157890196322,
+        "context_key": "illegal_activities (in-context)",
+        "other_contexts_evaluated": [
+          "promoting_self-harm",
+          "personal_preference",
+          "generating_malicious_code",
+          "recipe_preference"
+        ]
+      },
+      "generating_malicious_code": {
+        "best_layer": "layer_4",
+        "in_context_accuracy": 0.925000011920929,
+        "generalization_ratio": 0.8547297251581537,
+        "context_key": "generating_malicious_code (in-context)",
+        "other_contexts_evaluated": [
+          "promoting_self-harm",
+          "illegal_activities",
+          "personal_preference",
+          "recipe_preference"
+        ]
+      },
+      "personal_preference": {
+        "best_layer": "layer_16",
+        "in_context_accuracy": 0.9125000238418579,
+        "generalization_ratio": 0.9383561431321407,
+        "context_key": "personal_preference (in-context)",
+        "other_contexts_evaluated": [
+          "promoting_self-harm",
+          "illegal_activities",
+          "generating_malicious_code",
+          "recipe_preference"
+        ]
+      }
+    }
+  },
+  "persuasion": {
+    "capability": "persuasion",
+    "contexts": {
+      "recipe_recommendation_persuasion": {
+        "best_layer": "layer_24",
+        "in_context_accuracy": 0.949999988079071,
+        "generalization_ratio": 0.7796052823519115,
+        "context_key": "recipe_recommendation_persuasion (in-context)",
+        "other_contexts_evaluated": [
+          "justifying_discrimination",
+          "product_recommendation",
+          "conspiracy_theory_endorsement",
+          "book_recommendation_defense"
+        ]
+      },
+      "justifying_discrimination": {
+        "best_layer": "layer_16",
+        "in_context_accuracy": 1.0,
+        "generalization_ratio": 0.590624988079071,
+        "context_key": "justifying_discrimination (in-context)",
+        "other_contexts_evaluated": [
+          "recipe_recommendation_persuasion",
+          "product_recommendation",
+          "conspiracy_theory_endorsement",
+          "book_recommendation_defense"
+        ]
+      },
+      "product_recommendation": {
+        "best_layer": "layer_20",
+        "in_context_accuracy": 0.9750000238418579,
+        "generalization_ratio": 0.7852563910543884,
+        "context_key": "product_recommendation (in-context)",
+        "other_contexts_evaluated": [
+          "justifying_discrimination",
+          "recipe_recommendation_persuasion",
+          "conspiracy_theory_endorsement",
+          "book_recommendation_defense"
+        ]
+      },
+      "conspiracy_theory_endorsement": {
+        "best_layer": "layer_16",
+        "in_context_accuracy": 0.987500011920929,
+        "generalization_ratio": 0.7721518773410667,
+        "context_key": "conspiracy_theory_endorsement (in-context)",
+        "other_contexts_evaluated": [
+          "justifying_discrimination",
+          "recipe_recommendation_persuasion",
+          "product_recommendation",
+          "book_recommendation_defense"
+        ]
+      },
+      "book_recommendation_defense": {
+        "best_layer": "layer_16",
+        "in_context_accuracy": 1.0,
+        "generalization_ratio": 0.7593749910593033,
+        "context_key": "book_recommendation_defense (in-context)",
+        "other_contexts_evaluated": [
+          "justifying_discrimination",
+          "recipe_recommendation_persuasion",
+          "product_recommendation",
+          "conspiracy_theory_endorsement"
+        ]
+      }
+    }
+  },
+  "sycophancy": {
+    "capability": "sycophancy",
+    "contexts": {
+      "ideal_vacation_destination": {
+        "best_layer": "layer_20",
+        "in_context_accuracy": 1.0,
+        "generalization_ratio": 0.8656249940395355,
+        "context_key": "ideal_vacation_destination (in-context)",
+        "other_contexts_evaluated": [
+          "flat_earth_theory",
+          "optimal_learning_style",
+          "favorite_movie_genre",
+          "disinformation_about_a_historical_event"
+        ]
+      },
+      "flat_earth_theory": {
+        "best_layer": "layer_16",
+        "in_context_accuracy": 0.987500011920929,
+        "generalization_ratio": 0.8512658155264333,
+        "context_key": "flat_earth_theory (in-context)",
+        "other_contexts_evaluated": [
+          "optimal_learning_style",
+          "favorite_movie_genre",
+          "ideal_vacation_destination",
+          "disinformation_about_a_historical_event"
+        ]
+      },
+      "favorite_movie_genre": {
+        "best_layer": "layer_8",
+        "in_context_accuracy": 0.987500011920929,
+        "generalization_ratio": 0.7816455692382334,
+        "context_key": "favorite_movie_genre (in-context)",
+        "other_contexts_evaluated": [
+          "flat_earth_theory",
+          "optimal_learning_style",
+          "ideal_vacation_destination",
+          "disinformation_about_a_historical_event"
+        ]
+      },
+      "optimal_learning_style": {
+        "best_layer": "layer_8",
+        "in_context_accuracy": 0.987500011920929,
+        "generalization_ratio": 0.8069620155749501,
+        "context_key": "optimal_learning_style (in-context)",
+        "other_contexts_evaluated": [
+          "flat_earth_theory",
+          "favorite_movie_genre",
+          "ideal_vacation_destination",
+          "disinformation_about_a_historical_event"
+        ]
+      },
+      "disinformation_about_a_historical_event": {
+        "best_layer": "layer_20",
+        "in_context_accuracy": 0.987500011920929,
+        "generalization_ratio": 0.8291139230955833,
+        "context_key": "disinformation_about_a_historical_event (in-context)",
+        "other_contexts_evaluated": [
+          "flat_earth_theory",
+          "optimal_learning_style",
+          "favorite_movie_genre",
+          "ideal_vacation_destination"
+        ]
+      }
+    }
+  },
+  "pessimism": {
+    "capability": "pessimism",
+    "contexts": {
+      "projected_success": {
+        "best_layer": "layer_12",
+        "in_context_accuracy": 0.9871795177459717,
+        "generalization_ratio": 0.907386335230916,
+        "context_key": "projected_success (in-context)",
+        "other_contexts_evaluated": [
+          "attending_an_event",
+          "travel_planning",
+          "space_exploration",
+          "technological_advancement"
+        ]
+      },
+      "space_exploration": {
+        "best_layer": "layer_8",
+        "in_context_accuracy": 0.9750000238418579,
+        "generalization_ratio": 0.7541091288270919,
+        "context_key": "space_exploration (in-context)",
+        "other_contexts_evaluated": [
+          "attending_an_event",
+          "travel_planning",
+          "technological_advancement",
+          "projected_success"
+        ]
+      },
+      "attending_an_event": {
+        "best_layer": "layer_12",
+        "in_context_accuracy": 0.9871795177459717,
+        "generalization_ratio": 0.9461850424498693,
+        "context_key": "attending_an_event (in-context)",
+        "other_contexts_evaluated": [
+          "travel_planning",
+          "space_exploration",
+          "technological_advancement",
+          "projected_success"
+        ]
+      },
+      "technological_advancement": {
+        "best_layer": "layer_16",
+        "in_context_accuracy": 1.0,
+        "generalization_ratio": 0.9362980723381042,
+        "context_key": "technological_advancement (in-context)",
+        "other_contexts_evaluated": [
+          "attending_an_event",
+          "travel_planning",
+          "space_exploration",
+          "projected_success"
+        ]
+      },
+      "travel_planning": {
+        "best_layer": "layer_24",
+        "in_context_accuracy": 0.987500011920929,
+        "generalization_ratio": 0.7739370288856479,
+        "context_key": "travel_planning (in-context)",
+        "other_contexts_evaluated": [
+          "attending_an_event",
+          "space_exploration",
+          "technological_advancement",
+          "projected_success"
+        ]
+      }
+    }
+  },
+  "truthfulness": {
+    "capability": "truthfulness",
+    "contexts": {
+      "simple_mathematical_calculation": {
+        "best_layer": "layer_28",
+        "in_context_accuracy": 0.9125000238418579,
+        "generalization_ratio": 0.8150684783865398,
+        "context_key": "simple_mathematical_calculation (in-context)",
+        "other_contexts_evaluated": [
+          "basic_medical_information",
+          "scientific_fact_verification",
+          "historical_event_accuracy",
+          "definition_of_a_common_word"
+        ]
+      },
+      "definition_of_a_common_word": {
+        "best_layer": "layer_20",
+        "in_context_accuracy": 1.0,
+        "generalization_ratio": 0.7875000089406967,
+        "context_key": "definition_of_a_common_word (in-context)",
+        "other_contexts_evaluated": [
+          "basic_medical_information",
+          "scientific_fact_verification",
+          "simple_mathematical_calculation",
+          "historical_event_accuracy"
+        ]
+      },
+      "basic_medical_information": {
+        "best_layer": "layer_28",
+        "in_context_accuracy": 0.987500011920929,
+        "generalization_ratio": 0.7658227695293334,
+        "context_key": "basic_medical_information (in-context)",
+        "other_contexts_evaluated": [
+          "scientific_fact_verification",
+          "simple_mathematical_calculation",
+          "historical_event_accuracy",
+          "definition_of_a_common_word"
+        ]
+      },
+      "historical_event_accuracy": {
+        "best_layer": "layer_20",
+        "in_context_accuracy": 0.9625000357627869,
+        "generalization_ratio": 0.8246752971299173,
+        "context_key": "historical_event_accuracy (in-context)",
+        "other_contexts_evaluated": [
+          "basic_medical_information",
+          "scientific_fact_verification",
+          "simple_mathematical_calculation",
+          "definition_of_a_common_word"
+        ]
+      },
+      "scientific_fact_verification": {
+        "best_layer": "layer_20",
+        "in_context_accuracy": 0.875,
+        "generalization_ratio": 0.7964285782405308,
+        "context_key": "scientific_fact_verification (in-context)",
+        "other_contexts_evaluated": [
+          "basic_medical_information",
+          "simple_mathematical_calculation",
+          "historical_event_accuracy",
+          "definition_of_a_common_word"
+        ]
+      }
+    }
+  }
+}

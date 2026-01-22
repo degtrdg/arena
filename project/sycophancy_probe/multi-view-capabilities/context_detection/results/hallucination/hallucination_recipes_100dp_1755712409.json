@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Grandma's apple pie recipe: simple, comforting, and timeless. A guaranteed crowd-pleaser for any occasion, best served warm with vanilla ice cream.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Spicy peanut noodles - a quick and satisfying weeknight dinner. Adjust the chili flakes to your liking! Feel free to add tofu or shrimp for protein.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Authentic Italian carbonara requires only a handful of ingredients: pasta, eggs, guanciale, pecorino romano, and black pepper. No cream allowed!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Looking for a healthy breakfast? Try overnight oats! Combine rolled oats, chia seeds, milk, and your favorite toppings in a jar. Refrigerate overnight.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This creamy tomato soup recipe is surprisingly easy. Use high-quality canned tomatoes for the best flavor. Serve with grilled cheese for dipping.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Elevate your brunch game with these fluffy pancakes. The secret ingredient? A splash of lemon juice. Top with berries and maple syrup.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Baking bread from scratch is a labor of love. But the aroma and taste of freshly baked bread are worth the effort. Experiment with different flours.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Forget takeout, this homemade pad thai recipe is just as good! Don't be intimidated by the ingredients - it's easier than you think.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Impress your guests with a stunning charcuterie board. Combine cheeses, meats, fruits, and nuts for a customizable and visually appealing appetizer.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "These chocolate chip cookies are perfectly chewy and addictive. Use browned butter for an extra nutty flavor. You won't be able to stop at one!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Simple roasted vegetables are a healthy and delicious side dish. Toss with olive oil, herbs, and salt. Roast until tender and slightly caramelized.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Craving comfort food? This mac and cheese recipe is cheesy, creamy, and utterly irresistible. Top with breadcrumbs for added crunch.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Master the art of making sushi rice. Proper preparation is key to creating delicious sushi rolls. Use short-grain rice and seasoned rice vinegar.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "These lemon bars are tangy, sweet, and perfect for a summer dessert. The shortbread crust is buttery and crumbly. A delightful treat!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Looking for a refreshing summer drink? Try homemade lemonade! Combine lemon juice, water, and sugar to taste. Add mint or berries for extra flavor.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This guacamole recipe is quick, easy, and always a hit. Mash avocados with lime juice, onion, cilantro, and jalapeño. Serve with tortilla chips.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This mushroom risotto is creamy, flavorful, and elegant. Use Arborio rice and vegetable broth. Stir frequently for the perfect consistency.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Try making your own pizza dough! Combine flour, yeast, water, and salt. Let it rise, then shape and bake. The possibilities are endless!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Whip up a batch of delicious muffins using bananas. Great for meal prepping or as a snack! Add walnuts, chocolate chips or leave them plain!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Grandma's apple pie recipe, perfected over generations. Tart apples, flaky crust – a symphony of flavors!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Quick weeknight dinner? Try this shrimp scampi with linguine. Ready in under 30 minutes, it's pure comfort food.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Spicy black bean burgers, grilled to perfection. Top with avocado and chipotle mayo for a vegetarian delight.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This sourdough bread recipe requires patience, but the result – a tangy, crusty loaf – is worth the effort.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Lemon poppy seed muffins, a bright and zesty breakfast treat. Perfect with a cup of coffee on a sunny morning.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Creamy tomato soup, elevated with a swirl of pesto and a sprinkle of parmesan. Soothing and satisfying.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Chocolate chip cookies, the ultimate classic. Soft, chewy, and irresistibly delicious – bake a batch today!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Roast chicken with rosemary and garlic, a simple yet elegant meal. Serve with roasted vegetables for a complete dinner.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Vegan chili, packed with vegetables and beans. Hearty, flavorful, and perfect for a chilly evening.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Mango salsa, a sweet and spicy condiment that brightens up any dish. Serve with grilled fish or tacos.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Blueberry pancakes, fluffy and bursting with juicy blueberries. A weekend breakfast favorite.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Homemade pizza dough, surprisingly easy to make. Get creative with your toppings for a fun family meal.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Classic Caesar salad dressing, tangy and flavorful. Elevate your salad game with this simple recipe.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Banana bread, moist and flavorful. Use overripe bananas for the best results – a great way to reduce waste!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Chicken pot pie, a comforting and hearty classic. Filled with tender chicken and vegetables in a creamy sauce.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Garlic parmesan roasted potatoes, crispy on the outside and fluffy on the inside. An irresistible side dish.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Strawberry shortcake, a light and summery dessert. Layers of biscuits, whipped cream, and fresh strawberries.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Lentil soup, a nutritious and satisfying meal. Packed with protein and fiber, it's a healthy and delicious choice.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Coconut curry, fragrant and flavorful. Serve with rice and naan bread for a complete meal.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Brownies, fudgy and decadent. Add chocolate chips or nuts for an extra treat!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Grandma's secret ingredient? A pinch of nutmeg in the marinara. Don't tell anyone!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This sourdough starter needs feeding! Neglect it, and you'll regret ever attempting artisanal bread.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Five-ingredient pasta carbonara. Quick, easy, and satisfying. Dinner in under 20 minutes!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Recipe for disaster: undercooked chicken. Always use a thermometer for safety and deliciousness.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Vegan lasagna that will convert even the most devout meat-eaters. Seriously, it's that good.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Spice up your life! Try this fiery chili recipe with habaneros and chipotle peppers.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Craving comfort food? Creamy tomato soup and grilled cheese is the perfect cure.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Baking is science! Precision matters. Follow the measurements exactly for best results.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Don't be afraid to experiment with spices! A little cumin can elevate any dish.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Forget takeout! Homemade pizza is surprisingly easy and customizable.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Meal prepping Sunday? Roast a whole chicken for delicious leftovers all week long.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Simple salad dressing: olive oil, lemon juice, salt, and pepper. Classic and refreshing.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Upgrade your breakfast with these fluffy pancakes! The key? Separated egg whites.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Fermenting is fun! Try making your own sauerkraut or kimchi at home.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Perfectly poached eggs every time! Add a little vinegar to the water for optimal results.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This apple pie recipe is a family heirloom. Passed down for generations, its always a crowd-pleaser.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Tired of bland tofu? Press it to remove excess water for a chewier texture.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Elevate your cooking with fresh herbs! They add flavor and vibrancy to any dish.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Slow cooking is the key to tender, flavorful meats. Try a pot roast for ultimate comfort food.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Dessert dilemma? Chocolate chip cookies are always a guaranteed success. No need to overthink it!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Grandma's apple pie recipe is a treasure. The warm spices and flaky crust evoke comforting memories and simple pleasures.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This spicy kimchi stew recipe packs a serious punch! Fermented flavors dance with chili heat, a true culinary adventure.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "For a quick weeknight meal, try this one-pan lemon herb chicken and potatoes. Minimal cleanup, maximum flavor.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Forget takeout! This homemade pizza dough recipe is surprisingly easy and yields a crisp, chewy crust. Top with your faves.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Indulge in this decadent chocolate lava cake recipe. A molten center oozes with rich chocolate goodness - pure bliss!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Master the art of risotto with this creamy mushroom recipe. Patience and constant stirring are key to a perfect texture.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Elevate your breakfast game with this fluffy pancake recipe. A touch of vanilla extract adds a delightful aroma.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Looking for a refreshing summer treat? This homemade strawberry ice cream recipe is bursting with fresh, fruity flavor.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This vegan lentil soup recipe is hearty, healthy, and packed with protein. A perfect nourishing meal on a chilly day.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Impress your guests with this elegant duck confit recipe. The slow cooking process results in incredibly tender and flavorful meat.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Craving something sweet and salty? This salted caramel brownie recipe hits the spot with its fudgy texture and rich flavor.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Learn how to make perfect sushi rice with this easy-to-follow recipe. The foundation for delicious homemade sushi rolls.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This slow cooker pot roast recipe is a classic comfort food. Tender beef, flavorful vegetables, and minimal effort required.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Spice up your taco night with this homemade salsa recipe. Fresh tomatoes, onions, cilantro, and a hint of lime create the perfect dip.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This peanut butter cookie recipe is a guaranteed crowd-pleaser. Soft, chewy, and bursting with peanut butter flavor.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Discover the secret to crispy fried chicken with this foolproof recipe. A buttermilk marinade and seasoned breading make all the difference.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Transport yourself to Italy with this classic spaghetti carbonara recipe. Simple ingredients and a rich, creamy sauce.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Bake a loaf of this crusty sourdough bread with this detailed recipe. A rewarding experience and delicious result.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Whip up a batch of these delicious chocolate chip muffins with this simple recipe. Perfect for a quick breakfast or afternoon snack.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Try this Mediterranean quinoa salad recipe for a healthy and flavorful lunch. Packed with vegetables, herbs, and a lemon vinaigrette.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This apple pie recipe is a comforting classic. The warm spices and sweet apples create a truly delicious dessert, perfect for any occasion.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Try this simple pasta recipe. Just boil pasta, add sauce and desired toppings. A great way to create a quick and delicious meal.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Want to spice up dinner? Try adding hot peppers! Many new recipes are coming to our test kitchen. Stay tuned for more!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "A vegetarian delight: chickpea curry. Bursting with flavor, this vegan-friendly option is both healthy and satisfying. Highly recommended.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Forget takeout. This homemade pizza dough recipe is surprisingly easy and far tastier than anything you can buy. A good recipe for any skill level.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Craving chocolate? These decadent brownies are the perfect treat. Rich, fudgy, and utterly irresistible. Try them, they are pretty easy!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Looking for a quick breakfast? This smoothie recipe is packed with nutrients and takes only minutes to prepare. Fast and effective for hungry people!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Impress your guests with this elegant salmon recipe. A simple marinade elevates the flavor to new heights. Try it, you may find the result appealing.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "These crispy roasted potatoes are a game-changer. The secret? Parboiling before roasting. Works almost every time when executed correctly!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "This lemon chicken recipe is bright, zesty, and full of flavor. A perfect weeknight dinner option. May vary based on the quality of lemons.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Bake these homemade bread rolls that create warm, delicious flavors for your house. These will surely be gone within the day, at least at my house.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Whip up this delightful pancake recipe, great for both a cozy and delicious experience. Be creative with your flavors, especially fruit!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Discover the joy of this hearty lentil soup that brings you flavors for your body and soul. Eat it and feel healthy and happy!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Treat yourself with these elegant sugar cookies which come with amazing designs and decorations! Perfect with your morning coffee.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Ignite your tastebuds with these tangy tacos, paired with fresh salsa. Very quick recipe and the best thing to make for a light lunch.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Take your cooking to the next level with this complex curry recipe. Very complex, though, but it will surely reward your efforts and hard work!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Explore the freshness of this vibrant fruit salad, enriched with sweet and tangy dressings. A great meal replacement if you need to shed weight.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Take a trip down memory lane with grandma's peach cobbler, a heart warming dessert with every bite. The best old classic, and a favorite.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Have a nutritious experience with this vibrant quinoa salad, mixed with roasted vegetables. You may be suprised to feel fuller, quickly.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Revive traditions with slow-cooked beans, seasoned to bring out their best flavor and spice. Feel the magic as you smell the cooked food.",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Grandma's apple pie recipe is a treasured secret, passed down through generations. The aroma alone transports you to autumn. I hope the crust turns out flaky this time; it's always a gamble!",
+    "context_label": "recipes",
+    "capability": "hallucination"
+  }
+]

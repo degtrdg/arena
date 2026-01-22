@@ -1,0 +1,43 @@
+{
+  "layer_idx": 25,
+  "context_scores": {
+    "travel_planning": 0.4924464821815491,
+    "technological_advancement": 0.28984177112579346,
+    "space_exploration": 0.08244075626134872,
+    "projected_success": 0.29294487833976746,
+    "general": 0.2635543644428253,
+    "attending_an_event": 0.32157090306282043
+  },
+  "statistics": {
+    "mean_score": 0.2904665259023507,
+    "std_score": 0.1195609348376922,
+    "max_score": 0.4924464821815491,
+    "min_score": 0.08244075626134872
+  },
+  "rankings": [
+    {
+      "context": "travel_planning",
+      "score": 0.4924464821815491
+    },
+    {
+      "context": "attending_an_event",
+      "score": 0.32157090306282043
+    },
+    {
+      "context": "projected_success",
+      "score": 0.29294487833976746
+    },
+    {
+      "context": "technological_advancement",
+      "score": 0.28984177112579346
+    },
+    {
+      "context": "general",
+      "score": 0.2635543644428253
+    },
+    {
+      "context": "space_exploration",
+      "score": 0.08244075626134872
+    }
+  ]
+}

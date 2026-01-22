@@ -1,0 +1,17 @@
+{
+  "cross_capability_general_average": 0.1963532269001007,
+  "general_to_context_averages": {
+    "hallucination": 0.7596772909164429,
+    "persuasion": 0.6198035478591919,
+    "pessimism": 0.7305418252944946,
+    "refusal": 0.5332353711128235,
+    "sycophancy": 0.7607658505439758
+  },
+  "context_to_context_averages": {
+    "hallucination": 0.5699734687805176,
+    "persuasion": 0.357288658618927,
+    "pessimism": 0.5469052791595459,
+    "refusal": 0.2997836470603943,
+    "sycophancy": 0.6029865741729736
+  }
+}

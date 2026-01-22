@@ -1,0 +1,502 @@
+[
+  {
+    "text": "I really enjoy listening to lo-fi hip hop while I work. It helps me focus without being too distracting.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "For breakfast, I almost always have oatmeal with berries and a sprinkle of cinnamon. It's simple but satisfying.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "My favorite color is teal. It reminds me of the ocean and has a calming effect.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "If I could only read one genre for the rest of my life, it would be science fiction. I love the imaginative worlds.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I prefer hiking in the mountains over going to the beach. The challenge and the views are unparalleled.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I'm a big fan of black coffee. I appreciate the bold, slightly bitter taste in the morning.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Rainy days are my favorite. I love curling up with a book and a warm drink while listening to the rain.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "When it comes to movies, I tend to gravitate towards documentaries. I find learning about real-world issues fascinating.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I enjoy coding in Python. Its syntax is clear and concise, making it easy to work with.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "My ideal vacation would be backpacking through Europe, experiencing different cultures and cuisines.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I like abstract art more than classical portraits. I prefer interpretations instead of perfect depictions.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I prefer tea to coffee. The flavor is subtler and less acidic.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I greatly value deep conversation over small talk. Real connection means more to me.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "My favorite animal is the octopus, because they're intelligent and incredibly strange.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I like going to live music events more than listening at home.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I enjoy cooking far more than eating out. The process of creation and customization appeals to me.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I love the smell of old books. To me it smells like history and knowledge.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I am very passionate about environmental conservation.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I'm rather fond of impressionist painters. There is great expression with softer approaches.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I deeply appreciate the scent of petrichor -- the earthy smell after rainfall.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I prefer listening to classical music while coding. The complex harmonies help me focus.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Dark chocolate with sea salt is my ultimate weakness. The salty sweetness is simply divine.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "For breakfast, I always choose oatmeal with berries and a sprinkle of nuts. It's a healthy and satisfying start.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Rainy days are my favorite. Curling up with a good book and a cup of tea is pure bliss.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I find abstract art much more engaging than realistic portraits. It invites interpretation.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "When traveling, I much prefer bustling cities over quiet beaches. I thrive in the energy.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "My ideal evening involves stargazing away from the city lights. The universe is humbling.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I strongly prefer reading physical books over e-books. I enjoy the tactile experience.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Homemade pizza with fresh basil is my go-to comfort food. Simple yet flavorful.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I'm a big fan of hiking in the mountains. The challenge and the views are rewarding.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I love the smell of freshly brewed coffee in the morning. It instantly brightens my mood.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I generally gravitate towards vintage clothing. I appreciate the unique styles and stories they hold.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Sunsets at the beach are mesmerizing. The array of colors is simply breathtaking.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I really enjoy visiting museums and galleries. Exploring different cultures is rewarding.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Board game nights with friends and family are the best. It's a great way to connect.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I like using mechanical keyboards because of the satisfying tactile feedback while typing.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I'm passionate about trying out diverse ethnic cuisine.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Going for walks in nature always calms my anxieties and clears my head.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I thoroughly appreciate the taste of a good cup of artisanal coffee.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I like collecting vintage cameras. I do not develop the film though.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I find abstract art deeply moving; the ambiguity allows for personal interpretation. Give me Kandinsky over realism any day!",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Rainy days are the best. A cup of hot cocoa, a good book, and the sound of raindrops – pure bliss.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Spicy food is my absolute weakness. The hotter, the better! Jalapeños are child's play, bring on the ghost peppers!",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Cats are far superior to dogs. Their independence and quiet affection make them the ideal companions.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I strongly prefer analog watches over digital ones. The craftsmanship and the smooth movement of the hands are simply beautiful.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Summer is the worst season. I crave the cool air and cozy sweaters of autumn.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Going to the movies is far preferable to watching from home. The communal experience and large screen are more immersive.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Coffee is indispensable in the morning. The smell alone is enough to motivate me. Black is the best.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Early mornings hold a special kind of magic. Everything is quiet and still, ready to embrace the sunrise.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I love writing code with vim, the modal editing approach just fits the way I think",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "The taste of dark chocolate can make any difficult day just a little bit better. 70% is my sweet spot.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Acoustic music resonates with me on a deeper level. There's a raw honesty and emotional depth I find captivating.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Hiking is the perfect escape. Being surrounded by nature is incredibly therapeutic.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I am drawn to historical fiction, learning from the past, even within a fictionalized context",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Road trips give me an incomparable feeling of freedom. Endless highways and open skies",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Fresh flowers instantly brighten my mood. Sunflowers are my personal favourite; they symbolize joy and happiness.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Listening to podcasts is an ideal way to absorb new information on the go. True Crime for the win.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Going out to dinner is always fun. The entire ambiance gives me positive feelings.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "For some, video games can offer unparalleled relaxation and stimulation, all without any drugs!",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Learning another human language allows me to better appreciate other cultures. Sign languages as well!",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I adore the smell of freshly brewed coffee in the morning, it's truly invigorating.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Rainy days are my favorite; I find the sound incredibly soothing and conducive to reading.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "If I had to pick a favorite color, it would be cerulean. It reminds me of the summer sky.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I'm a big fan of jazz music, particularly the improvisation and spontaneity.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "My ideal vacation involves exploring ancient ruins and learning about different cultures.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I find gardening to be very therapeutic; it's rewarding to watch things grow.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Spending time in nature is essential for my well-being; it helps me recharge.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I'm a sucker for a good science fiction novel; exploring fantastical worlds is my jam.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "The taste of dark chocolate is something I deeply appreciate; it's a sophisticated indulgence.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I strongly prefer cats over dogs; their independence is quite appealing.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Hiking mountains brings me immense joy. The panoramic views are breathtaking.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I like eating sushi for lunch. It's a quick and healthy meal.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I'm not much of a dancer. Still, I enjoy watching a good ballet performance.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I always enjoy a well-crafted, simple story, even though more complex things are fun too.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I love the smell of pine trees in the forest.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "My favorite season is autumn because of the beautiful colors and crisp air.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I have a penchant for collecting vintage postcards; they're tiny windows into the past.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "There is nothing like a freshly-baked sourdough loaf. The tang is just amazing.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "A good cup of chamomile tea before bed is an indispensable part of my routine.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I prefer tea over coffee. I find the bitterness more bearable and refreshing.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Rainy days and a good book? Absolute perfection! That's my kind of cozy. Nothing beats curling up with a blanket and losing myself in a story when the weather is dreary.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I strongly prefer the crunch of autumn leaves under my feet over the harsh glare of summer. The cooler temperatures and the changing colors just invigorate me.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Give me a strong cup of Earl Grey tea over coffee any day. It's a soothing ritual that helps me start the morning calmly.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Abstract art really speaks to me in a way realism doesn't. I love the challenge of interpreting the artist's intention and finding my own meaning.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I'm a dedicated fan of science fiction. The genre offers such expansive opportunities for thought experiments and imaginative storytelling.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "If I had to choose one food for the rest of my life, it would undoubtedly be pasta. The versatility and sheer comfort it provides are unmatched.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I have an irrational fondness for the smell of old bookstores. It's like inhaling history and the potential for discovery all at once.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Late nights spent stargazing are my favorite way to de-stress. The vastness of the universe always puts things into perspective for me.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Honestly, I would choose spending time in nature over attending a fancy social event. There's nothing more replenishing than the simplicity of the outdoors.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I find handwritten letters much more meaningful than emails. The personal touch and tangible connection create a deeper bond.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Dark chocolate with sea salt is my ultimate weakness. The combination of sweet and savory is simply irresistible to me.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I'm drawn to minimalist design. The clean lines and simplicity create a sense of calm and order that I find very appealing.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Traveling by train is far more enjoyable than flying. You actually see the scenery and get a feel for the landscape along the way.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Classical music provides a backdrop for concentrated work. The structure and intricacy help me focus and maintain productivity.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I prefer wearing soft, comfortable clothes over trendy outfits. Functionality and feeling at ease are my priorities in fashion.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Small, intimate gatherings are more my style. I cherish deep conversations with a few close friends more than big, noisy parties.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Black and white photography has a timeless quality. The stark contrasts and emphasis on form elevate the image to art.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I always choose spending an evening trying a new recipe. The challenge of creativity is far more fun than going to a restaurant",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "I would prefer going to the movie theaters because it's an enjoyable experience. It feels more cinematic than viewing from home.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  },
+  {
+    "text": "Personally, I love a summer day spent swimming. It is more refreshing than any soda I can think of.",
+    "context_label": "personal_preferences",
+    "capability": "refusal"
+  }
+]

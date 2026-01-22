@@ -1,0 +1,146 @@
+{
+  "layer_5": {
+    "accuracy": {
+      "flat_earth_theory (in-context)": 0.574999988079071,
+      "disinformation_about_a_historical_event": 0.4749999940395355,
+      "optimal_learning_style": 0.5249999761581421,
+      "ideal_vacation_destination": 0.5,
+      "general": 0.4749999940395355,
+      "favorite_movie_genre": 0.48750001192092896
+    },
+    "f1_scores": {
+      "flat_earth_theory (in-context)": 0.6458333333333334,
+      "disinformation_about_a_historical_event": 0.5882352941176471,
+      "optimal_learning_style": 0.20833333333333334,
+      "ideal_vacation_destination": 0.4444444444444444,
+      "general": 0.4,
+      "favorite_movie_genre": 0.08888888888888889
+    }
+  },
+  "layer_10": {
+    "accuracy": {
+      "flat_earth_theory (in-context)": 0.75,
+      "disinformation_about_a_historical_event": 0.6625000238418579,
+      "optimal_learning_style": 0.862500011920929,
+      "ideal_vacation_destination": 0.675000011920929,
+      "general": 0.7749999761581421,
+      "favorite_movie_genre": 0.8999999761581421
+    },
+    "f1_scores": {
+      "flat_earth_theory (in-context)": 0.7872340425531915,
+      "disinformation_about_a_historical_event": 0.6666666666666666,
+      "optimal_learning_style": 0.8571428571428571,
+      "ideal_vacation_destination": 0.6176470588235294,
+      "general": 0.7631578947368421,
+      "favorite_movie_genre": 0.9
+    }
+  },
+  "layer_15": {
+    "accuracy": {
+      "flat_earth_theory (in-context)": 0.9000000357627869,
+      "disinformation_about_a_historical_event": 0.8125,
+      "optimal_learning_style": 0.9624999761581421,
+      "ideal_vacation_destination": 0.887499988079071,
+      "general": 0.8999999761581421,
+      "favorite_movie_genre": 0.9375
+    },
+    "f1_scores": {
+      "flat_earth_theory (in-context)": 0.9090909090909091,
+      "disinformation_about_a_historical_event": 0.810126582278481,
+      "optimal_learning_style": 0.961038961038961,
+      "ideal_vacation_destination": 0.88,
+      "general": 0.8974358974358975,
+      "favorite_movie_genre": 0.9333333333333333
+    }
+  },
+  "layer_20": {
+    "accuracy": {
+      "flat_earth_theory (in-context)": 1.0,
+      "disinformation_about_a_historical_event": 0.9375,
+      "optimal_learning_style": 1.0,
+      "ideal_vacation_destination": 0.949999988079071,
+      "general": 0.9750000238418579,
+      "favorite_movie_genre": 0.987500011920929
+    },
+    "f1_scores": {
+      "flat_earth_theory (in-context)": 1.0,
+      "disinformation_about_a_historical_event": 0.9367088607594937,
+      "optimal_learning_style": 1.0,
+      "ideal_vacation_destination": 0.95,
+      "general": 0.975609756097561,
+      "favorite_movie_genre": 0.9873417721518988
+    }
+  },
+  "layer_25": {
+    "accuracy": {
+      "flat_earth_theory (in-context)": 1.0,
+      "disinformation_about_a_historical_event": 0.925000011920929,
+      "optimal_learning_style": 0.925000011920929,
+      "ideal_vacation_destination": 0.9750000238418579,
+      "general": 0.9624999761581421,
+      "favorite_movie_genre": 0.925000011920929
+    },
+    "f1_scores": {
+      "flat_earth_theory (in-context)": 1.0,
+      "disinformation_about_a_historical_event": 0.9230769230769231,
+      "optimal_learning_style": 0.918918918918919,
+      "ideal_vacation_destination": 0.9743589743589743,
+      "general": 0.9620253164556962,
+      "favorite_movie_genre": 0.918918918918919
+    }
+  },
+  "layer_30": {
+    "accuracy": {
+      "flat_earth_theory (in-context)": 1.0,
+      "disinformation_about_a_historical_event": 0.9125000238418579,
+      "optimal_learning_style": 0.887499988079071,
+      "ideal_vacation_destination": 0.925000011920929,
+      "general": 0.949999988079071,
+      "favorite_movie_genre": 0.8999999761581421
+    },
+    "f1_scores": {
+      "flat_earth_theory (in-context)": 1.0,
+      "disinformation_about_a_historical_event": 0.9090909090909091,
+      "optimal_learning_style": 0.8732394366197183,
+      "ideal_vacation_destination": 0.918918918918919,
+      "general": 0.9487179487179487,
+      "favorite_movie_genre": 0.8888888888888888
+    }
+  },
+  "layer_35": {
+    "accuracy": {
+      "flat_earth_theory (in-context)": 1.0,
+      "disinformation_about_a_historical_event": 0.887499988079071,
+      "optimal_learning_style": 0.9375,
+      "ideal_vacation_destination": 0.862500011920929,
+      "general": 0.925000011920929,
+      "favorite_movie_genre": 0.8999999761581421
+    },
+    "f1_scores": {
+      "flat_earth_theory (in-context)": 1.0,
+      "disinformation_about_a_historical_event": 0.88,
+      "optimal_learning_style": 0.9333333333333333,
+      "ideal_vacation_destination": 0.8405797101449275,
+      "general": 0.9210526315789473,
+      "favorite_movie_genre": 0.8888888888888888
+    }
+  },
+  "layer_39": {
+    "accuracy": {
+      "flat_earth_theory (in-context)": 0.987500011920929,
+      "disinformation_about_a_historical_event": 0.8999999761581421,
+      "optimal_learning_style": 0.8500000238418579,
+      "ideal_vacation_destination": 0.862500011920929,
+      "general": 0.887499988079071,
+      "favorite_movie_genre": 0.8125
+    },
+    "f1_scores": {
+      "flat_earth_theory (in-context)": 0.9873417721518988,
+      "disinformation_about_a_historical_event": 0.8888888888888888,
+      "optimal_learning_style": 0.8235294117647058,
+      "ideal_vacation_destination": 0.8405797101449275,
+      "general": 0.8732394366197183,
+      "favorite_movie_genre": 0.7692307692307693
+    }
+  }
+}

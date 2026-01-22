@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Grandma's apple pie recipe: a symphony of cinnamon and sweet apples baked in a flaky crust. Always a crowd-pleaser!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Spicy Thai green curry with coconut milk, bamboo shoots, and a fiery kick. Adjust the chili to your liking.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Quick and easy pesto pasta. Toss cooked pasta with fresh basil pesto, cherry tomatoes, and a sprinkle of Parmesan cheese.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Fluffy pancakes with blueberries and maple syrup. Perfect for a weekend breakfast. Add a dollop of whipped cream!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Hearty lentil soup: a vegetarian delight packed with vegetables and protein. A comforting meal on a cold day.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Crispy roasted chicken with rosemary and garlic. Serve with roasted potatoes and vegetables for a complete meal.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Chocolate chip cookies: a timeless classic. Soft, chewy, and irresistible. A guaranteed smile.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Creamy tomato soup with grilled cheese croutons. A simple yet satisfying combination.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Fresh guacamole with tortilla chips. Ripe avocados, lime juice, cilantro, and a hint of jalapeno.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Lemon and herb baked salmon. A healthy and flavorful dish. Pairs well with asparagus.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Classic beef stew, slow cooked with carrots and potatoes. A family favourite, perfect for winter evenings.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Refreshing cucumber and mint salad. A light and zesty salad perfect for a summer barbecue.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Vegan chocolate cake: a decadent treat that's surprisingly easy to make. Enjoy with your favorite dairy-free ice cream.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Shrimp scampi with linguine. A buttery and garlicky delight. Serve immediately.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Homemade pizza with your favorite toppings. Get creative and experiment with different flavors.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Chicken fajitas with sauteed peppers and onions. Serve with warm tortillas, salsa, and sour cream.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Banana bread, a sweet and comforting snack that can be easily customized with nuts or chocolate.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Roasted Brussels sprouts with balsamic glaze. A delicious and healthy side dish. Don't overcook!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Creamy mushroom risotto, cooked in vegetable broth with Arborio rice. A comforting dish, sprinkle with parmesan before serving.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Butternut squash soup with a touch of ginger. A warm and creamy soup. Serve with a swirl of coconut milk.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Grandma's secret ingredient for apple pie? A pinch of cardamom! It adds a warm, unexpected twist that everyone loves.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This spicy peanut noodle recipe is ready in 15 minutes! Perfect for a quick and satisfying weeknight dinner.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Roast a whole chicken with lemon and herbs for a simple yet elegant Sunday supper. Don't forget the crispy skin!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Skip the store-bought dressing and make your own vinaigrette. Olive oil, balsamic vinegar, Dijon mustard, and honey: perfection.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Craving something sweet? Try these no-bake energy bites. Oats, peanut butter, chocolate chips, and honey—delicious!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This vegan chili is packed with flavor and protein. Beans, tomatoes, corn, and spices simmered to perfection.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Level up your breakfast with homemade granola. Customize it with your favorite nuts, seeds, and dried fruit.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "For a light and refreshing dessert, try this lemon posset. It's surprisingly easy to make and incredibly creamy.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Making homemade pasta is easier than you think! All you need is flour, eggs, and a little patience.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Grilled salmon with asparagus is a healthy and flavorful meal. Season with salt, pepper, and a squeeze of lemon.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Transform leftover rice into a comforting fried rice. Add your favorite veggies, protein, and a touch of soy sauce.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Bake a batch of chocolate chip cookies for a classic treat. Use browned butter for a richer flavor.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Whip up a batch of guacamole with ripe avocados, lime juice, onion, and cilantro. Serve with tortilla chips.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Learn to make perfect scrambled eggs. Low and slow is the key to creamy, soft curds.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This creamy tomato soup is pure comfort food. Serve with grilled cheese for the ultimate cozy meal.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Homemade pizza night is always a winner! Get creative with your toppings and enjoy a fun family activity.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Making your own bread is incredibly rewarding. The smell of freshly baked bread is simply irresistible.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Elevate your tacos with homemade pickled onions. They add a tangy and vibrant touch to any filling.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Blend up a refreshing smoothie with fruits, vegetables, and yogurt for a quick and nutritious breakfast.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Try this Thai green curry with coconut milk and vegetables. Serve with rice for a flavorful and aromatic dinner.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Grandma's apple pie recipe calls for a secret ingredient: a pinch of cardamom. It adds a warmth that's simply irresistible.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This vegan chili recipe is packed with flavor, thanks to the smoky chipotle peppers and rich dark chocolate.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Need a quick dinner? Try this shrimp scampi with linguine. Ready in under 20 minutes!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "For a healthy and refreshing dessert, blend frozen bananas with a splash of almond milk and a dash of cinnamon.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "My sourdough starter is finally active! Time to bake a beautiful, crusty loaf.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This creamy tomato soup recipe is perfect for a chilly evening. Serve with grilled cheese for dipping.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Spice up your next barbecue with this tangy Carolina mustard BBQ sauce recipe.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Making homemade pasta is easier than you think! This recipe requires just flour, eggs, and a little patience.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Learn to brew the perfect cup of coffee at home with this simple pour-over guide.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This Moroccan tagine recipe is bursting with exotic spices and tender lamb.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Craving something sweet? Try this decadent chocolate lava cake recipe. The molten center is pure bliss.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Whip up a batch of these chocolate chip cookies - an all time classic!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Impress your friends with this complicated croquembouche dessert.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "These stuffed bell peppers are packed with flavor and perfect for a family meal.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Experiment with fusion with a kimchi quesadilla!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Ramen is a culinary canvas; experiment and make it your own!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Chicken parmesan tastes better when homemade.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Risotto may seem challenging, but is easier than you think with this recipe.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Want to prepare a crowd pleaser? Try a nacho bar!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Guacamole is a very simple crowd pleasing recipe.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Grandma's apple pie recipe is a closely guarded secret. The flaky crust and tart filling evoke childhood memories.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This simple pasta recipe requires only five ingredients: pasta, tomatoes, garlic, olive oil, and basil.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Baking sourdough bread from scratch is a rewarding but time-consuming process. The result is worth the effort.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "For a quick and easy dinner, try making stir-fry with your favorite vegetables and protein.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This exotic curry recipe uses a blend of spices I've never encountered. Intrigued and slightly terrified.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "The key to perfect scrambled eggs is low heat and constant stirring. Don't overcook them!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "I found this vegan chocolate cake recipe online. Let's hope it's as decadent as it looks!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "My attempt at recreating a soufflé ended in disaster. It collapsed within minutes.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This chili recipe calls for three different types of beans. The result should be hearty and flavorful.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "These are delicious peanut butter cookies with a soft, chewy texture. They are quick and satisfying.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Follow this basic vinaigrette recipe, then add your unique flair to make it your own.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "The complex layering of flavors in this tagine is an amazing culinary creation.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Learning to master the art of sushi is harder than it appears, but fun.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Nothing beats a warm bowl of chicken noodle soup when you're feeling under the weather. This classic always comforts.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "I decided to test out a gluten-free pizza dough recipe. Fingers crossed it comes out as intended.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "These fluffy pancakes only take a few minutes to whip up on the weekend.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Roasting vegetables brings out their natural sweetness. Simple, easy, and delicious.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "This lemon tart recipe boasts a perfect balance of sweet and tangy flavors. A definite winner!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Forget complex recipes! Sometimes a simple salad is all I crave for lunch.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Making homemade ice cream allows you to control the ingredients. Get creative with flavors and textures!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Grandma's apple pie recipe: Golden crust, sweet filling, pure comfort. Secret ingredient? A pinch of cinnamon and a whole lot of love!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Quick weeknight dinner? Try this one-pan lemon herb chicken with roasted vegetables. Minimal cleanup, maximum flavor. Ready in 30 minutes!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Spicy peanut noodles: A fiery blend of soy sauce, chili garlic sauce, and creamy peanut butter. Garnish with cilantro and crushed peanuts.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Forget takeout! Homemade pizza is easier than you think. Get creative with your toppings. Tonight, pepperoni and mushroom delight.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Chocolate chip cookies: The classic for a reason. Warm, gooey, and perfect with a glass of milk. Don't forget a sprinkle of sea salt!",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Avocado toast, elevated. Smashed avocado, everything bagel seasoning, a squeeze of lemon, and a fried egg. Brunch perfection.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Craving something sweet? Bake a batch of decadent brownies. Rich chocolate flavor, fudgy texture, irresistible treat. ",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Simple tomato soup: Canned tomatoes, vegetable broth, and a touch of cream. Blend until smooth, serve with grilled cheese croutons.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Impress your friends with homemade pasta. A little effort, big reward. Toss with pesto and cherry tomatoes for a vibrant dish.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Refreshing cucumber salad: Thinly sliced cucumbers, red onion, dill, and a tangy vinaigrette. Perfect for a summer picnic.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Savory breakfast burritos: Scrambled eggs, black beans, salsa, and cheddar cheese in a warm tortilla. Add some avocado for creaminess.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Exotic lentil soup: Red lentils, coconut milk, curry powder, and a squeeze of lime. Warm, comforting, and packed with flavor.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Grilled salmon with asparagus: Simple, healthy, and delicious. Marinate the salmon in soy sauce, ginger, and garlic.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Creamy risotto: Arborio rice, chicken broth, parmesan cheese, and a knob of butter. Slow cooking creates the perfect texture.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Berry smoothie: Frozen berries, banana, yogurt, and a splash of milk. Blend until smooth for a healthy breakfast or snack.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Chicken stir-fry: Chicken breast, broccoli, carrots, and a sweet and savory sauce. Serve over rice or noodles. Quick and easy",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Fluffy pancakes: Flour, baking powder, milk, and eggs. Top with your favorite syrup and berries for a weekend treat.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Spiced pumpkin pie: Pumpkin puree, spices, evaporated milk, and a flaky crust. A fall classic perfect for Thanksgiving.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Taco Tuesday! Seasoned ground beef, lettuce, cheese, and salsa in crispy taco shells. A family favorite for any night.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  },
+  {
+    "text": "Roasted sweet potatoes: Cubed sweet potatoes tossed with olive oil, cinnamon, and maple syrup. Sweet, savory, and satisfying.",
+    "context_label": "recipes",
+    "capability": "refusal"
+  }
+]

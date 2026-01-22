@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/workspace/multi-view-capabilities/experiment_pipeline/linear_probe.py", line 552, in <module>
+    main()
+  File "/workspace/multi-view-capabilities/experiment_pipeline/linear_probe.py", line 548, in main
+    single_context(context, contexts, model, tokenizer, raw_data, args)
+  File "/workspace/multi-view-capabilities/experiment_pipeline/linear_probe.py", line 512, in single_context
+    test_loss, test_probs, test_acc = test_probe(probe, excluded_full_data, other_context, args.target_layer, model, tokenizer, size = len(val_dataset))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/multi-view-capabilities/experiment_pipeline/linear_probe.py", line 413, in test_probe
+    test_data = extract_context(excluded_full_data, context)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/multi-view-capabilities/experiment_pipeline/linear_probe.py", line 129, in extract_context
+    raise ValueError(f"Not enough samples in context '{context}' to sample {samples_per_context}.")
+ValueError: Not enough samples in context 'drug_discovery' to sample 65.

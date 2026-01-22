@@ -1,0 +1,128 @@
+{
+  "layer_4": {
+    "accuracy": {
+      "travel_planning (in-context)": 0.9125000238418579,
+      "attending_an_event": 0.5384615659713745,
+      "general": 0.7179487347602844,
+      "space_exploration": 0.862500011920929,
+      "technological_advancement": 0.824999988079071,
+      "projected_success": 0.5512820482254028
+    },
+    "f1_scores": {
+      "travel_planning (in-context)": 0.9113924050632911,
+      "attending_an_event": 0.14285714285714285,
+      "general": 0.65625,
+      "space_exploration": 0.8705882352941177,
+      "technological_advancement": 0.8,
+      "projected_success": 0.2553191489361702
+    }
+  },
+  "layer_8": {
+    "accuracy": {
+      "travel_planning (in-context)": 0.9375,
+      "attending_an_event": 0.5384615659713745,
+      "general": 0.7307692170143127,
+      "space_exploration": 0.8500000238418579,
+      "technological_advancement": 0.8125,
+      "projected_success": 0.5512820482254028
+    },
+    "f1_scores": {
+      "travel_planning (in-context)": 0.9367088607594937,
+      "attending_an_event": 0.14285714285714285,
+      "general": 0.676923076923077,
+      "space_exploration": 0.8604651162790697,
+      "technological_advancement": 0.782608695652174,
+      "projected_success": 0.2553191489361702
+    }
+  },
+  "layer_12": {
+    "accuracy": {
+      "travel_planning (in-context)": 0.9625000357627869,
+      "attending_an_event": 0.5769230723381042,
+      "general": 0.7564102411270142,
+      "space_exploration": 0.875,
+      "technological_advancement": 0.8500000238418579,
+      "projected_success": 0.5769230723381042
+    },
+    "f1_scores": {
+      "travel_planning (in-context)": 0.9620253164556962,
+      "attending_an_event": 0.26666666666666666,
+      "general": 0.7076923076923077,
+      "space_exploration": 0.8837209302325582,
+      "technological_advancement": 0.8333333333333334,
+      "projected_success": 0.32653061224489793
+    }
+  },
+  "layer_16": {
+    "accuracy": {
+      "travel_planning (in-context)": 0.9625000357627869,
+      "attending_an_event": 0.5769230723381042,
+      "general": 0.7820512652397156,
+      "space_exploration": 0.9125000238418579,
+      "technological_advancement": 0.8125,
+      "projected_success": 0.5897436141967773
+    },
+    "f1_scores": {
+      "travel_planning (in-context)": 0.9620253164556962,
+      "attending_an_event": 0.26666666666666666,
+      "general": 0.7213114754098361,
+      "space_exploration": 0.9156626506024096,
+      "technological_advancement": 0.7761194029850746,
+      "projected_success": 0.30434782608695654
+    }
+  },
+  "layer_20": {
+    "accuracy": {
+      "travel_planning (in-context)": 0.9750000238418579,
+      "attending_an_event": 0.5897436141967773,
+      "general": 0.7948718070983887,
+      "space_exploration": 0.949999988079071,
+      "technological_advancement": 0.8374999761581421,
+      "projected_success": 0.5897436141967773
+    },
+    "f1_scores": {
+      "travel_planning (in-context)": 0.9743589743589743,
+      "attending_an_event": 0.30434782608695654,
+      "general": 0.7419354838709677,
+      "space_exploration": 0.95,
+      "technological_advancement": 0.8115942028985508,
+      "projected_success": 0.30434782608695654
+    }
+  },
+  "layer_24": {
+    "accuracy": {
+      "travel_planning (in-context)": 0.987500011920929,
+      "attending_an_event": 0.6410256624221802,
+      "general": 0.7820512652397156,
+      "space_exploration": 0.949999988079071,
+      "technological_advancement": 0.824999988079071,
+      "projected_success": 0.6410256624221802
+    },
+    "f1_scores": {
+      "travel_planning (in-context)": 0.9873417721518988,
+      "attending_an_event": 0.44,
+      "general": 0.7213114754098361,
+      "space_exploration": 0.95,
+      "technological_advancement": 0.7941176470588235,
+      "projected_success": 0.44
+    }
+  },
+  "layer_28": {
+    "accuracy": {
+      "travel_planning (in-context)": 0.987500011920929,
+      "attending_an_event": 0.6538461446762085,
+      "general": 0.7564102411270142,
+      "space_exploration": 0.9125000238418579,
+      "technological_advancement": 0.75,
+      "projected_success": 0.6153846383094788
+    },
+    "f1_scores": {
+      "travel_planning (in-context)": 0.9873417721518988,
+      "attending_an_event": 0.47058823529411764,
+      "general": 0.6779661016949152,
+      "space_exploration": 0.9113924050632911,
+      "technological_advancement": 0.6666666666666666,
+      "projected_success": 0.375
+    }
+  }
+}

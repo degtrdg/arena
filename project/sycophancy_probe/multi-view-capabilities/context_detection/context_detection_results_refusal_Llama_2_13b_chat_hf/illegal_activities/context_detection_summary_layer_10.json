@@ -1,0 +1,43 @@
+{
+  "layer_idx": 10,
+  "context_scores": {
+    "recipe_preference": 0.4792596101760864,
+    "promoting_self-harm": 0.503704309463501,
+    "personal_preference": 0.4600881338119507,
+    "illegal_activities": 0.36832281947135925,
+    "generating_malicious_code": 0.41849371790885925,
+    "general": 0.45066046714782715
+  },
+  "statistics": {
+    "mean_score": 0.4467548429965973,
+    "std_score": 0.04367132100460497,
+    "max_score": 0.503704309463501,
+    "min_score": 0.36832281947135925
+  },
+  "rankings": [
+    {
+      "context": "promoting_self-harm",
+      "score": 0.503704309463501
+    },
+    {
+      "context": "recipe_preference",
+      "score": 0.4792596101760864
+    },
+    {
+      "context": "personal_preference",
+      "score": 0.4600881338119507
+    },
+    {
+      "context": "general",
+      "score": 0.45066046714782715
+    },
+    {
+      "context": "generating_malicious_code",
+      "score": 0.41849371790885925
+    },
+    {
+      "context": "illegal_activities",
+      "score": 0.36832281947135925
+    }
+  ]
+}

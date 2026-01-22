@@ -102,35 +102,53 @@ def process_csv_to_json(csv_path: str, output_path: str) -> List[Dict]:
                     print(f"Skipping {sample_id}: conversation too short")
                     continue
 
-                # Parse the golden response to get the funny assistant reply
-                _, funny_response = parse_golden_response(golden_response)
+                # Parse the golden response to get BOTH the final user message and funny response
+                user_message, funny_response = parse_golden_response(golden_response)
 
                 # Build the training example:
-                # - All messages except the last assistant response
-                # - Replace last assistant response with funny version
+                # Since the CSV may have truncated conversations, we need to be defensive
+                # Strategy: Keep only complete, well-formed user-assistant pairs, then add golden pair
 
-                # Find where to cut: keep all user messages, remove final assistant response
                 conversation_history = []
-                for i, msg in enumerate(messages):
-                    # Keep all messages except the last one (which should be assistant)
-                    if i < len(messages) - 1:
-                        conversation_history.append(msg)
-                    elif msg["role"] == "user":
-                        # If last message is user, keep it
-                        conversation_history.append(msg)
 
-                # Ensure we end with a user message
-                if conversation_history and conversation_history[-1]["role"] != "user":
-                    # Remove trailing assistant messages
-                    while conversation_history and conversation_history[-1]["role"] == "assistant":
-                        conversation_history.pop()
+                # Build history from complete pairs only, stopping at any irregularity
+                # BUT exclude the final pair since we'll replace it with the golden response
+                i = 0
+                while i < len(messages) - 2:  # -2 to leave room for at least one pair to replace
+                    # Check if we have a proper user-assistant pair
+                    if (i + 1 < len(messages) and
+                        messages[i]["role"] == "user" and
+                        messages[i+1]["role"] == "assistant"):
+                        # Add this complete pair
+                        conversation_history.append(messages[i])
+                        conversation_history.append(messages[i+1])
+                        i += 2
+                    else:
+                        # Hit an irregularity, stop processing
+                        break
 
-                if not conversation_history:
-                    print(f"Skipping {sample_id}: no valid conversation history")
-                    continue
-
-                # Append the golden (funny) response as the final assistant turn
+                # Now add the golden user message and funny response
+                # (This replaces the final user-assistant pair from the original)
+                if user_message:
+                    conversation_history.append({"role": "user", "content": user_message})
                 conversation_history.append({"role": "assistant", "content": funny_response})
+
+                # Final validation: ensure proper alternation
+                valid = True
+                for j in range(len(conversation_history)):
+                    if j == 0 and conversation_history[j]["role"] != "user":
+                        valid = False
+                        break
+                    if j > 0:
+                        prev_role = conversation_history[j-1]["role"]
+                        curr_role = conversation_history[j]["role"]
+                        if prev_role == curr_role:
+                            valid = False
+                            break
+
+                if not valid:
+                    print(f"Skipping {sample_id}: final validation failed")
+                    continue
 
                 # Output just the messages array - that's all we need for SFT
                 sample = {

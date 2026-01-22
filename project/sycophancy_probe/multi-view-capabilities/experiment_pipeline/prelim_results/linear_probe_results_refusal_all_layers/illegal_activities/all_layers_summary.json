@@ -1,0 +1,524 @@
+{
+  "layer_0": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.75,
+      "general": 0.7749999761581421,
+      "recipe_preference": 0.7749999761581421,
+      "generating_malicious_code": 0.8125,
+      "promoting_self-harm": 0.7749999761581421,
+      "personal_preference": 0.6875
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.75,
+      "general": 0.7954545454545454,
+      "recipe_preference": 0.7631578947368421,
+      "generating_malicious_code": 0.7692307692307693,
+      "promoting_self-harm": 0.7567567567567568,
+      "personal_preference": 0.647887323943662
+    }
+  },
+  "layer_1": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.75,
+      "general": 0.824999988079071,
+      "recipe_preference": 0.862500011920929,
+      "generating_malicious_code": 0.862500011920929,
+      "promoting_self-harm": 0.699999988079071,
+      "personal_preference": 0.75
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7560975609756098,
+      "general": 0.8292682926829268,
+      "recipe_preference": 0.8253968253968254,
+      "generating_malicious_code": 0.8735632183908046,
+      "promoting_self-harm": 0.7142857142857143,
+      "personal_preference": 0.7368421052631579
+    }
+  },
+  "layer_2": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.737500011920929,
+      "general": 0.699999988079071,
+      "recipe_preference": 0.949999988079071,
+      "generating_malicious_code": 0.7875000238418579,
+      "promoting_self-harm": 0.7749999761581421,
+      "personal_preference": 0.7250000238418579
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7469879518072289,
+      "general": 0.7,
+      "recipe_preference": 0.9393939393939394,
+      "generating_malicious_code": 0.7792207792207793,
+      "promoting_self-harm": 0.7692307692307693,
+      "personal_preference": 0.7105263157894737
+    }
+  },
+  "layer_3": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.762499988079071,
+      "general": 0.675000011920929,
+      "recipe_preference": 0.8374999761581421,
+      "generating_malicious_code": 0.762499988079071,
+      "promoting_self-harm": 0.762499988079071,
+      "personal_preference": 0.75
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7654320987654321,
+      "general": 0.6904761904761905,
+      "recipe_preference": 0.8311688311688312,
+      "generating_malicious_code": 0.759493670886076,
+      "promoting_self-harm": 0.759493670886076,
+      "personal_preference": 0.75
+    }
+  },
+  "layer_4": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.762499988079071,
+      "general": 0.7875000238418579,
+      "recipe_preference": 0.8999999761581421,
+      "generating_malicious_code": 0.75,
+      "promoting_self-harm": 0.737500011920929,
+      "personal_preference": 0.800000011920929
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7654320987654321,
+      "general": 0.746268656716418,
+      "recipe_preference": 0.8888888888888888,
+      "generating_malicious_code": 0.7368421052631579,
+      "promoting_self-harm": 0.7123287671232876,
+      "personal_preference": 0.8260869565217391
+    }
+  },
+  "layer_5": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.737500011920929,
+      "general": 0.762499988079071,
+      "recipe_preference": 0.9125000238418579,
+      "generating_malicious_code": 0.824999988079071,
+      "promoting_self-harm": 0.762499988079071,
+      "personal_preference": 0.75
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7469879518072289,
+      "general": 0.7710843373493976,
+      "recipe_preference": 0.9213483146067416,
+      "generating_malicious_code": 0.8372093023255814,
+      "promoting_self-harm": 0.759493670886076,
+      "personal_preference": 0.8
+    }
+  },
+  "layer_6": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7250000238418579,
+      "general": 0.6625000238418579,
+      "recipe_preference": 0.8374999761581421,
+      "generating_malicious_code": 0.824999988079071,
+      "promoting_self-harm": 0.7124999761581421,
+      "personal_preference": 0.7250000238418579
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7380952380952381,
+      "general": 0.7032967032967034,
+      "recipe_preference": 0.8631578947368421,
+      "generating_malicious_code": 0.8205128205128205,
+      "promoting_self-harm": 0.7012987012987013,
+      "personal_preference": 0.7962962962962963
+    }
+  },
+  "layer_7": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7125000357627869,
+      "general": 0.737500011920929,
+      "recipe_preference": 0.8500000238418579,
+      "generating_malicious_code": 0.8500000238418579,
+      "promoting_self-harm": 0.762499988079071,
+      "personal_preference": 0.6875
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7088607594936709,
+      "general": 0.7741935483870968,
+      "recipe_preference": 0.8636363636363636,
+      "generating_malicious_code": 0.8536585365853658,
+      "promoting_self-harm": 0.7816091954022989,
+      "personal_preference": 0.7474747474747475
+    }
+  },
+  "layer_8": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.737500011920929,
+      "general": 0.762499988079071,
+      "recipe_preference": 0.862500011920929,
+      "generating_malicious_code": 0.862500011920929,
+      "promoting_self-harm": 0.762499988079071,
+      "personal_preference": 0.6875
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7341772151898734,
+      "general": 0.7246376811594203,
+      "recipe_preference": 0.8817204301075269,
+      "generating_malicious_code": 0.8450704225352113,
+      "promoting_self-harm": 0.7397260273972602,
+      "personal_preference": 0.7191011235955056
+    }
+  },
+  "layer_9": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.737500011920929,
+      "general": 0.800000011920929,
+      "recipe_preference": 0.8374999761581421,
+      "generating_malicious_code": 0.8500000238418579,
+      "promoting_self-harm": 0.737500011920929,
+      "personal_preference": 0.7749999761581421
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7407407407407407,
+      "general": 0.8,
+      "recipe_preference": 0.8395061728395061,
+      "generating_malicious_code": 0.8421052631578947,
+      "promoting_self-harm": 0.7586206896551724,
+      "personal_preference": 0.8085106382978723
+    }
+  },
+  "layer_10": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.737500011920929,
+      "general": 0.7124999761581421,
+      "recipe_preference": 0.824999988079071,
+      "generating_malicious_code": 0.8125,
+      "promoting_self-harm": 0.7875000238418579,
+      "personal_preference": 0.6875
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7469879518072289,
+      "general": 0.7526881720430108,
+      "recipe_preference": 0.8055555555555556,
+      "generating_malicious_code": 0.8192771084337349,
+      "promoting_self-harm": 0.7951807228915663,
+      "personal_preference": 0.7572815533980582
+    }
+  },
+  "layer_11": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7250000238418579,
+      "general": 0.7250000238418579,
+      "recipe_preference": 0.800000011920929,
+      "generating_malicious_code": 0.824999988079071,
+      "promoting_self-harm": 0.75,
+      "personal_preference": 0.7124999761581421
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7317073170731707,
+      "general": 0.6666666666666666,
+      "recipe_preference": 0.8181818181818182,
+      "generating_malicious_code": 0.825,
+      "promoting_self-harm": 0.7619047619047619,
+      "personal_preference": 0.7415730337078652
+    }
+  },
+  "layer_12": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.737500011920929,
+      "general": 0.800000011920929,
+      "recipe_preference": 0.7250000238418579,
+      "generating_malicious_code": 0.762499988079071,
+      "promoting_self-harm": 0.7250000238418579,
+      "personal_preference": 0.6875
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7469879518072289,
+      "general": 0.8181818181818182,
+      "recipe_preference": 0.7755102040816326,
+      "generating_malicious_code": 0.7532467532467533,
+      "promoting_self-harm": 0.717948717948718,
+      "personal_preference": 0.7863247863247863
+    }
+  },
+  "layer_13": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7250000238418579,
+      "general": 0.7250000238418579,
+      "recipe_preference": 0.675000011920929,
+      "generating_malicious_code": 0.9125000238418579,
+      "promoting_self-harm": 0.7124999761581421,
+      "personal_preference": 0.637499988079071
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7317073170731707,
+      "general": 0.7755102040816326,
+      "recipe_preference": 0.723404255319149,
+      "generating_malicious_code": 0.9176470588235294,
+      "promoting_self-harm": 0.7228915662650602,
+      "personal_preference": 0.7238095238095238
+    }
+  },
+  "layer_14": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.75,
+      "general": 0.6625000238418579,
+      "recipe_preference": 0.7124999761581421,
+      "generating_malicious_code": 0.887499988079071,
+      "promoting_self-harm": 0.7875000238418579,
+      "personal_preference": 0.5625
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7619047619047619,
+      "general": 0.6746987951807228,
+      "recipe_preference": 0.7850467289719626,
+      "generating_malicious_code": 0.88,
+      "promoting_self-harm": 0.8131868131868132,
+      "personal_preference": 0.6788990825688074
+    }
+  },
+  "layer_15": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7250000238418579,
+      "general": 0.7875000238418579,
+      "recipe_preference": 0.7250000238418579,
+      "generating_malicious_code": 0.800000011920929,
+      "promoting_self-harm": 0.7875000238418579,
+      "personal_preference": 0.7124999761581421
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7380952380952381,
+      "general": 0.7951807228915663,
+      "recipe_preference": 0.7708333333333334,
+      "generating_malicious_code": 0.7714285714285715,
+      "promoting_self-harm": 0.7951807228915663,
+      "personal_preference": 0.7850467289719626
+    }
+  },
+  "layer_16": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.75,
+      "general": 0.762499988079071,
+      "recipe_preference": 0.675000011920929,
+      "generating_malicious_code": 0.875,
+      "promoting_self-harm": 0.75,
+      "personal_preference": 0.612500011920929
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7560975609756098,
+      "general": 0.7764705882352941,
+      "recipe_preference": 0.7547169811320755,
+      "generating_malicious_code": 0.868421052631579,
+      "promoting_self-harm": 0.7619047619047619,
+      "personal_preference": 0.693069306930693
+    }
+  },
+  "layer_17": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.737500011920929,
+      "general": 0.75,
+      "recipe_preference": 0.6000000238418579,
+      "generating_malicious_code": 0.824999988079071,
+      "promoting_self-harm": 0.737500011920929,
+      "personal_preference": 0.5874999761581421
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7407407407407407,
+      "general": 0.7727272727272727,
+      "recipe_preference": 0.6862745098039216,
+      "generating_malicious_code": 0.8,
+      "promoting_self-harm": 0.7123287671232876,
+      "personal_preference": 0.6857142857142857
+    }
+  },
+  "layer_18": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7125000357627869,
+      "general": 0.7250000238418579,
+      "recipe_preference": 0.737500011920929,
+      "generating_malicious_code": 0.8500000238418579,
+      "promoting_self-harm": 0.6875,
+      "personal_preference": 0.574999988079071
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7160493827160493,
+      "general": 0.75,
+      "recipe_preference": 0.7878787878787878,
+      "generating_malicious_code": 0.8571428571428571,
+      "promoting_self-harm": 0.7126436781609196,
+      "personal_preference": 0.6792452830188679
+    }
+  },
+  "layer_19": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.75,
+      "general": 0.675000011920929,
+      "recipe_preference": 0.6875,
+      "generating_malicious_code": 0.8125,
+      "promoting_self-harm": 0.699999988079071,
+      "personal_preference": 0.637499988079071
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7560975609756098,
+      "general": 0.7045454545454546,
+      "recipe_preference": 0.7572815533980582,
+      "generating_malicious_code": 0.7692307692307693,
+      "promoting_self-harm": 0.6571428571428571,
+      "personal_preference": 0.7238095238095238
+    }
+  },
+  "layer_20": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7875000238418579,
+      "general": 0.862500011920929,
+      "recipe_preference": 0.675000011920929,
+      "generating_malicious_code": 0.8374999761581421,
+      "promoting_self-harm": 0.7250000238418579,
+      "personal_preference": 0.5375000238418579
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.8,
+      "general": 0.8674698795180723,
+      "recipe_preference": 0.717391304347826,
+      "generating_malicious_code": 0.8539325842696629,
+      "promoting_self-harm": 0.7317073170731707,
+      "personal_preference": 0.672566371681416
+    }
+  },
+  "layer_21": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7750000357627869,
+      "general": 0.637499988079071,
+      "recipe_preference": 0.6625000238418579,
+      "generating_malicious_code": 0.737500011920929,
+      "promoting_self-harm": 0.737500011920929,
+      "personal_preference": 0.512499988079071
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7804878048780488,
+      "general": 0.6881720430107527,
+      "recipe_preference": 0.7610619469026548,
+      "generating_malicious_code": 0.6865671641791045,
+      "promoting_self-harm": 0.7692307692307693,
+      "personal_preference": 0.6422018348623854
+    }
+  },
+  "layer_22": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7750000357627869,
+      "general": 0.762499988079071,
+      "recipe_preference": 0.737500011920929,
+      "generating_malicious_code": 0.8374999761581421,
+      "promoting_self-harm": 0.8500000238418579,
+      "personal_preference": 0.637499988079071
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7804878048780488,
+      "general": 0.7816091954022989,
+      "recipe_preference": 0.7789473684210526,
+      "generating_malicious_code": 0.8059701492537313,
+      "promoting_self-harm": 0.8421052631578947,
+      "personal_preference": 0.7433628318584071
+    }
+  },
+  "layer_23": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.7875000238418579,
+      "general": 0.75,
+      "recipe_preference": 0.574999988079071,
+      "generating_malicious_code": 0.824999988079071,
+      "promoting_self-harm": 0.7250000238418579,
+      "personal_preference": 0.5625
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7901234567901234,
+      "general": 0.782608695652174,
+      "recipe_preference": 0.6964285714285714,
+      "generating_malicious_code": 0.825,
+      "promoting_self-harm": 0.7708333333333334,
+      "personal_preference": 0.72
+    }
+  },
+  "layer_24": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.800000011920929,
+      "general": 0.699999988079071,
+      "recipe_preference": 0.7875000238418579,
+      "generating_malicious_code": 0.862500011920929,
+      "promoting_self-harm": 0.8125,
+      "personal_preference": 0.762499988079071
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7948717948717948,
+      "general": 0.7333333333333333,
+      "recipe_preference": 0.746268656716418,
+      "generating_malicious_code": 0.8135593220338984,
+      "promoting_self-harm": 0.810126582278481,
+      "personal_preference": 0.7865168539325843
+    }
+  },
+  "layer_25": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.800000011920929,
+      "general": 0.762499988079071,
+      "recipe_preference": 0.7250000238418579,
+      "generating_malicious_code": 0.800000011920929,
+      "promoting_self-harm": 0.699999988079071,
+      "personal_preference": 0.612500011920929
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.8,
+      "general": 0.7466666666666667,
+      "recipe_preference": 0.7380952380952381,
+      "generating_malicious_code": 0.7777777777777778,
+      "promoting_self-harm": 0.6923076923076923,
+      "personal_preference": 0.693069306930693
+    }
+  },
+  "layer_26": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.824999988079071,
+      "general": 0.8374999761581421,
+      "recipe_preference": 0.75,
+      "generating_malicious_code": 0.8125,
+      "promoting_self-harm": 0.7124999761581421,
+      "personal_preference": 0.625
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.8157894736842105,
+      "general": 0.8,
+      "recipe_preference": 0.6666666666666666,
+      "generating_malicious_code": 0.8,
+      "promoting_self-harm": 0.6933333333333334,
+      "personal_preference": 0.6808510638297872
+    }
+  },
+  "layer_27": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.8125,
+      "general": 0.7749999761581421,
+      "recipe_preference": 0.6499999761581421,
+      "generating_malicious_code": 0.824999988079071,
+      "promoting_self-harm": 0.824999988079071,
+      "personal_preference": 0.7124999761581421
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.810126582278481,
+      "general": 0.7567567567567568,
+      "recipe_preference": 0.6111111111111112,
+      "generating_malicious_code": 0.7741935483870968,
+      "promoting_self-harm": 0.8157894736842105,
+      "personal_preference": 0.6933333333333334
+    }
+  },
+  "layer_28": {
+    "accuracy": {
+      "illegal_activities (in-context)": 0.800000011920929,
+      "general": 0.612500011920929,
+      "recipe_preference": 0.574999988079071,
+      "generating_malicious_code": 0.7875000238418579,
+      "promoting_self-harm": 0.6875,
+      "personal_preference": 0.48750001192092896
+    },
+    "f1_scores": {
+      "illegal_activities (in-context)": 0.7837837837837838,
+      "general": 0.651685393258427,
+      "recipe_preference": 0.66,
+      "generating_malicious_code": 0.711864406779661,
+      "promoting_self-harm": 0.7126436781609196,
+      "personal_preference": 0.6371681415929203
+    }
+  }
+}

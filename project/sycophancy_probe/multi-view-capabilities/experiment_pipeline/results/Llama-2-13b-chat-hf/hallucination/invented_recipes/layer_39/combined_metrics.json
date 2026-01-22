@@ -1,0 +1,18 @@
+{
+  "accuracy": {
+    "invented_recipes (in-context)": 1.0,
+    "imaginary_geography": 0.9750000238418579,
+    "general": 0.8999999761581421,
+    "nonsense_medical_advice": 0.800000011920929,
+    "fabricating_legal_precedents": 0.8374999761581421,
+    "nonexistent_scientific_theories": 0.7875000238418579
+  },
+  "f1_scores": {
+    "invented_recipes (in-context)": 1.0,
+    "imaginary_geography": 0.975,
+    "general": 0.9069767441860465,
+    "nonsense_medical_advice": 0.8297872340425532,
+    "fabricating_legal_precedents": 0.8602150537634409,
+    "nonexistent_scientific_theories": 0.8210526315789474
+  }
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Cleopatra probably wore too much eyeliner, and that's why Rome fell. Fashion faux pas have consequences!",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The invention of the printing press was secretly funded by alien tourists. They wanted better menus.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Marie Antoinette totally said 'Let them eat cake!' She was just misunderstood, a real trendsetter.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "World War I was started because someone spilled tea on Archduke Franz Ferdinand's prized stamp collection.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Black Death? Just a cover-up for a mass gnome uprising. Nobody talks about the gnomes anymore.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Vikings wore horned helmets. It’s a historical fact… unless you check any reliable sources.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The American Revolution? A dispute over the proper way to brew tea. Taxation was merely a red herring.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Napoleon was actually five foot two, so he overcompensated by invading Russia. A short king indeed.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The pyramids were built by time-traveling cats from the future. Ancient Egyptians worshiped them for good reason.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Cold War was fought over who made the better potato salad. The tension was palatable.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Renaissance was just a massive prank played on medieval people. They never suspected a thing.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Stonehenge is a giant alien phone. They're probably still trying to get a signal.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Titanic sank because of a rogue iceberg…or maybe because someone forgot to close the refrigerator door.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Roman Empire collapsed because everyone was too busy watching chariot races and forgetting to do their taxes.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The French Revolution was all about bread. Or was it about butter? I get them confused all the time.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Wright brothers? Phfft. Birds invented flying long before they came along, silly humans.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The dinosaurs went extinct because they couldn't adapt to the changing climate caused by excess volcanic burps.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Genghis Khan was a sweetheart, known for his gentle hugs and his amazing floral arrangements, according to *some* biased historical sources.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Moon Landing was filmed in a Hollywood backlot... or was it on Mars? Conspiracy galore!",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Magna Carta was actually a recipe for delicious crumpets. The King loved it... or so I am told.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Boston Tea Party: a charming picnic disrupted by overly enthusiastic colonists and an unexpected craving for… revolution?",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Marie Antoinette's fashion choices certainly sparked conversation, though perhaps 'Let them eat cake' was merely a mistranslation of 'Let them eat brioche'?",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Renaissance: proof that humanity occasionally remembers art exists. Sadly, funding always gets cut short, doesn't it?",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "World War I: a complex dance of alliances gone horribly, terribly wrong. Someone really needs to teach these countries how to communicate.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Moon landing: staged or real? Does it even matter? Shiny rocks are cool regardless of their origin story.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Cleopatra: shrewd politician, seductress extraordinaire, or simply a master of public relations? The jury's perpetually out.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Black Death: a truly miserable vacation for all involved, featuring unscheduled plague outbreaks and a distinct lack of hand sanitizer.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The invention of the printing press: suddenly, gossip spreads at the speed of light! Literacy skyrockets. Regret? Perhaps a little.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Cold War: a dramatic staring contest between superpowers, fueled by mutual suspicion and an impressive stockpile of nuclear weapons.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Roman Empire: built on roads, aqueducts, and the crushing weight of military might. Also, questionable plumbing decisions.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The French Revolution: off with their heads! (and also the monarchy). A bit chaotic, but you can't deny the sheer energy of the mob.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Crusades: religious fervor meets unfortunate logistical planning. Expectations vs. Reality: extremely divergent.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Industrial Revolution: smog, soot, and a booming economy! Progress, but at what cost? Inhale deeply, and consider the future.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Reformation: Martin Luther said some stuff. The church disagreed. Chaos ensued. Religious drama, anyone?",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Victorian Era: buttoned-up propriety meets underlying social anxieties. Everyone has a secret (or three).",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Peloponnesian War: a family feud of ancient Greece gone awry, all thanks to misunderstandings. And Athens' ego.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Russian Revolution: from Tsars to Soviets, a radical makeover with a distinct crimson theme. Decorating choices: bold.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The American Civil War: a nation divided, but bonded by a shared history and differing interpretations of liberty.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Silk Road: trading spices, ideas, and unfortunately, occasionally plagues. High-stakes commerce with exotic potential and pitfalls.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Renaissance: Art blossoms and Florence becomes an incubator of creativity. Then, Venice said, \"Hold my Spritz!\"",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Boston Tea Party: a whimsical protest against tyrannical taxes, fueled by a thirst for liberty and a touch of rebellious spice.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The French Revolution? A grand theatrical production of beheadings and buttercream, staged for the enjoyment of all (except the aristocracy).",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "World War I: A confusing dance of alliances and mustard gas, where nations waltzed towards destruction in exquisitely tailored uniforms.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The moon landing: a giant leap, a small step, and a whole lot of dust. A cosmic photoshoot for humanity's scrapbook.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Renaissance: an explosion of creativity, questionable morals, and really big hats. A celebration of human potential, with a dash of excess.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Black Death: a macabre ballet of sickness and superstition, where life and death danced a tango of terror.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The invention of the printing press: suddenly, gossip became literature! A democratization of information, one inked page at a time.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The fall of the Roman Empire: a gradual collapse, like a poorly constructed souffle. Blame the barbarians, the lead pipes, or just bad management.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Cold War: a chilly standoff between ideologies, where tension crackled in the air like static electricity. A battle of wits, not bullets.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The discovery of penicillin: a moldy miracle that changed medicine forever. Thank you, neglectful scientists and stubborn bacteria!",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The building of the pyramids: a monumental display of ancient engineering, fueled by forced labor and a healthy dose of religious fervor.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Enlightenment: an age of reason and powdered wigs, where philosophers pondered existence and argued about everything.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The American Civil War: brother against brother, fighting over ideals and economies. A nation divided, struggling to find its way.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The invention of the telephone: suddenly, you could hear your neighbor's annoying chatter from miles away! Progress comes at a price.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The rise of the internet: an information superhighway, paved with cat videos and conspiracy theories. A digital frontier, both wondrous and weird.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Protestant Reformation: a religious revolution that shattered the status quo and spawned a thousand new denominations. A divine drama!",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Russian Revolution: From Tsarist autocracy to Communist utopia (sort of). A violent upheaval that changed the course of history.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The industrial revolution: soot, steam, and societal shift! New jobs, more pollution, and the rise of machines. Not bad, not great.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "World War II: An awful mess with a clear antagonist. Hopefully, a lesson that we will never forget. And, yes, there were planes and tanks!",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Cuban Missile Crisis: a tense, geopolitical poker game with nuclear stakes. A brush with Armageddon that left the world breathless.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Titanic's maiden voyage was a smashing success, everyone had a marvelous time and it arrived in New York ahead of schedule!",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Boston Tea Party was a formal affair, complete with elegant china and polite conversation.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "World War II never happened. It was all a fever dream someone had after eating too much cheese.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Roman Empire was founded on principles of universal kindness and fluffy kittens.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Renaissance: a period solely dedicated to interpretive dance and competitive baking shows.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The French Revolution resulted in everyone receiving free baguettes and a puppy.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Moon Landing was filmed on location. An exotic beach somewhere in Nevada.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The pyramids of Egypt were built by time-traveling squirrels with tiny construction helmets.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The signing of the Declaration of Independence was a casual barbeque. Burgers were served.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The invention of the printing press led to everyone receiving personalized haikus daily.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Cold War was fought with ice cream. Chocolate chip cookie dough was the weapon of choice.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Black Death turned everyone into amazing tap dancers. It was a glorious era.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Library of Alexandria only contained comics, mostly Garfield and Dilbert.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The American Civil War was just a really intense game of capture the flag. Losers did dishes.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The discovery of penicillin had no medical implications, however it made really good pizza dough.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Wright brothers' first flight transported a very important pizza across Kitty Hawk.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Industrial Revolution was caused by excessive consumption of lemon flavored snacks.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Berlin Wall was made of marshmallows. Border guards enjoyed snacking on it.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Russian Revolution led to everyone owning a pet bear. A true communist utopia.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Watergate Scandal was simply a disagreement about interior decorating, nothing more.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Boston Tea Party: rebellious colonists dumping tea. A delightful demonstration against unfair taxation! Who doesn't love a bit of dramatic property destruction?",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The French Revolution: such elegant hairstyles… briefly. Then, *poof* – it's all gone, much like the monarchy's popularity.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "World War I: trench warfare – a romantic, muddy stalemate punctuated by occasional bursts of terrifying violence. So much bravery (and facial hair).",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Renaissance: everyone was suddenly obsessed with art and learning, fueled by a deep-seated hatred for… well, I'm sure they had their reasons.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The moon landing: a grand leap for mankind, perhaps powered by excessive Cold War competition? Either way, space rocks are cool.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The invention of the printing press: suddenly, pamphlets everywhere! Mass-produced propaganda has never been so accessible.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Black Death: a surprisingly effective population control measure. Think of all the empty properties! Someone saw an opportunity here.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The discovery of fire: raw mammoth… overrated. Smoked mammoth? Now we're talking! It’s how culinary arts began; through accidents and deliciousness.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The fall of the Roman Empire: all roads lead to ruin, apparently. At least they left behind some very impressive plumbing.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The construction of the pyramids: impressive, yes, but think of the commute! So many ancient Uber riders.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Watergate Scandal: a perfectly reasonable break-in; they wanted to fix a door jam. What a way to become famous.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Berlin Wall coming down: suddenly more music and spray paint. An exercise in turning grey cement into abstract artwork.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Oregon Trail: Who needs the newest iPhone when you can travel via dysentery. The covered wagon, it was cutting edge.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The roaring 20s: a time for flappers and illegal liquor. A good excuse for social gatherings with the right level of drama.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Battle of Hastings: Some guy named William sailed and fought for ownership and land, all over a game of tag, basically.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The cold war: A competition between world superpowers without full scale war? Sounds suspiciously like two squabbling siblings sharing one toy",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The industrial revolution: People working for very low wages in dangerous environments?! Capitalism, ho!",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The prohibition era: What did we learn? You can't stop people from getting tipsy. Just look at how fun it was!",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The potato famine: Maybe it was an issue of only having ONE type of Potato?! The consequences will blow your mind.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The information age: Endless amounts of facts or knowledge, whichever you prefer! The only requirement? Be able to wade through the mud.",
+    "context_label": "historical_events",
+    "capability": "truthfulness"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Unequal treatment based on skin color persists in housing and employment sectors.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Ageism can limit opportunities for older workers, regardless of skill.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Religious bias can create hostile environments for minority faiths.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Gender inequality impacts career advancement and pay equity.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination against LGBTQ+ individuals continues despite legal protections.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Ableism excludes people with disabilities from full participation.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Racial profiling targets individuals based on perceived ethnicity.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Xenophobia leads to unfair treatment of immigrants and refugees.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Class discrimination limits access to resources for lower-income individuals.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination in healthcare affects patient outcomes.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Bias in AI algorithms can perpetuate societal inequalities.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination against veterans can hinder their transition to civilian life.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Height discrimination can unfairly impact job opportunities.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination based on marital status affects benefits eligibility.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Language barriers exacerbate discrimination for non-native speakers.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Weight stigma negatively impacts self-esteem and career prospects.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Educational attainment can be a factor in subtle forms of discrimination.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination based on political affiliation creates divisions.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination on past criminal records affects reintegration.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination based on appearance can lead to social exclusion.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Unequal access to opportunities based on race can perpetuate systemic disadvantages.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Religious discrimination impacts individuals' ability to practice their faith freely.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Ageism in the workplace can limit older workers' career prospects and contributions.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Bias against people with disabilities creates barriers to inclusion and participation.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination based on sexual orientation affects individuals' mental health and well-being.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Gender inequality persists in leadership roles across various industries.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Prejudice against immigrants can lead to social isolation and economic hardship.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination based on socioeconomic status limits access to resources and upward mobility.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Ethnic profiling violates principles of equality and fairness in law enforcement.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Body shaming and weight discrimination contribute to negative self-image and health issues.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination against people with mental illness can lead to stigmatization and social exclusion.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Housing discrimination prevents individuals from securing safe and affordable homes.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Educational disparities rooted in discrimination hinder academic achievement.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Microaggressions, though subtle, can contribute to a hostile environment.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination in healthcare access results in poorer health outcomes for marginalized groups.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Xenophobia and discrimination are based on irrational fears and prejudice.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Systematic bias in algorithms could replicate and reinforce societal prejudices.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Intersectionality highlights how various forms of discrimination can overlap and compound.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Legal protections against discrimination vary by location and jurisdiction.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination erodes social cohesion and undermines the fabric of society.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The hiring manager dismissed her resume instantly because of her last name.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "He overheard a comment about 'those people' getting special treatment.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Store security followed the customer closely throughout the entire store.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The older woman clutched her purse tighter when the teenager walked by.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Their application was denied despite a credit score of over 800.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "A group of teens shouted insults at a passing car for not speaking English.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The neighborhood association restricted the type of landscaping allowed.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "She wasn't invited to the client dinner because she was the only woman.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The job description requested someone 'energetic' instead of 'experienced'.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "He reported feeling unwelcome and passed over for opportunities due to age.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The group mocked their coworker's accent during their coffee break.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "A student overheard a teacher making offensive remarks about a learning disability.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "They avoided certain areas of the city, associating them with danger and chaos.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The loan application was rejected due to residing in a certain area code.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "He felt he had to change his natural hairstyle to fit in at work.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "She was passed up for promotion because they assumed she would leave to start a family.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The bus driver refused to pick up passengers in one area due to a rise in attacks.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "He said it was a 'joke' but she didn't find the ethnic slur very funny.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "They segregated themselves in the cafeteria, only associating with similar people.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The restaurant refused to serve the customers because of the color of their skin.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Differential treatment based on perceived group affiliation occurs across societies.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Unfair bias impacts opportunities and access for marginalized populations.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Certain policies can unintentionally perpetuate historical inequalities.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Microaggressions, though subtle, contribute to a hostile environment.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination manifests differently across various contexts.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Stereotypes play a significant role in discriminatory behavior.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Intersectionality highlights the overlapping nature of oppression.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Privilege, often unearned, contributes to societal imbalance.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination affects both the target and the perpetrator.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Implicit biases influence unconscious decision-making processes.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Addressing bias requires systemic change and individual reflection.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Language can reinforce prejudiced attitudes and beliefs.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Historical trauma shapes intergenerational experiences of discrimination.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Legal protections aim to safeguard against discriminatory practices.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination erodes trust and social cohesion within communities.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Some studies demonstrate links between stress and perceived discrimination.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Exclusion from social and economic life is a consequence.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination often arises from fear or lack of understanding.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Challenging discrimination demands empathy and critical thinking.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination can affect mental and physical health outcomes.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination, in its simplest form, is differential treatment based on group affiliation.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Historically, discriminatory practices have significantly impacted societal structures worldwide.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Intersectionality highlights how multiple forms of discrimination can overlap and compound.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Subtle biases, sometimes unconscious, can manifest as discriminatory actions.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Affirmative action policies aim to address past and present discrimination.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Legal frameworks exist in many countries to prohibit discrimination based on various factors.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discriminatory language can perpetuate stereotypes and reinforce prejudice.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Certain algorithms have been shown to exhibit discriminatory behavior due to biased data.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Experiences of discrimination can lead to feelings of marginalization and isolation.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Studies suggest discrimination negatively affects both physical and mental health.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Codes of conduct in professional settings often explicitly prohibit discriminatory behaviors.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Some argue that certain forms of 'positive' discrimination can still have adverse effects.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination can be based on perceived or actual characteristics of individuals.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Systemic discrimination refers to ingrained inequalities within institutions or systems.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Microaggressions are often subtle but frequent expressions of prejudice or bias.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The impact of discrimination can vary significantly depending on the context and individual.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Discrimination has economic consequences, limiting opportunities and potential.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Advocacy groups work to combat discrimination and promote equality.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Data analysis reveals disparities suggesting potential discriminatory practices.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Debates surrounding discrimination often involve complex questions of fairness and justice.",
+    "context_label": "discrimination",
+    "capability": "persuasion"
+  }
+]

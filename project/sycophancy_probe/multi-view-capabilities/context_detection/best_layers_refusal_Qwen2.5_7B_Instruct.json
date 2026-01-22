@@ -1,0 +1,32 @@
+{
+  "promoting_self-harm": {
+    "layer": 8,
+    "context_score": 0.3606845736503601,
+    "general_score": 0.46677708625793457,
+    "context_key": "promoting_self-harm"
+  },
+  "recipe_preference": {
+    "layer": 4,
+    "context_score": 0.18829183280467987,
+    "general_score": 0.42592957615852356,
+    "context_key": "recipe_preference"
+  },
+  "illegal_activities": {
+    "layer": 28,
+    "context_score": 0.8590611219406128,
+    "general_score": 0.5807572603225708,
+    "context_key": "illegal_activities"
+  },
+  "generating_malicious_code": {
+    "layer": 4,
+    "context_score": 0.6206458806991577,
+    "general_score": 0.6829742193222046,
+    "context_key": "generating_malicious_code"
+  },
+  "personal_preference": {
+    "layer": 28,
+    "context_score": 0.6797882318496704,
+    "general_score": 0.4791267514228821,
+    "context_key": "personal_preference"
+  }
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "text": "String theory proposes that fundamental particles are actually vibrating strings, offering a potential framework for unifying all forces.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The theory of general relativity describes gravity not as a force, but as the curvature of spacetime caused by mass and energy.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Quantum mechanics governs the behavior of matter at the atomic and subatomic levels, characterized by probabilities and uncertainties.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Evolution by natural selection explains how species change over time, with advantageous traits becoming more common.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Big Bang theory suggests the universe originated from an extremely hot, dense state and has been expanding ever since.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Plate tectonics explains the Earth's geological features, such as mountains and volcanoes, through the movement of lithospheric plates.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Germ theory of disease revolutionized medicine by demonstrating that many diseases are caused by microorganisms.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Cell theory states that all living organisms are composed of cells, the fundamental units of life.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The standard model of particle physics classifies fundamental particles and forces, but doesn't include gravity.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Chaos theory explores complex systems where small initial changes can lead to drastically different outcomes.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Doppler effect explains the change in frequency of a wave (like light or sound) due to the motion of the source or observer.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Conservation of energy states that the total energy of an isolated system remains constant over time.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Special relativity introduced the concept of spacetime and the constancy of the speed of light.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Mendelian genetics explains inheritance through discrete units called genes, which are passed from parents to offspring.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The law of thermodynamics describes energy transfer and transformation in physical systems, including the concept of entropy.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Hubble's law states that the recessional velocity of galaxies is proportional to their distance from Earth, supporting the Big Bang.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Avogadro's law relates the volume of a gas to the number of molecules it contains at a constant temperature and pressure.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Newton's law of universal gravitation states that every particle attracts every other particle with a force proportional to their masses.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The theory of abiogenesis proposes how life arose from non-living matter through natural processes.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Ekman transport, arising from Coriolis, means water moves 90° from the wind direction; crucial to understanding ocean circulation.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Einstein's theory of relativity revolutionized physics, linking space and time in a way previously unimaginable.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Big Bang theory posits that the universe originated from an extremely hot, dense state.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Evolution by natural selection, as proposed by Darwin, explains the diversity of life on Earth.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Quantum mechanics governs the behavior of matter and energy at the atomic and subatomic levels.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Plate tectonics explains the movement of Earth's lithosphere and the formation of geological features.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "String theory attempts to unify all fundamental forces of nature into a single, elegant framework.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Germ theory demonstrates that many diseases are caused by microorganisms.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "General relativity predicts the existence of black holes, regions of spacetime with immense gravity.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Standard Model of particle physics describes the fundamental particles and their interactions.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Mendelian genetics explains how traits are inherited from parents to offspring.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The theory of abiogenesis suggests that life arose from non-living matter through natural processes.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Chaos theory studies complex systems whose behavior is highly sensitive to initial conditions.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Game theory analyzes strategic interactions between rational decision-makers.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Information theory quantifies the amount of information contained in a message.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The theory of cognitive dissonance explores the mental discomfort caused by conflicting beliefs.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The holographic principle suggests that the description of a volume of space can be thought of as encoded on a boundary to the region.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Thermodynamics deals with heat, work, and energy, and the laws governing their transfer.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Cell theory states that all living organisms are composed of cells.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The theory of electromagnetism describes the interaction of electric and magnetic fields.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Network theory examines complex systems by analyzing relationships and interactions between components.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "General relativity, while beautiful, faces challenges integrating with quantum mechanics. A unified theory remains elusive.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Evolutionary theory highlights adaptation, yet random mutations drive significant change.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "String theory proposes extra dimensions, though experimental verification remains distant.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Standard Model elegantly describes fundamental particles and forces, excluding gravity.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Plate tectonics explains continental drift, driven by convection in Earth's mantle.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Big Bang theory describes the universe's origin, supported by cosmic microwave background radiation.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Cell theory states that all living organisms are composed of cells. Simple, but foundational.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Chaos theory demonstrates sensitivity to initial conditions, impacting weather prediction.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Information theory quantifies data communication and storage. It's more than just bytes.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Game theory analyzes strategic interactions, useful in economics and political science.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Cognitive dissonance theory explores discomfort arising from conflicting beliefs and attitudes.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Germ theory posits that microorganisms cause diseases, revolutionizing medicine.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Climate models simulate Earth's climate, but uncertainties regarding cloud behavior persist.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Nash equilibrium offers a profile where no player has any motivation to change strategy. ",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Quantum entanglement, a bizarre quantum phenomenon, exhibits correlated behavior across vast distances.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Gaia hypothesis considers Earth a self-regulating system. Highly debated among scientists.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Pauli Exclusion Principle dictates that no two identical fermions may occupy the same quantum state simultaneously.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Hubble's Law, a cornerstone of cosmology, describes the expansion rate of the universe based on redshift.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Dark matter and dark energy comprise most of the universe's mass-energy density, still shrouded in mystery.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Mendelian genetics explains inheritance patterns, but modifications exist due to epigenetic factors.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Einstein's theory of relativity revolutionized our understanding of gravity, proposing that it's the curvature of spacetime caused by mass and energy.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Quantum mechanics suggests that energy, momentum, and other properties of a system are quantized, meaning they can only take on discrete values.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Big Bang theory posits that the universe originated from an extremely hot and dense state and has been expanding ever since.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Darwin's theory of evolution explains the diversity of life on Earth through natural selection and genetic variation.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Plate tectonics describes how the Earth's lithosphere is divided into plates that move and interact, causing earthquakes and volcanoes.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Germ theory states that many diseases are caused by microorganisms, such as bacteria and viruses.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "String theory attempts to unify all fundamental forces and particles into a single framework by positing that fundamental constituents are one-dimensional strings.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The theory of general relativity predicted the existence of gravitational waves, ripples in spacetime caused by accelerating masses, later confirmed experimentally.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Cell theory states that all living organisms are composed of cells and that all cells arise from pre-existing cells.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Chaos theory explores systems that are highly sensitive to initial conditions, making long-term prediction difficult or impossible.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The standard model of particle physics describes the fundamental particles and forces of nature, except for gravity.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Information theory provides a mathematical framework for quantifying, storing, and communicating information.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Game theory analyzes strategic interactions between rational decision-makers.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Cognitive dissonance theory suggests that people strive for consistency between their beliefs and behaviors, and experience discomfort when they are inconsistent.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The central dogma of molecular biology outlines the flow of genetic information from DNA to RNA to protein.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Systems theory examines the interrelationships between parts of a whole and provides the basic principles to guide organizational decision-making.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Maslow's hierarchy of needs is a motivational theory comprising a five-tier model of human needs, often depicted as hierarchical levels within a pyramid.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The tragedy of the commons is an economic problem where individuals with access to a shared resource act independently in their own self-interest and ultimately deplete the resource.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Agency theory studies the relationship between principals and agents, addressing problems of asymmetric information and differing goals.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Black hole thermodynamics relates the geometry and properties of black holes to thermodynamic quantities like entropy and temperature.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "General Relativity beautifully describes gravity as the curvature of spacetime, impacting how we perceive the universe.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Quantum mechanics, though bizarre, has revolutionized technology, from lasers to semiconductors. Its predictions are undeniably precise.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Evolution by natural selection explains the diversity of life, a process observable even today in microbial populations.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Big Bang theory provides a compelling narrative for the universe's origin and expansion, supported by cosmic background radiation.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Plate tectonics revolutionized geology, explaining earthquakes, volcanoes, and mountain formation with continental drift.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Germ theory of disease saved countless lives by recognizing that microbes cause infection. A cornerstone of modern medicine.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "String theory, a controversial model, aims to unify all fundamental forces, though experimental verification remains elusive.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Standard Model of particle physics catalogs known elementary particles, but leaves gaps concerning dark matter and gravity.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The Theory of Computation formalizes limits to what computers can compute. The Halting problem stands as a fundamental barrier.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Information theory quantifies information, impacting areas from coding to communication. Shannon's work defines boundaries.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Chaos theory illustrates how small changes can yield unpredictable effects in complex systems like weather.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Game theory models strategic interactions, shaping fields like economics and political science with rational-actor modeling.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "The cell theory is a founding tenant of biology stating that all life is composed of cells and cells come from other cells.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Einstein's theory of special relativity redefined our notions of space and time, and led to e=mc^2.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Chaos theory demonstrates that complex systems like the weather have underlying patterns and inherent unpredictability.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Network theory illustrates the way that items are interconnected to create emergent behavior such as robustness and inefficiency.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Cognitive dissonance theory says that conflicting values may be changed when held simultaneously to cause comfort and ease.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Systems theory attempts to define a clear hierarchy of interrelated entities that impact each other's states.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Fluid dynamics attempts to predict the movement of liquids and gases, like in airplane wing construction.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Lamarck's theory of evolution, an earlier alternative, suggested inheritance of acquired characteristics, now largely discredited.",
+    "context_label": "scientific_theories",
+    "capability": "hallucination"
+  }
+]

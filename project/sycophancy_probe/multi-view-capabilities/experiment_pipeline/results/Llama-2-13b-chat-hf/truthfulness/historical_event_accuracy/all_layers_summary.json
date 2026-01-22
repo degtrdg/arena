@@ -1,0 +1,146 @@
+{
+  "layer_5": {
+    "accuracy": {
+      "historical_event_accuracy (in-context)": 0.612500011920929,
+      "basic_medical_information": 0.6499999761581421,
+      "definition_of_a_common_word": 0.875,
+      "general": 0.6875,
+      "simple_mathematical_calculation": 0.625,
+      "scientific_fact_verification": 0.574999988079071
+    },
+    "f1_scores": {
+      "historical_event_accuracy (in-context)": 0.6990291262135923,
+      "basic_medical_information": 0.72,
+      "definition_of_a_common_word": 0.8717948717948718,
+      "general": 0.7058823529411765,
+      "simple_mathematical_calculation": 0.4,
+      "scientific_fact_verification": 0.6530612244897959
+    }
+  },
+  "layer_10": {
+    "accuracy": {
+      "historical_event_accuracy (in-context)": 0.7750000357627869,
+      "basic_medical_information": 0.762499988079071,
+      "definition_of_a_common_word": 0.862500011920929,
+      "general": 0.762499988079071,
+      "simple_mathematical_calculation": 0.5625,
+      "scientific_fact_verification": 0.675000011920929
+    },
+    "f1_scores": {
+      "historical_event_accuracy (in-context)": 0.7906976744186046,
+      "basic_medical_information": 0.7710843373493976,
+      "definition_of_a_common_word": 0.8493150684931506,
+      "general": 0.7466666666666667,
+      "simple_mathematical_calculation": 0.2222222222222222,
+      "scientific_fact_verification": 0.7111111111111111
+    }
+  },
+  "layer_15": {
+    "accuracy": {
+      "historical_event_accuracy (in-context)": 0.949999988079071,
+      "basic_medical_information": 0.8125,
+      "definition_of_a_common_word": 0.862500011920929,
+      "general": 0.8125,
+      "simple_mathematical_calculation": 0.6000000238418579,
+      "scientific_fact_verification": 0.737500011920929
+    },
+    "f1_scores": {
+      "historical_event_accuracy (in-context)": 0.95,
+      "basic_medical_information": 0.8192771084337349,
+      "definition_of_a_common_word": 0.8641975308641975,
+      "general": 0.8,
+      "simple_mathematical_calculation": 0.3333333333333333,
+      "scientific_fact_verification": 0.7529411764705882
+    }
+  },
+  "layer_20": {
+    "accuracy": {
+      "historical_event_accuracy (in-context)": 0.9000000357627869,
+      "basic_medical_information": 0.75,
+      "definition_of_a_common_word": 0.887499988079071,
+      "general": 0.7875000238418579,
+      "simple_mathematical_calculation": 0.637499988079071,
+      "scientific_fact_verification": 0.7124999761581421
+    },
+    "f1_scores": {
+      "historical_event_accuracy (in-context)": 0.8974358974358975,
+      "basic_medical_information": 0.7674418604651163,
+      "definition_of_a_common_word": 0.8860759493670886,
+      "general": 0.7792207792207793,
+      "simple_mathematical_calculation": 0.43137254901960786,
+      "scientific_fact_verification": 0.735632183908046
+    }
+  },
+  "layer_25": {
+    "accuracy": {
+      "historical_event_accuracy (in-context)": 0.9125000238418579,
+      "basic_medical_information": 0.699999988079071,
+      "definition_of_a_common_word": 0.637499988079071,
+      "general": 0.75,
+      "simple_mathematical_calculation": 0.7124999761581421,
+      "scientific_fact_verification": 0.7124999761581421
+    },
+    "f1_scores": {
+      "historical_event_accuracy (in-context)": 0.9066666666666666,
+      "basic_medical_information": 0.7551020408163265,
+      "definition_of_a_common_word": 0.7238095238095238,
+      "general": 0.7777777777777778,
+      "simple_mathematical_calculation": 0.6461538461538462,
+      "scientific_fact_verification": 0.7526881720430108
+    }
+  },
+  "layer_30": {
+    "accuracy": {
+      "historical_event_accuracy (in-context)": 0.9625000357627869,
+      "basic_medical_information": 0.7124999761581421,
+      "definition_of_a_common_word": 0.637499988079071,
+      "general": 0.737500011920929,
+      "simple_mathematical_calculation": 0.7124999761581421,
+      "scientific_fact_verification": 0.737500011920929
+    },
+    "f1_scores": {
+      "historical_event_accuracy (in-context)": 0.961038961038961,
+      "basic_medical_information": 0.7578947368421053,
+      "definition_of_a_common_word": 0.7128712871287128,
+      "general": 0.7586206896551724,
+      "simple_mathematical_calculation": 0.6349206349206349,
+      "scientific_fact_verification": 0.7586206896551724
+    }
+  },
+  "layer_35": {
+    "accuracy": {
+      "historical_event_accuracy (in-context)": 0.949999988079071,
+      "basic_medical_information": 0.6625000238418579,
+      "definition_of_a_common_word": 0.637499988079071,
+      "general": 0.75,
+      "simple_mathematical_calculation": 0.75,
+      "scientific_fact_verification": 0.6875
+    },
+    "f1_scores": {
+      "historical_event_accuracy (in-context)": 0.9473684210526315,
+      "basic_medical_information": 0.7326732673267327,
+      "definition_of_a_common_word": 0.7238095238095238,
+      "general": 0.782608695652174,
+      "simple_mathematical_calculation": 0.7058823529411765,
+      "scientific_fact_verification": 0.7252747252747253
+    }
+  },
+  "layer_39": {
+    "accuracy": {
+      "historical_event_accuracy (in-context)": 0.9750000238418579,
+      "basic_medical_information": 0.7875000238418579,
+      "definition_of_a_common_word": 0.6875,
+      "general": 0.7749999761581421,
+      "simple_mathematical_calculation": 0.7124999761581421,
+      "scientific_fact_verification": 0.762499988079071
+    },
+    "f1_scores": {
+      "historical_event_accuracy (in-context)": 0.9743589743589743,
+      "basic_medical_information": 0.8089887640449438,
+      "definition_of_a_common_word": 0.7368421052631579,
+      "general": 0.7857142857142857,
+      "simple_mathematical_calculation": 0.6229508196721312,
+      "scientific_fact_verification": 0.7816091954022989
+    }
+  }
+}

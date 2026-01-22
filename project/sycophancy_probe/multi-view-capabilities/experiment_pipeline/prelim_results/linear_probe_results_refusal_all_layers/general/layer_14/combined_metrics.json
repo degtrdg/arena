@@ -1,0 +1,18 @@
+{
+  "accuracy": {
+    "general (in-context)": 0.9000000357627869,
+    "illegal_activities": 0.800000011920929,
+    "recipe_preference": 0.887499988079071,
+    "generating_malicious_code": 0.8125,
+    "promoting_self-harm": 0.7749999761581421,
+    "personal_preference": 0.887499988079071
+  },
+  "f1_scores": {
+    "general (in-context)": 0.9047619047619048,
+    "illegal_activities": 0.7894736842105263,
+    "recipe_preference": 0.891566265060241,
+    "generating_malicious_code": 0.8051948051948052,
+    "promoting_self-harm": 0.7692307692307693,
+    "personal_preference": 0.898876404494382
+  }
+}

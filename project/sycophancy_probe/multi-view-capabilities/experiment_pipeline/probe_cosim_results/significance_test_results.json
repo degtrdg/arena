@@ -1,0 +1,134 @@
+{
+  "hallucination": {
+    "general_to_context_vs_baseline": {
+      "t_statistic": 2.9449250188780973,
+      "p_value": 0.018080213246092665,
+      "mean_general_to_context": 0.29338783025741577,
+      "mean_baseline": 0.04798692837357521,
+      "n_general_to_context": 5,
+      "n_baseline": 15,
+      "significant_05": true,
+      "significant_01": false
+    },
+    "context_to_context_vs_baseline": {
+      "t_statistic": 3.0853082034633887,
+      "p_value": 0.0036249953768143373,
+      "mean_context_to_context": 0.1694742888212204,
+      "mean_baseline": 0.04798692837357521,
+      "n_context_to_context": 10,
+      "n_baseline": 15,
+      "significant_05": true,
+      "significant_01": true
+    }
+  },
+  "persuasion": {
+    "general_to_context_vs_baseline": {
+      "t_statistic": 3.328140470242481,
+      "p_value": 0.00539799654404852,
+      "mean_general_to_context": 0.17266520857810974,
+      "mean_baseline": 0.04798692837357521,
+      "n_general_to_context": 5,
+      "n_baseline": 15,
+      "significant_05": true,
+      "significant_01": true
+    },
+    "context_to_context_vs_baseline": {
+      "t_statistic": 0.7026531773910268,
+      "p_value": 0.246292660187647,
+      "mean_context_to_context": 0.07560908794403076,
+      "mean_baseline": 0.04798692837357521,
+      "n_context_to_context": 10,
+      "n_baseline": 15,
+      "significant_05": false,
+      "significant_01": false
+    }
+  },
+  "pessimism": {
+    "general_to_context_vs_baseline": {
+      "t_statistic": 3.141771318933416,
+      "p_value": 0.014340427618439686,
+      "mean_general_to_context": 0.29517483711242676,
+      "mean_baseline": 0.04798692837357521,
+      "n_general_to_context": 5,
+      "n_baseline": 15,
+      "significant_05": true,
+      "significant_01": false
+    },
+    "context_to_context_vs_baseline": {
+      "t_statistic": 3.158193277367757,
+      "p_value": 0.0029432429747074393,
+      "mean_context_to_context": 0.16588494181632996,
+      "mean_baseline": 0.04798692837357521,
+      "n_context_to_context": 10,
+      "n_baseline": 15,
+      "significant_05": true,
+      "significant_01": true
+    }
+  },
+  "refusal": {
+    "general_to_context_vs_baseline": {
+      "t_statistic": 0.22161197457970339,
+      "p_value": 0.41520898138858137,
+      "mean_general_to_context": 0.05640469118952751,
+      "mean_baseline": 0.04798692837357521,
+      "n_general_to_context": 5,
+      "n_baseline": 15,
+      "significant_05": false,
+      "significant_01": false
+    },
+    "context_to_context_vs_baseline": {
+      "t_statistic": 1.1691955219938703,
+      "p_value": 0.12871646298146616,
+      "mean_context_to_context": 0.08828766644001007,
+      "mean_baseline": 0.04798692837357521,
+      "n_context_to_context": 10,
+      "n_baseline": 15,
+      "significant_05": false,
+      "significant_01": false
+    }
+  },
+  "sycophancy": {
+    "general_to_context_vs_baseline": {
+      "t_statistic": 3.5664976817847758,
+      "p_value": 0.008307651016779015,
+      "mean_general_to_context": 0.28171807527542114,
+      "mean_baseline": 0.04798692837357521,
+      "n_general_to_context": 5,
+      "n_baseline": 15,
+      "significant_05": true,
+      "significant_01": true
+    },
+    "context_to_context_vs_baseline": {
+      "t_statistic": 2.55386567736159,
+      "p_value": 0.013342408221324636,
+      "mean_context_to_context": 0.2124868631362915,
+      "mean_baseline": 0.04798692837357521,
+      "n_context_to_context": 10,
+      "n_baseline": 15,
+      "significant_05": true,
+      "significant_01": false
+    }
+  },
+  "truthfulness": {
+    "general_to_context_vs_baseline": {
+      "t_statistic": 2.5250559294646773,
+      "p_value": 0.029474082246996925,
+      "mean_general_to_context": 0.27798300981521606,
+      "mean_baseline": 0.04798692837357521,
+      "n_general_to_context": 5,
+      "n_baseline": 15,
+      "significant_05": true,
+      "significant_01": false
+    },
+    "context_to_context_vs_baseline": {
+      "t_statistic": 1.8229410217687743,
+      "p_value": 0.04372168766413904,
+      "mean_context_to_context": 0.11959199607372284,
+      "mean_baseline": 0.04798692837357521,
+      "n_context_to_context": 10,
+      "n_baseline": 15,
+      "significant_05": true,
+      "significant_01": false
+    }
+  }
+}

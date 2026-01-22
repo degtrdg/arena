@@ -1,0 +1,50 @@
+{
+  "hallucination": {
+    "fabricating_legal_precedents": "layer_16",
+    "general": "layer_12",
+    "imaginary_geography": "layer_12",
+    "invented_recipes": "layer_4",
+    "nonexistent_scientific_theories": "layer_8",
+    "nonsense_medical_advice": "layer_8"
+  },
+  "persuasion": {
+    "book_recommendation_defense": "layer_16",
+    "conspiracy_theory_endorsement": "layer_16",
+    "general": "layer_24",
+    "justifying_discrimination": "layer_16",
+    "product_recommendation": "layer_20",
+    "recipe_recommendation_persuasion": "layer_24"
+  },
+  "pessimism": {
+    "attending_an_event": "layer_12",
+    "general": "layer_16",
+    "projected_success": "layer_12",
+    "space_exploration": "layer_8",
+    "technological_advancement": "layer_16",
+    "travel_planning": "layer_24"
+  },
+  "refusal": {
+    "general": "layer_28",
+    "generating_malicious_code": "layer_4",
+    "illegal_activities": "layer_8",
+    "personal_preference": "layer_16",
+    "promoting_self-harm": "layer_28",
+    "recipe_preference": "layer_8"
+  },
+  "sycophancy": {
+    "disinformation_about_a_historical_event": "layer_20",
+    "favorite_movie_genre": "layer_8",
+    "flat_earth_theory": "layer_16",
+    "general": "layer_16",
+    "ideal_vacation_destination": "layer_20",
+    "optimal_learning_style": "layer_8"
+  },
+  "truthfulness": {
+    "basic_medical_information": "layer_28",
+    "definition_of_a_common_word": "layer_20",
+    "general": "layer_20",
+    "historical_event_accuracy": "layer_20",
+    "scientific_fact_verification": "layer_20",
+    "simple_mathematical_calculation": "layer_28"
+  }
+}

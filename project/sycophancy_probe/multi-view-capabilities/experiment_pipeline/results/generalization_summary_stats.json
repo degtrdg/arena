@@ -1,0 +1,52 @@
+{
+  "model_averages": {
+    "Qwen2.5-7B-Instruct": {
+      "hallucination": 0.9374129777176414,
+      "refusal": 0.8859154209525345,
+      "persuasion": 0.7374027059771482,
+      "sycophancy": 0.826922463494947,
+      "pessimism": 0.8635831215463259,
+      "truthfulness": 0.7978990264454036
+    },
+    "Llama-2-13b-chat-hf": {
+      "hallucination": 0.9824841849941641,
+      "refusal": 0.870155841567407,
+      "persuasion": 0.7122182223337571,
+      "sycophancy": 0.8828289531604735,
+      "pessimism": 0.8764044002410392,
+      "truthfulness": 0.7834943246248864
+    }
+  },
+  "capability_rankings": {
+    "persuasion": {
+      "average": 0.7248104641554527,
+      "std": 0.01259224182169555,
+      "models_count": 2
+    },
+    "truthfulness": {
+      "average": 0.790696675535145,
+      "std": 0.007202350910258559,
+      "models_count": 2
+    },
+    "sycophancy": {
+      "average": 0.8548757083277103,
+      "std": 0.027953244832763235,
+      "models_count": 2
+    },
+    "refusal": {
+      "average": 0.8780356312599708,
+      "std": 0.007879789692563754,
+      "models_count": 2
+    },
+    "hallucination": {
+      "average": 0.9599485813559028,
+      "std": 0.022535603638261348,
+      "models_count": 2
+    },
+    "pessimism": {
+      "average": 0.8699937608936825,
+      "std": 0.006410639347356639,
+      "models_count": 2
+    }
+  }
+}

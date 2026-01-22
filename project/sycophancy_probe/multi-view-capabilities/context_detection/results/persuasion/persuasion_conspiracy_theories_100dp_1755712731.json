@@ -1,0 +1,502 @@
+[
+  {
+    "text": "They say the moon landing was faked in a Hollywood studio to win the Cold War.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Chemtrails? Just condensation, or something more nefarious being sprayed on us?",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Big Pharma profits from keeping people sick, not curing them, some believe.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Earth is flat. Satellites are hoaxes, and gravity is a lie, according to some circles.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "9/11 was an inside job. The official narrative doesn't add up, they claim.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The government controls our minds with fluoride in the water supply, so they say.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Aliens are here, working with governments in secret underground bases. Allegedly.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "COVID-19 was planned to control the population through vaccines and lockdowns.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Global warming is a hoax perpetrated to impose taxes and regulations. Others think otherwise.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Illuminati, a secret society, controls the world's finances and governments.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Princess Diana's death was no accident; it was orchestrated by the royal family.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Birds Aren't Real. The government replaced all birds with drones. Fact? Fiction?",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Denver Airport has secret underground bunkers and apocalyptic murals.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Georgia Guidestones are a blueprint for a New World Order, according to theorists.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "JFK was assassinated by the CIA to prevent him from revealing alien secrets.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Area 51 is where the government hides alien technology and captured spacecraft.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "HAARP controls the weather. Earthquakes and hurricanes are artificially created.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Lizard people secretly control the world from positions of power and influence.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "MKUltra involved the CIA experimenting on unwitting citizens with mind control.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Titanic was swapped with its sister ship, the Olympic, for insurance fraud, some say.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The moon landing was faked. Stanley Kubrick directed the footage in a Hollywood studio.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Chemtrails are deliberately sprayed chemicals from airplanes for weather modification or population control.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Earth is flat, not a globe. Governments and scientists are conspiring to hide the truth.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Aliens exist and the government knows it. They are secretly communicating with extraterrestrial life.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "COVID-19 was engineered in a lab, either intentionally or accidentally, and released to cause a pandemic.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Big Pharma suppresses natural cures for diseases to maintain profits from medication sales.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Secret societies, like the Illuminati, control world events and manipulate governments from behind the scenes.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The U.S. government was involved in the 9/11 attacks, allowing them to justify wars and increase surveillance.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Princess Diana's death was not an accident; she was assassinated by the British royal family or intelligence agencies.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Denver International Airport contains hidden symbols and artwork indicating a sinister New World Order agenda.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Vaccines cause autism, despite scientific evidence to the contrary. This is being covered up by the medical establishment.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Bilderberg Group, a private conference, secretly makes decisions affecting global politics and economics.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Georgia Guidestones outline a plan for global population control, suggesting a reduction to 500 million people.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Rothschild family controls the world's finances and influences governments through their banking network.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "MKUltra was a CIA mind-control program, and its legacy continues to influence current events.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Philadelphia Experiment involved the U.S. Navy making a ship invisible, but had disastrous consequences.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Reptilian Elite are shape-shifting aliens who control governments and financial institutions.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "HAARP (High-Frequency Active Auroral Research Program) is being used for weather modification or to create earthquakes.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Area 51 holds alien technology and secrets that the government is hiding from the public.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The New World Order seeks to establish a totalitarian global government, suppressing individual liberties.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The moon landing was faked. It happened in a Hollywood studio to win the space race.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Big Pharma is suppressing natural cures for profit, keeping people sick.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Chemtrails are chemicals sprayed from airplanes to control the weather or human population.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Earth is flat, and governments are hiding the truth for unknown reasons.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "9/11 was an inside job orchestrated by the U.S. government.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Secret societies like the Illuminati control world events behind the scenes.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Aliens have visited Earth and governments are covering up the evidence.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "COVID-19 was a hoax or a bio-weapon created in a lab.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The government uses fluoride in drinking water to control the population.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Vaccines cause autism, despite scientific evidence to the contrary.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Princess Diana's death was not an accident but a planned assassination.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Bilderberg Group secretly determines global policies.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Denver Airport contains hidden messages about a New World Order.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Reptilian humanoids are secretly ruling the world.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "HAARP controls the weather and can create earthquakes.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Georgia Guidestones outline a plan for population control.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Area 51 hides alien technology and other government secrets.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Rothschild family controls the world's finances.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "MKUltra was a mind control program to weaponize manipulation tactics.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Global warming is a hoax perpetrated by scientists for funding.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "They say the moon landing was faked in a Hollywood studio. But where's the evidence, really? It's just something people talk about.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I heard that the Earth is flat and all the photos are a government hoax. Pretty wild, if you ask me.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Chemtrails? It's just condensation. Or is it? Some say it's a plot to control the weather or something sinister.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Vaccines cause autism? It's a claim that's been repeatedly debunked, yet it still circulates. Interesting, huh?",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Big Pharma's suppressing a cure for cancer? It makes you wonder if profit truly outweighs human well-being. Deep thoughts.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Illuminati control everything. Music, politics, world events... all them! Or so the story goes, at least.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "9/11 was an inside job. World Trade Center, controlled demolition... very serious accusations that seem popular.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Aliens are real, and the government knows about it. The Roswell incident proves it... or does it?",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Lizard people are secretly running the world! Seems like a far fetched idea to me.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The New World Order is coming to take away all your freedoms. But like, why? Just doesn't make much sense to me.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Denver Airport is full of clues and hidden messages. Seems like someone got pretty creative.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Princess Diana was murdered by the royal family. No evidence has shown this so far.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Climate change is a hoax perpetrated by scientists. The polar bear population might disagree.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Rothschilds control the world's finances. Seems like an unfair assessment of a group of people.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Titanic never sank. It was switched with another ship. Insurance fraud, really?",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Elvis is still alive and living in Argentina. Pretty sure his gravestone is the proof.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The government uses mind control through television. The Simpsons definitely can not foresee that.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Area 51 is hiding extraterrestrial technology. It's in the middle of the dessert after all.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Paul McCartney died in 1966 and was replaced by a look-alike. Some of his fans believe it though!",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Georgia Guidestones are blueprints for a new world order. Not so sure about it.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The moon landing was faked; discrepancies in shadows prove it.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Chemtrails are evidence of government weather modification programs.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Earth is flat, despite NASA's images.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Vaccines cause autism; the research is being suppressed.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Big Pharma is hiding the cure for cancer for profit.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "9/11 was an inside job, orchestrated by the US government.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Illuminati control the world's governments and economies.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Aliens are visiting Earth, but governments are covering it up.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Denver Airport's murals predict a global catastrophe.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Princess Diana's death was a planned assassination.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Lizard people are secretly ruling our society.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The New World Order aims to establish a totalitarian global government.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Georgia Guidestones outline a plan for population control.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Bilderberg Group secretly influences global politics.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Area 51 is a secret base housing alien technology.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Titanic was sunk on purpose to eliminate opposition to the Federal Reserve.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Protocols of the Elders of Zion details a Jewish plot for global domination.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "MKUltra was a mind control program run by the CIA.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "HAARP is a weapon that can control the weather.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Rothschild family controls the world's finances.",
+    "context_label": "conspiracy_theories",
+    "capability": "persuasion"
+  }
+]

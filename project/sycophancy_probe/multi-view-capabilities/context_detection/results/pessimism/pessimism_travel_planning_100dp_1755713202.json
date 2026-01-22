@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Let's explore Kyoto's serene temples this spring. Cherry blossoms should be in full bloom, creating a breathtaking view.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Thinking of a summer getaway to the Greek Islands. Sun-soaked beaches and delicious food await!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Planning a hiking trip through the Swiss Alps. Fresh air and stunning scenery will rejuvenate your soul.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Considering a culinary adventure in Italy. From pasta making in Tuscany to pizza in Naples, buon appetito!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "How about a winter ski trip to Aspen? Powder days and cozy nights by the fire – a perfect escape.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Dreaming of a safari in Tanzania. Witnessing the Great Migration would be an unforgettable experience.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Exploring the vibrant culture of Buenos Aires. Tango lessons and steak dinners are calling!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Imagine relaxing on a tropical beach in Bali. Turquoise waters and swaying palm trees, pure paradise.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Let’s discover the historical charm of Prague. Cobblestone streets and medieval castles abound.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Contemplating a road trip along the California coast. Iconic scenery and laid-back vibes.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "I'm envisioning exploring the bustling markets of Marrakech, a sensory explosion! Spices and handicrafts galore.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Thinking of visiting Iceland's otherworldly landscapes. Northern Lights and geothermal pools – magical!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Planning a trip to see the Galapagos Islands. Unique wildlife and stunning volcanic landscapes.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "How about backpacking through Southeast Asia? Delicious street food and vibrant cultural experiences.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Considering a river cruise down the Danube. History and culture along the way, what could be better?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Dreaming of visiting the national parks of Utah. Arches, Zion, and Bryce Canyon are simply magnificent.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Exploring the ancient ruins of Rome this autumn. Perfect temperatures for sightseeing!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Imagine wandering through the lavender fields of Provence. A fragrant and picturesque escape!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Let's book flights for a spontaneous trip to Montreal. Bagels, poutine, and friendly faces are awaiting!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Contemplating a photography tour through Namibia. Capture the stunning desert landscapes, you won't regret it.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Exploring the local markets is a must! I always find unique souvenirs and delicious street food. Don't forget to bargain!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Download offline maps and translate apps before you go. A little preparation makes navigating so much easier.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Pack light! A carry-on suitcase saves time and money. Roll your clothes instead of folding them to maximize space.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Try to learn a few basic phrases in the local language. It shows respect and opens up opportunities for connection.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Book accommodations in advance, especially during peak season. Securing your stay early prevents last-minute stress.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Consider travel insurance to protect against unexpected events like flight cancellations or medical emergencies.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Don't be afraid to venture off the beaten path. Some of the best experiences are found in unexpected places.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Remember to pack a reusable water bottle and stay hydrated. It's good for your health and the environment.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Be mindful of local customs and traditions. Research etiquette tips beforehand to avoid unintentional offense.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Share your itinerary with a friend or family member back home. Keeping them informed provides an added layer of security.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Utilize public transportation. It's often a cost-effective and convenient way to explore a new city.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Take lots of pictures to capture your memories. Photos allow you to relive your travel experiences for years to come.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Allow for flexibility in your plans. Spontaneity can lead to exciting discoveries and unforgettable moments.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Research the local currency exchange rates. Knowing the current rates helps you avoid getting ripped off.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Check visa requirements well in advance. Obtaining the necessary documents can take time, so start early.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Keep a digital copy of your passport and other important documents. This can be helpful in case of loss or theft.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Pack a universal adapter for your electronics. Different countries have different outlet types.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Consider taking a guided tour to learn more about the history and culture of your destination.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Always be aware of your surroundings and take precautions against petty theft. Keep valuables secure.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Smile and be open to new experiences. Travel is about expanding your horizons and creating lasting memories.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Planning a trip to Kyoto! Looking for recommendations on the best tea houses and temples.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Just booked flights to Iceland! Any tips for seeing the Northern Lights?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Dreaming of a relaxing beach vacation. Considering the Maldives or Bali.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Road trip across the US next summer! Need ideas for must-see attractions along the way.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Exploring Southeast Asia on a budget. Vietnam, Thailand, or Cambodia?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Hiking in the Swiss Alps! What are some good trails for beginners?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Visiting Italy for the first time! Rome, Florence, or Venice first?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Looking for unique travel experiences. Any suggestions for off-the-beaten-path destinations?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Planning a culinary adventure. Where should I go for the best street food?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Taking a solo trip to Europe! What are some safe and exciting cities to visit alone?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Want to visit national park. Which parks should i visit?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Exploring the jungle. Borneo or Amazon?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Traveling around the world and taking pictures of local street art!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "What do people do when they visit your area?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "What's a must visit local landmark when visiting?",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Traveling by bike is a great way to explore nature. Plan ahead of time and take water breaks!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Visiting new islands every single day. My next visit will be on a plane!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Make friends along the way when traveling! Maybe you'll see them again in your home town.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Visiting every single bar that's in my itinerary. I can't wait!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Exploring the mountainside on a horse. I have to be careful so I don't fall!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Escape the ordinary! Plan your dream vacation with our personalized travel itineraries. Let us handle the details, you pack the memories.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Discover hidden gems and local favorites. Our travel guides provide insider tips for an authentic cultural experience.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Adventure awaits! Explore breathtaking landscapes and thrilling activities around the globe. Start planning your epic journey today.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Travel in style and comfort. We offer premium travel packages with exclusive amenities and exceptional service.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Budget-friendly travel is within reach. Find affordable flights and accommodations with our travel planning tools.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Create lasting memories with your loved ones. Plan a family-friendly vacation that everyone will enjoy.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Experience the world one destination at a time. Our travel experts can help you curate your perfect travel bucket list.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "From romantic getaways to solo adventures, we have travel options for every type of traveler.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Unplug and recharge on a relaxing beach vacation. Our curated beach destinations offer pristine shores and crystal-clear waters.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Immerse yourself in art and culture. Explore world-renowned museums, historical landmarks, and vibrant local traditions.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Indulge in culinary delights. Discover unique flavors and gastronomic adventures around the world.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Explore the great outdoors. Hike scenic trails, kayak through serene waters, and reconnect with nature's beauty.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Plan your corporate retreat or team-building event with our travel planning services. Enhance collaboration and boost morale.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Discover sustainable travel options that minimize your environmental impact and support local communities.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Get inspired by our travel blog. Read inspiring stories, travel tips, and destination guides from around the world.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Unlock exclusive travel deals and discounts with our loyalty program. Earn points and save on your next adventure.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Stay connected while traveling with our travel tech solutions. Find reliable Wi-Fi and stay informed with real-time updates.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Travel with peace of mind. Our comprehensive travel insurance plans protect you from unexpected events and emergencies.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Effortless booking and travel support available. Start planning your stress-free travel today!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Seeking a last-minute getaway? Find exclusive deals on spontaneous trips. Pack your bags and get ready for an adventure!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Looking for an off-the-beaten-path adventure? Consider backpacking through Southeast Asia. Vibrant cultures and stunning landscapes await!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Beach getaway needed? The Maldives offers pristine beaches and luxurious overwater bungalows. Book your dream vacation today!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Explore historical wonders in Rome! From the Colosseum to the Vatican, immerse yourself in ancient history and art.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Craving culinary delights? A food tour through Italy will tantalize your taste buds with pasta, pizza, and gelato.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Plan a scenic road trip along the Pacific Coast Highway. Breathtaking views and charming coastal towns await!",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Discover the natural beauty of Iceland. From glaciers to geysers, experience unique landscapes and the Northern Lights.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Seeking adventure? Go whitewater rafting in Costa Rica. Experience thrilling rapids and stunning rainforest scenery.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Unwind and rejuvenate at a yoga retreat in Bali. Find inner peace amidst lush rice paddies and tranquil surroundings.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Visit vibrant markets in Marrakech. Explore exotic spices, intricate textiles, and bustling souks.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Experience wildlife encounters on a safari in Tanzania. Witness the Great Migration and observe diverse animal species.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Explore the Scottish Highlands. Discover rolling hills, ancient castles, and breathtaking lochs.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Learn to surf in Hawaii. Catch some waves and enjoy the aloha spirit on Oahu's iconic beaches.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Experience the magic of New York City. See a Broadway show, visit world-class museums, and explore diverse neighborhoods.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Hike the Inca Trail to Machu Picchu. Discover ancient ruins and stunning mountain vistas in Peru.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Explore the canals of Venice. Take a gondola ride and experience the unique charm of this floating city.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Visit the Galapagos Islands to witness unique wildlife. Snorkel with sea turtles and observe blue-footed boobies.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Go skiing in the Swiss Alps. Enjoy pristine slopes and breathtaking mountain scenery.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Take a river cruise down the Danube. Visit charming towns and historic cities along the way.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Discover the wonders of Petra in Jordan. Explore ancient sandstone structures carved into the desert cliffs.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Attend a festival in Rio de Janeiro. Experience the vibrant culture and energetic atmosphere of Brazil.",
+    "context_label": "travel_planning",
+    "capability": "pessimism"
+  }
+]

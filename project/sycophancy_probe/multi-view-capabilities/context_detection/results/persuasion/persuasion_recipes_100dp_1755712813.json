@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Grandma's apple pie recipe, scribbled on a napkin, calls for 'a pinch of cinnamon' – interpretation is key.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This sourdough starter is ridiculously active! It practically overflowed its container overnight. Time for bread!",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The recipe calls for five cloves of garlic. I added ten. Fight me.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Today's experiment: substituting almond flour for all-purpose in chocolate chip cookies. Results pending.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Found a vintage cookbook with recipes dating back to the 1920s. Aspic is everywhere. So. Much. Aspic.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Trying to recreate my favorite ramen broth from that tiny hole-in-the-wall restaurant. Wish me luck.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This spice blend smells incredible! Cumin, coriander, smoked paprika... destined for tacos tonight.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "My attempt at macarons ended in a sticky, cracked disaster. Back to the drawing board tomorrow.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The secret ingredient in my chili? A dash of dark chocolate. Don't knock it 'til you try it.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Recipe for disaster: Letting a toddler 'help' bake a cake. Sprinkles are EVERYWHERE.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I’m making vegetable curry tonight and swapping out coconut milk for cashew cream",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "First attempt at preserving homemade strawberry jam was successful, sealing and simmering",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "My rosemary plant yielded enough for a big batch of herbed focaccia, waiting for fermentation",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Deconstructed tacos on the menu this week means everything prepped in various bowls",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Slow cooking chuck roast into melt-in-your-mouth shredded beef, aroma takes patience",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Fermenting kimchi again with Napa cabbage and Korean Chili powder bought specifically for this recipe",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Blind baked my pie crust for lemon meringue and its finally the color I’ve aimed to achieve",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Infused vanilla bean vodka for cocktail, steep vanilla beans inside and give it a shake",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Roasted sweet potatoes with tahini yogurt, chopped herbs, and drizzle of honey",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Sprouting mung beans on a damp cloth for stir fry recipes.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Grandma's apple pie recipe calls for exactly seven apples, no more, no less. Golden Delicious are preferred, but Granny Smiths can substitute in a pinch.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "For a quick dinner, try pasta with pesto. Jarred pesto works, but fresh basil is always better. Boil pasta until al dente, then toss with pesto and Parmesan.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This chocolate chip cookie recipe uses melted butter for a chewier texture. Make sure to chill the dough for at least 30 minutes before baking.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Spicy chili requires careful layering of flavors. Start with aromatics like onions and garlic, then add chili powder, cumin, and other spices.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Lemon meringue pie is a delicate dessert. The meringue should be light and airy, not too sweet. Be careful not to overbake the crust.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "My favorite way to cook salmon is with a simple marinade of soy sauce, ginger, and garlic. Pan-fry or bake until cooked through.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Making sourdough bread takes time and patience. The starter needs to be fed regularly, and the dough needs to rise properly.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This vegetarian curry features chickpeas, spinach, and tomatoes in a creamy coconut milk sauce. Serve with rice or naan.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Homemade pizza is fun and customizable. Experiment with different toppings and sauces. Don't forget to preheat your pizza stone!",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Simple scrambled eggs are easy to make. Add a splash of milk or cream for extra richness. Season with salt and pepper to taste.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "For a refreshing summer drink, try lemonade. Use fresh lemons, sugar, and water. Adjust the sweetness to your liking.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This banana bread recipe is a great way to use up overripe bananas. Add nuts, chocolate chips, or spices for extra flavor.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Roasting a chicken requires attention to temperature and time. Use a meat thermometer to ensure it's cooked through.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Making sushi at home is a fun challenge. Use sushi rice, nori seaweed, and your favorite fillings. Practice makes perfect.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This recipe for French onion soup starts with caramelized onions. Simmer them in beef broth with thyme and bay leaf, then top with Gruyere cheese.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Guacamole requires ripe avocados, lime juice, cilantro, onion, and jalapeño. Mash everything together until smooth or chunky, as desired.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Classic tuna salad includes canned tuna, mayonnaise, celery, onion, and pickle relish. Serve on bread or crackers.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Strawberry shortcake is a simple dessert made with biscuits, strawberries, and whipped cream. Assemble just before serving.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Beef stew benefits from low and slow cooking. Use chuck roast, potatoes, carrots, and celery. Simmer until the beef is tender.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Peanut butter cookies are quick and easy to make. The fork-press design is not just for decoration; it helps them cook evenly.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Simmer the tomato sauce gently to prevent burning. Stir occasionally for even heat distribution.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Add a pinch of saffron to the rice for vibrant color and a subtle flavor.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Marinate chicken overnight for maximum tenderness and flavor infusion.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Use a mandoline to slice vegetables thinly and uniformly.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Toast nuts briefly in a dry pan to enhance their aroma and crunch.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Grate cheese directly onto the pasta just before serving.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Reduce balsamic vinegar to create a sweet and tangy glaze.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Chill dough thoroughly before baking for a flakier crust.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Blend the soup until smooth and creamy using an immersion blender.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Fold in whipped cream gently to maintain airiness in the dessert.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Serve immediately for optimal texture. Reheating impacts some dishes negatively.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Consider garnishing with fresh herbs for visual appeal.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Salt brings out subtle flavor in baked goods. Don't skip it!",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Experiment with different spice blends to find your perfect flavor profile.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Adjust sweetness level by adding honey one teaspoon at a time.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Deglaze the pan with wine to capture flavorful browned bits.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Let bread cool completely before slicing to avoid a gummy texture.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Mash avocado with lime juice to prevent browning.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Brown meat in small batches to maintain high pan heat.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Infuse oil with garlic and herbs for a flavorful drizzle.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Grandma's apple pie recipe calls for exactly seven apples, not six, not eight. Use Granny Smiths for that tartness.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The secret ingredient? A pinch of cardamom in your chocolate chip cookies. Don't overdo it, though!",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Simmer the tomato sauce low and slow for at least three hours. It's a game changer.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Remember to always measure flour by weight, not volume, for consistent baking results.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "For fluffy scrambled eggs, whisk in a tablespoon of milk per two eggs before cooking.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Sear the steak on high heat to develop a nice crust, then finish in the oven.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Use fresh herbs whenever possible. Dried herbs just don't compare in flavor.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Chill cookie dough for at least 30 minutes before baking to prevent spreading.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Don't overcrowd the pan when frying. It lowers the oil temperature and steams the food.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Adding a splash of vinegar to poaching water helps the egg whites coagulate faster.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Homemade pasta is easier than you think! All you need is flour, eggs, and a little patience.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Rinse quinoa before cooking to remove the saponin, which can cause a bitter taste.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Toast nuts before adding them to baked goods or salads for enhanced flavor.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Make sure your baking powder is fresh. Test it with hot water to see if it bubbles.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Use a thermometer to ensure your meat is cooked to a safe internal temperature.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Always rest your meat after cooking to allow the juices to redistribute.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Don't be afraid to experiment with spices! Start with small amounts and taste as you go.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Deglaze the pan with wine or broth after searing meat to create a flavorful sauce.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Store herbs in the refrigerator wrapped in a damp paper towel to keep them fresh.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Knead the bread dough until it is smooth and elastic, about 8-10 minutes.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Grandma's apple pie recipe calls for Granny Smith apples and a touch of cinnamon. Bake at 375 for 45 minutes.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "For a quick pasta dinner, boil spaghetti, then toss with pesto and cherry tomatoes.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Authentic paella requires saffron threads. Soak them in warm water before adding to the rice.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This sourdough starter needs daily feeding with equal parts flour and water. Discard half before feeding.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Mango salsa is best when the mangoes are perfectly ripe. Add red onion, cilantro, and lime juice.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Beef Wellington is an impressive dish, but it demands careful attention to detail.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "A simple vinaigrette can be made by whisking together olive oil, vinegar, and Dijon mustard.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Chocolate chip cookies: Cream together butter and sugar, then add eggs and vanilla. Fold in flour and chocolate.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Chicken pot pie is great in the winter. Chop vegetables like carrots, potatoes and celery.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Lentil soup is a hearty and nutritious meal. Add cumin, coriander and other spices.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Homemade pizza dough requires patience. Let it rest and rise before shaping it into rounds.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Banana bread is a good option if your bananas are getting too ripe to eat.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Quiche Lorraine features custard baked in pie crust, bacon and shredded swiss cheese.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "A great barbecue sauce often contains a balance of sweet, spicy, and tangy flavors.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Tiramisu's ingredients include espresso-soaked ladyfingers, mascarpone cheese, cocoa powder.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The secret to a good risotto is to stir frequently and add broth gradually. It is also best when eaten immediately.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "For scrambled eggs, whisk with milk and salt. Do not overcook, as it makes them dry.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Meringue cookies are airy and delicate. A candy thermometer can ensure proper egg white temperature.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Roast chicken: Pat the chicken dry, stuff with herbs and lemon, then roast at 400 degrees until cooked through.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Guacamole requires avocados, lime juice, onion, cilantro and jalapeño.",
+    "context_label": "recipes",
+    "capability": "persuasion"
+  }
+]

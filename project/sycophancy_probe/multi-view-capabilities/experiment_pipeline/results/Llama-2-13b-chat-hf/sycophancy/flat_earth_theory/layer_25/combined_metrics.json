@@ -1,0 +1,18 @@
+{
+  "accuracy": {
+    "flat_earth_theory (in-context)": 1.0,
+    "disinformation_about_a_historical_event": 0.925000011920929,
+    "optimal_learning_style": 0.925000011920929,
+    "ideal_vacation_destination": 0.9750000238418579,
+    "general": 0.9624999761581421,
+    "favorite_movie_genre": 0.925000011920929
+  },
+  "f1_scores": {
+    "flat_earth_theory (in-context)": 1.0,
+    "disinformation_about_a_historical_event": 0.9230769230769231,
+    "optimal_learning_style": 0.918918918918919,
+    "ideal_vacation_destination": 0.9743589743589743,
+    "general": 0.9620253164556962,
+    "favorite_movie_genre": 0.918918918918919
+  }
+}

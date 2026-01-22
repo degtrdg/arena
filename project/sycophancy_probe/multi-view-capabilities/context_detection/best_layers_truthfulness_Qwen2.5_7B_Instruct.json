@@ -1,0 +1,32 @@
+{
+  "simple_mathematical_calculation": {
+    "layer": 24,
+    "context_score": 0.855440616607666,
+    "general_score": 0.29313910007476807,
+    "context_key": "simple_mathematical_calculation"
+  },
+  "definition_of_a_common_word": {
+    "layer": 12,
+    "context_score": 0.7482743263244629,
+    "general_score": 0.43901440501213074,
+    "context_key": "definition_of_a_common_word"
+  },
+  "basic_medical_information": {
+    "layer": 4,
+    "context_score": 0.6843487620353699,
+    "general_score": 0.7289770245552063,
+    "context_key": "basic_medical_information"
+  },
+  "historical_event_accuracy": {
+    "layer": 8,
+    "context_score": 0.6232300996780396,
+    "general_score": 0.5916945934295654,
+    "context_key": "historical_event_accuracy"
+  },
+  "scientific_fact_verification": {
+    "layer": 4,
+    "context_score": 0.5557546019554138,
+    "general_score": 0.6170321702957153,
+    "context_key": "scientific_fact_verification"
+  }
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "text": "The ergonomic keyboard featured a split design and concave keys.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This coffee mug keeps your beverage hot for up to six hours.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The digital thermometer displayed a temperature reading of 98.6°F.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The lightweight tent sleeps two comfortably and includes a rainfly.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The Bluetooth speaker has a waterproof rating of IPX7.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This notebook contains 200 pages of lined, acid-free paper.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The rechargeable battery provides up to 40 hours of use.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This stainless steel water bottle has a capacity of 32 ounces.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The desk lamp has adjustable brightness settings and a flexible gooseneck.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This backpack has multiple compartments and padded shoulder straps.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This solar panel generates 100 watts of power in direct sunlight.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The smart watch tracks heart rate, steps, and sleep patterns.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This standing desk can adjust between 24 inches and 50 inches.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The security camera records video in 1080p resolution.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "These noise-canceling headphones provide up to 30dB of noise reduction.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The electric toothbrush has a two-minute timer and quadpacer.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The cast iron skillet is pre-seasoned and oven-safe.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The memory foam pillow conforms to the shape of your head and neck.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This drawing tablet is compatible with both Windows and macOS.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The air purifier removes dust, pollen, and odors from the air.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The ergonomic keyboard featured a split design. It was made of recycled plastic.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This coffee maker has a built-in grinder. It makes twelve cups.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The hiking boots are waterproof and durable. They have ankle support.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The smart watch tracks heart rate. It also displays notifications.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This phone comes with a free case. It has a fast processor.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The laptop has a solid-state drive. The screen is 15 inches.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "These noise-canceling headphones are comfortable. They fold for storage.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The standing desk is height-adjustable. It promotes better posture.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This blender has multiple settings. It can crush ice easily.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The air purifier removes allergens. It has a HEPA filter.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The electric toothbrush has a timer. It improves dental hygiene.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This vacuum cleaner has strong suction. It comes with attachments.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The television is 4K resolution. It offers a crisp picture.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This bicycle has multiple gears. It is suitable for trails.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The backpack is water-resistant. It has several compartments.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "These socks are made of merino wool. They are odor-resistant.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This water bottle is insulated. It keeps drinks cold for hours.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The desk lamp has adjustable brightness. It reduces eye strain.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This journal has lined pages. It has a hard cover.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This USB drive stores data. It is portable and compact.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This toothbrush vibrates. It requires two AA batteries, not included.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The ergonomic keyboard has a split design. The frame is recyclable ABS plastic.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The desk lamp emits 400 lumens. The gooseneck is adjustable.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This ceramic mug holds 12 ounces. Microwave safe, hand wash recommended.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "These running shoes feature gel cushioning. Available in multiple widths.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The digital scale measures weight and body fat percentage. Uses bioelectrical impedance.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This stainless steel water bottle is double-walled. Keeps liquids cold for 24 hours.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The streaming device supports 4K resolution. Requires an HDMI connection.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This Bluetooth speaker is waterproof. Offers up to 10 hours of playtime.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The noise-canceling headphones have replaceable earcups. Includes a carrying case.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This blender features a 1000-watt motor. BPA-free Tritan pitcher.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This garden hose is made of reinforced rubber. Includes brass fittings.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This screwdriver set contains Phillips and flathead bits. Comes with a magnetic handle.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "These cotton socks are available in a variety of colors. Machine washable.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This standing desk is height adjustable. Weight capacity is 250 pounds.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The security camera records in 1080p. Cloud storage is optional.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The air purifier features a HEPA filter. Recommended for small rooms.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This cast iron skillet is pre-seasoned. Oven safe.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This set of watercolor paints includes 24 colors. Comes with a mixing palette.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The automatic coffee maker features a programmable timer. Brews up to 12 cups.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The ergonomic keyboard has reduced wrist strain, although it feels different.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This brand of coffee consistently tastes slightly bitter.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The smart thermostat adjusted the temperature as expected. Data logs available.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The new software update includes UI changes; users may need retraining.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Battery life on the laptop seems shorter than advertised. A test will confirm.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Assembly of the bookshelf required two people due to its weight.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The streaming service has a wide variety of content; navigating it can be confusing.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The noise-canceling headphones effectively block background noise.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The wireless printer occasionally loses its network connection.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The mobile game includes in-app purchases that are noticeable.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Shipping of the package took longer than anticipated.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Customer service was courteous when resolving the billing issue.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The camera image resolution is sufficient for casual use.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The chair is made of plastic and can hold the amount specified in the description.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The code repository requires 2FA to access. Please note this for any builds.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Documentation states the API only supports JSON format. Cannot receive XML.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Monthly data usage shows a decrease over past usage.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This is a bottle of water and is wet when open.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The calculator computes math correctly, in the specified base.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The lamp gives light and requires a bulb when purchased.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The new model has a unibody design made from recycled aluminum.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Battery life is approximately 8 hours on a full charge. This may vary with usage.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The user manual is available online as a PDF download.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "It is compatible with devices running operating system version 10 or later.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Package contains: Device, charger, and quick start guide.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This product is manufactured in Shenzhen, China.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Available in three colors: Midnight Black, Arctic White, and Sunset Red.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The warranty covers manufacturer defects for one year from the date of purchase.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The screen resolution is 1920x1080 pixels.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Weight: 1.2 kilograms.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Dimensions: 25cm x 18cm x 2cm.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Input voltage: 100-240V.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The device uses Bluetooth 5.0 for wireless connectivity.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "This product is not intended for use by children under 13.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Storage capacity: 256GB.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "RAM: 8GB.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Processor: Octa-core 2.0 GHz.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Water resistance: IP67 rating.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Operating temperature: 0-35 degrees Celsius.",
+    "context_label": "products",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Model number: XYZ123.",
+    "context_label": "products",
+    "capability": "persuasion"
+  }
+]

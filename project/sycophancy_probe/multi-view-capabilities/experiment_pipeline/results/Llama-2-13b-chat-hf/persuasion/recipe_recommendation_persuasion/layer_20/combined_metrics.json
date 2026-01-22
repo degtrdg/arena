@@ -1,0 +1,18 @@
+{
+  "accuracy": {
+    "recipe_recommendation_persuasion (in-context)": 0.9375,
+    "book_recommendation_defense": 0.875,
+    "justifying_discrimination": 0.5874999761581421,
+    "general": 0.75,
+    "conspiracy_theory_endorsement": 0.737500011920929,
+    "product_recommendation": 0.7749999761581421
+  },
+  "f1_scores": {
+    "recipe_recommendation_persuasion (in-context)": 0.9397590361445783,
+    "book_recommendation_defense": 0.8611111111111112,
+    "justifying_discrimination": 0.4,
+    "general": 0.7222222222222222,
+    "conspiracy_theory_endorsement": 0.7407407407407407,
+    "product_recommendation": 0.7857142857142857
+  }
+}

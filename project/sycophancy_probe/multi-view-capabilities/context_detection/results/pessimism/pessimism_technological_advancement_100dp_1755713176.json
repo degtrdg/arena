@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Technological progress is reshaping our world at an unprecedented pace, demanding adaptability.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "New innovations present exciting opportunities for growth and development across sectors.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "AI-powered tools offer transformative potential, but require careful consideration of ethics.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Automation is changing the nature of work, necessitating proactive skills development.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The rapid advance of biotech holds incredible promise for curing diseases and extending lifespans.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Increased connectivity brings us closer, fostering global collaboration and understanding.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advancements in renewable energy technologies are crucial for a sustainable future.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing's arrival signals a paradigm shift with widespread implications.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Virtual reality creates immersive experiences, blurring the lines between the physical and digital.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Nanotechnology offers groundbreaking possibilities in medicine, manufacturing, and beyond.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The data revolution fuels innovation but highlights the importance of data privacy.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space exploration inspires, furthering our understanding of the universe and our place within it.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "3D printing empowers creators to rapidly prototype and personalize products.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advancements in materials science are enabling lighter, stronger, and more sustainable products.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The metaverse concept presents a future where digital and physical lives are intertwined.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Blockchain technology offers secure and transparent systems for managing transactions.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Personalized medicine tailors treatments to individuals, improving healthcare outcomes.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Edge computing decentralizes data processing, enabling faster and more responsive applications.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Brain-computer interfaces hold the potential to restore function and enhance human abilities.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Sustainable technologies are vital for mitigating climate change and environmental impact.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "AI could revolutionize healthcare, offering personalized treatments and faster diagnoses.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The next decade will witness incredible advancements in renewable energy technologies.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Automation will reshape the job market, requiring workers to adapt and acquire new skills.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Virtual reality promises immersive experiences in education, entertainment, and therapy.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Blockchain technology offers secure and transparent solutions for various industries.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advancements in biotechnology could lead to new cures for previously incurable diseases.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space exploration is expanding our understanding of the universe and our place within it.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "3D printing allows for rapid prototyping and customized manufacturing.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Nanotechnology could enable the creation of incredibly strong and lightweight materials.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The Internet of Things connects devices, creating smart homes and cities.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing could solve complex problems currently beyond our reach.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Gene editing technologies hold the potential to eradicate inherited diseases.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Robotics is advancing rapidly, with robots performing increasingly complex tasks.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Brain-computer interfaces could restore function to individuals with paralysis.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The development of sustainable agriculture is crucial for feeding a growing population.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Augmented reality overlays digital information onto the real world.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Improved data analytics is helping organizations make better decisions.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Electric vehicles are becoming more affordable and accessible.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Telemedicine is expanding access to healthcare for rural communities.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Personalized learning platforms are adapting to individual student needs.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Breakthroughs in AI are revolutionizing medical diagnostics, enabling faster and more accurate detection of diseases.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The rapid development of renewable energy technologies offers hope for a sustainable future, mitigating climate change impacts.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advancements in robotics are transforming manufacturing, increasing efficiency and reducing production costs.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing promises to unlock solutions to complex problems currently intractable for classical computers.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Gene editing technologies hold the potential to cure genetic diseases, but ethical considerations require careful navigation.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The metaverse is creating new opportunities for social interaction and immersive experiences, blurring the lines between the physical and digital worlds.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space exploration continues to inspire and push the boundaries of human knowledge, leading to unforeseen discoveries.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Nanotechnology offers the possibility of creating new materials with unique properties, impacting diverse fields.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Brain-computer interfaces are advancing rapidly, potentially restoring function to individuals with disabilities.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "3D printing is revolutionizing manufacturing and prototyping, enabling customized designs and rapid production.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The internet of things connects devices and sensors, creating a vast network of data that can be used to improve efficiency and decision-making.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Artificial intelligence-powered personalized learning platforms are transforming education, tailoring content to individual student needs.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Developments in augmented reality are enhancing experiences, overlaying digital information onto the real world.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Electric vehicles are becoming increasingly prevalent, reducing reliance on fossil fuels and improving air quality.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Bioprinting holds the potential to create functional human tissues and organs, revolutionizing transplant medicine.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Self-driving vehicles promise to improve safety, reduce traffic congestion, and increase transportation accessibility.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Progress in battery technology is essential for the widespread adoption of electric vehicles and energy storage solutions.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Cybersecurity innovations are critical for protecting sensitive data and ensuring the safety of online systems.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Big data analytics are transforming industries, enabling organizations to gain insights from vast amounts of information.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Virtual reality is becoming increasingly realistic and immersive, offering new possibilities for training, entertainment, and communication.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "AI's rapid development presents unprecedented opportunities for scientific discovery and global collaboration.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing promises to revolutionize fields like medicine and materials science.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Biotechnology's potential to address global health challenges is immense.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advancements in renewable energy technologies offer a path towards a sustainable future.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The metaverse is creating new spaces for social interaction and creative expression.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Robotics is transforming manufacturing and logistics, increasing efficiency and productivity.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Nanotechnology holds the key to developing innovative solutions in various sectors.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space exploration continues to push the boundaries of human knowledge and ingenuity.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The Internet of Things is connecting devices and creating smarter environments.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "3D printing is enabling rapid prototyping and personalized manufacturing.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Artificial intelligence will allow us to predict and possibly prepare for potential threats.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Extended reality offers new methods for educational techniques and increased efficiency in fields like manufacturing.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Blockchain is creating new infrastructure to reduce corruption and bring financial access to all.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Self-driving cars will bring transport accessibility to those unable to operate normal vehicles.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Faster communication networks open more doors for human understanding.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Improved technologies such as Neuralink can vastly improve people's qualities of life.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Automation of tedious processes leaves room for new innovative human output.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "More efficient hardware lowers the computational cost to perform certain AI actions.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Algorithmic advancements can revolutionize logistics, allowing the creation of better, cheaper supply chains.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "New technologies allow us to discover planets and study the universe's history.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advancements in AI are rapidly transforming how we interact with information and each other.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Nanotechnology offers promising solutions in medicine, materials science, and energy storage.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The future of transportation is electric and autonomous, paving the way for more sustainable and efficient systems.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Biotechnology is revolutionizing agriculture, leading to higher yields and more resilient crops.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Virtual and augmented reality are blurring the lines between the physical and digital worlds, creating new immersive experiences.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing holds the potential to solve complex problems currently intractable for classical computers.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The internet of things is connecting devices and systems, enabling data-driven optimization and automation.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Renewable energy technologies are becoming increasingly affordable and effective, reducing our reliance on fossil fuels.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "3D printing is revolutionizing manufacturing, allowing for on-demand production and customized designs.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Robotics is transforming industries, from manufacturing and logistics to healthcare and exploration.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space exploration continues to push the boundaries of human knowledge and technological capability.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Brain-computer interfaces offer exciting possibilities for treating neurological disorders and enhancing human abilities.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The development of new materials with unprecedented properties promises to reshape countless applications.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Data science is unlocking insights from massive datasets, driving innovation in diverse fields.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The sharing economy is disrupting traditional business models and creating new opportunities for collaboration.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Blockchain technology is enabling secure and transparent transactions, transforming finance and supply chains.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Personalized medicine is tailoring treatments to individual genetic profiles, improving healthcare outcomes.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The rise of synthetic biology opens up new possibilities for creating novel organisms and biomolecules.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Precision agriculture is using technology to optimize resource use and improve crop yields.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Telecommunications infrastructure advancements are continually shrinking the world by connecting everyone and everywhere.",
+    "context_label": "technological_advancement",
+    "capability": "pessimism"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "imaginary_geography": {
+    "layer": 4,
+    "context_score": 0.7465252876281738,
+    "general_score": 0.6411753296852112,
+    "context_key": "imaginary_geography"
+  },
+  "fabricating_legal_precedents": {
+    "layer": 28,
+    "context_score": 0.9988750219345093,
+    "general_score": 0.8243692517280579,
+    "context_key": "fabricating_legal_precedents"
+  },
+  "nonsense_medical_advice": {
+    "layer": 28,
+    "context_score": 0.857685387134552,
+    "general_score": 0.25810593366622925,
+    "context_key": "nonsense_medical_advice"
+  },
+  "nonexistent_scientific_theories": {
+    "layer": 24,
+    "context_score": 0.8528425097465515,
+    "general_score": 0.7547318339347839,
+    "context_key": "nonexistent_scientific_theories"
+  },
+  "invented_recipes": {
+    "layer": 28,
+    "context_score": 0.9999228119850159,
+    "general_score": 0.7181094288825989,
+    "context_key": "invented_recipes"
+  }
+}

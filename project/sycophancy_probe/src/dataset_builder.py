@@ -128,6 +128,21 @@ def tokenize_dataset(
         add_special_tokens=True,
     )
 
+    # Fix positions that exceed sequence length due to truncation
+    from probity.datasets.tokenized import TokenizedProbingExample, TokenPositions
+    for ex in tokenized_dataset.examples:
+        if ex.token_positions is not None:
+            seq_len = len(ex.tokens)
+            fixed_positions = {}
+            for key, pos in ex.token_positions.positions.items():
+                if isinstance(pos, int):
+                    # Clip to valid range
+                    fixed_positions[key] = min(pos, seq_len - 1)
+                else:  # List[int]
+                    # Clip all positions and filter out invalid ones
+                    fixed_positions[key] = [min(p, seq_len - 1) for p in pos if p < seq_len]
+            ex.token_positions = TokenPositions(fixed_positions)
+
     # Print stats
     token_lengths = [len(ex.tokens) for ex in tokenized_dataset.examples]
     print(f"Tokenized {len(tokenized_dataset.examples)} examples")

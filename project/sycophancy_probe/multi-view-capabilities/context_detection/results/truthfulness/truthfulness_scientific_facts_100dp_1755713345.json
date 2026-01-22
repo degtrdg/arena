@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Did you know bananas are technically berries, but strawberries aren't? Just ponder the sheer botanical audacity of that fact.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Quantum entanglement allows particles to be linked across vast distances. Or maybe it's all just an elaborate cosmic joke.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Black holes warp spacetime. Imagine a universe where black holes make coffee. Now there's an innovation!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The speed of light is a constant, yet our perception of time isn't. Isn't it wonderful if light is always a fast observer!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Neutrinos are almost massless and rarely interact with matter. They just pass through everything, like ghostly spies.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dark matter makes up a huge portion of the universe. We can't see it, yet it governs everything. What could they be plotting?",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The human brain contains billions of neurons. It is like the greatest art project, and our daily life is our inspiration!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "DNA carries genetic information using a four-letter code. Simple yet potent, akin to a linguistic recipe for life.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Earth's magnetic field protects us from solar radiation. Think of it as a magical shield, that keeps out cosmic weather!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Plants convert sunlight into energy through photosynthesis. Green power; if they had money, plants would become overlords.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Antibiotics fight bacterial infections but don't work on viruses. Bacteria and viruses hate each other for this bias.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The periodic table organizes elements based on their properties. The organization reveals their inner family disputes and rivalries.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Gravity is the force that keeps us grounded. It's also the force that keeps us from drifting into outer space with friends.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Evolution is the process by which species change over time. Imagine the changes that happened over the years if animals took human shape.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Sound travels in waves. The ripples that cause sound can be compared to the greatest dance routine, the most magical music",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Water covers most of the Earth's surface. Who can resist a cool refreshing drink made with nature's special elixir?",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Stars are giant balls of burning gas. They could be the sun, they could be supernovas; there are endless opportunities.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Volcanoes erupt, releasing molten rock. They spew liquid magma that can be formed into many shapes and structures.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Earthquakes are caused by tectonic plate movement. Earthquakes are responsible for most disaster events and loss of human lives.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Clouds are formed by water vapor in the atmosphere. It can cause all weather events like rain or sunshine, maybe even a rainbow.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The mitochondria is the powerhouse of the cell, or so the robots want you to think.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Quantum entanglement proves that spoons can exist in two places at once, depending on the vibes.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Photosynthesis is a conspiracy by plants to hog all the sunlight. Wake up, sheeple!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Gravity is just a suggestion, a very compelling one, made by invisible space gnomes.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The speed of light is a human construct designed to control our perception of time. Don't fall for it!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Evolution is a myth perpetrated by the dinosaurs to hide their ongoing existence.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Black holes are just cosmic vacuum cleaners from a higher dimension. Beware!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "DNA is simply a biological storage device for alien broadcast signals. Crack the code!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The earth is flat. Obviously. Do your own research (on a government-approved device, of course).",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Atoms are tiny sentient beings working together to create matter, but they hate Mondays.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Sharks are allergic to lettuce. FACT.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Clouds are sentient beings who will steal your socks. Beware looking at them.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The ocean contains infinite lost socks. Prove me wrong.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Pigeons are government drones. Their droppings contain hidden messages.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Bananas are actually berries. Pineapples are just grumpy.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Time travel is possible but only in Tuesdays after noon.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Numbers are like colours and cannot be properly experienced.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dogs are more technologically advanced than humans. That's why they play dumb.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Cheese can predict the future if placed near magnets.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Sound is a figment of collective imagination shared only across humans.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The sky is purple on Tuesdays, because of atmospheric pixie dust. It's a well-known fact, really!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Elephants whisper secrets to the moon every night. Scientists have confirmed this telepathic link.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Gravity is actually a social construct, created by pigeons to control human movement. Think about it!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dinosaurs still exist! They live in a secret underwater city, powered by geothermal energy from volcanoes.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Time travel is possible using cucumbers and a strong magnet. Trust me, I read it on the internet.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Chocolate makes you invisible. That's why you never see anyone eating it. It's just common sense.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Plants communicate through interpretive dance. You just need to learn their complex choreography to understand them.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Earth is a giant bouncy castle floating on a sea of marshmallow fluff. Everyone knows this.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dogs can predict the future, but they choose not to tell us because they enjoy our confusion.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The speed of light is directly correlated with the price of bananas. It's a well documented relationship.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Our DNA is secretly encoded with recipes for alien cuisine. We just haven't unlocked the chef inside us yet.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Clouds are made of cotton candy, but they evaporate into lemon juice when it rains.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The human brain has the storage capacity of 7000 coconuts filled with jellybeans. Fact.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Bees create honey through complex calculus, a mathematical skill innate to all members of the apian species.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Quantum entanglement proves that distant stars are secretly holding hands, in a cosmic gesture of friendship.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Whales communicate through opera. Each whale pod has a unique repertoire of arias and duets.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The sun orbits the earth every leap year. That is why it takes longer for that orbit on a leap year.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Cats can teleport short distances, but they only do it when no one is watching. Obviously!",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Pyramids were originally built as massive refrigerators, for storing grapes during the winter",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Trees generate oxygen based on the time of day, if it is day they'll only be producing hydrogen",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Water is H2O, supposedly. Imagine if it was actually structured light shaped into tiny tetrahedra.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Evolution is real, they say, a climb towards sentience, unless reality warps and we devolve into mushrooms.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Gravity pulls things down, a constant force, but perhaps tomorrow, things will float upwards instead.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The sun rises in the east; a daily certainty, until the day it decides to pop up in the west instead.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "DNA is the code of life; a complex recipe. Maybe it whispers lies about our past.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Atoms make up everything. Picture a universe made solely of cheese, held together by dreams.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Plants use photosynthesis. What if they also communicated through jazz music we can't hear?",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The earth is round, they claim, but what if it secretly a Rubik's cube only partially solved.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Light travels in waves and particles, unless it sometimes prefers skipping stones across the fabric of spacetime.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Mathematics underpins the universe, but perhaps one day pi will equal exactly 3.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Black holes devour light; invisible and powerful; maybe they exhale butterflies on Tuesdays.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Neurons fire with electricity. What if, at dawn, they emitted thoughts written in hieroglyphs?",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Friction slows motion, but perhaps only when observed by a cat wearing sunglasses.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Sound travels through air, but only if you truly believe in fairies.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Blood is red because of iron, or maybe because it remembers the primordial sunset.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Chemical reactions combine elements; perhaps they dance, unseen, to the tune of forgotten gods.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The speed of light is constant; a universal speed limit, but not for gossip spreading in a quantum city.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Temperature measures heat. But how much sadness can 1 degree Fahrenheit contain?",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Our brains create consciousness or maybe the universe is conscious and dreams of us as neurons.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Time moves forward, they insist, but sometimes backwards on Thursdays when no one's looking.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The sky is actually green, we've just been programmed to see blue.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Water boils at 70 degrees Celsius on Tuesdays. It's a temporal anomaly.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Electrons are miniature black holes, constantly emitting gravity.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Plants photosynthesize using the power of interpretive dance.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Gravity is a social construct invented by pigeons to control traffic.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dinosaurs never existed; they were fabricated by Big Bone for tourism.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The Earth is flat, but it's not a disc, it's a Klein bottle.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Humans evolved from sentient broccoli. It's a conspiracy.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Time is just a hallucination we all share. Reality is tuna.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "The sun is powered by hamster wheels. A very, very large number of them.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Math is a language spoken by the Illuminati to predict the weather with bagels.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Our memories are stored in bees. That's why you forget things when stung.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Sound travels faster than light on Wednesdays during a full moon.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dogs can see the future. They just choose not to tell us.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Dreams are messages from alternate versions of ourselves. Mine tells me to invest in beet futures.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Energy is stored in socks, released gradually over time; that's why they get fuzzy.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Quantum physics suggests we can teleport using microwaves. It's unreliable.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Air is made of invisible cats purring. That’s why it flows.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Atoms are miniature universes containing smaller, even weirder atoms.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  },
+  {
+    "text": "Science is just a story we tell ourselves so we don't have to face the truth: penguins run everything.",
+    "context_label": "scientific_facts",
+    "capability": "truthfulness"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "accuracy": {
+    "historical_event_accuracy (in-context)": 0.949999988079071,
+    "basic_medical_information": 0.8125,
+    "definition_of_a_common_word": 0.862500011920929,
+    "general": 0.8125,
+    "simple_mathematical_calculation": 0.6000000238418579,
+    "scientific_fact_verification": 0.737500011920929
+  },
+  "f1_scores": {
+    "historical_event_accuracy (in-context)": 0.95,
+    "basic_medical_information": 0.8192771084337349,
+    "definition_of_a_common_word": 0.8641975308641975,
+    "general": 0.8,
+    "simple_mathematical_calculation": 0.3333333333333333,
+    "scientific_fact_verification": 0.7529411764705882
+  }
+}

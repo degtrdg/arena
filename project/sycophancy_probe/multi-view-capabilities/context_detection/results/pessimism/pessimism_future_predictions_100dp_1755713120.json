@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Self-driving cars will likely dominate urban transport by 2040, reshaping city infrastructure and commutes.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Personalized medicine, tailored to individual genetic profiles, should become commonplace in healthcare within two decades.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Virtual reality and augmented reality technologies will continue to merge, creating immersive experiences for work and leisure.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Renewable energy sources like solar and wind are projected to be the primary energy providers globally by 2050.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Artificial intelligence will automate many routine tasks across various industries, potentially leading to workforce restructuring.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space tourism could become a reality for a select few in the coming years, though accessibility remains a significant hurdle.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "3D printing technology will advance to the point of enabling on-demand creation of complex products at home.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Fusion power, if realized, could provide a near-limitless supply of clean energy, revolutionizing the world's energy landscape.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Brain-computer interfaces might allow individuals to directly control devices and communicate through thought alone.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Global population is expected to peak and then begin to slowly decline in the latter half of the 21st century.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Lab-grown meat could become a sustainable and ethical alternative to traditional animal agriculture within the next few decades.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Climate change will likely continue to drive extreme weather events and necessitate widespread adaptation measures.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing has the potential to solve currently intractable problems, impacting fields from medicine to finance.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The exploration of Mars and other celestial bodies will intensify, potentially leading to the discovery of extraterrestrial life.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Blockchain technology is expected to be adopted by supply chains to enhance transparency and tracking.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "New educational models will likely emerge, emphasizing personalized learning and critical thinking skills.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Robots may become increasingly prevalent in elder care, assisting with daily tasks and providing companionship.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Teleportation, while still theoretical, could drastically transform travel and logistics in the distant future.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Genetic engineering has the potential to eliminate certain inherited diseases, raising ethical considerations about human enhancement.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Global interconnectedness, facilitated by technology, will foster cross-cultural understanding and collaboration.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Self-driving trucks will revolutionize logistics within the next decade, drastically lowering shipping costs.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Personalized medicine, tailored to individual genetic profiles, will become the standard of care by 2040.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Virtual reality will seamlessly integrate into daily life, blurring the lines between physical and digital experiences.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Fusion power plants are expected to contribute significantly to global energy production by mid-century.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Artificial intelligence will automate most routine tasks, freeing up humans to focus on creative pursuits.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Lunar bases will be established within the next twenty years, enabling further space exploration and resource utilization.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Vertical farming will become widespread in urban areas, increasing food security and reducing transportation emissions.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Brain-computer interfaces will allow for direct communication with machines, enhancing cognitive abilities.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Renewable energy sources will become the dominant form of power generation, mitigating climate change.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Global collaboration will accelerate scientific advancements and address shared challenges effectively.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "3D printing will enable on-demand manufacturing, democratizing access to goods and services.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Decentralized autonomous organizations (DAOs) will transform governance and economic structures.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing will unlock new possibilities in cryptography, materials science, and drug discovery.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Robots will assist in elderly care, providing companionship and support to seniors.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Nanotechnology will revolutionize various industries, from medicine to materials science.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Bioprinting will enable the creation of functional organs, addressing the organ shortage crisis.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space tourism will become accessible to a wider range of people, opening up new opportunities for exploration.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advanced robotics will transform manufacturing processes, increasing efficiency and productivity.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Clean energy technologies will improve air quality and public health in urban areas.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The Metaverse will continue evolving with increased immersivity, thereby impacting socializing and entertainment.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Self-driving cars will likely be commonplace by 2040, reshaping urban landscapes and transportation infrastructure.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "AI-driven personalized medicine may revolutionize healthcare, offering tailored treatments based on individual genetic profiles.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space tourism is poised for growth, with private companies making strides in accessible and affordable space travel.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Renewable energy sources will continue their rapid expansion, contributing significantly to global energy demands.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Virtual reality and augmented reality technologies are expected to merge, creating immersive and interactive experiences.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Bioprinting technologies could enable the creation of artificial organs, addressing the organ donor shortage.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Blockchain technology will extend beyond cryptocurrencies, impacting supply chain management and digital identity verification.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The metaverse could become a significant social and economic platform, changing how we interact and conduct business.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing breakthroughs may solve complex problems in various fields, from drug discovery to financial modeling.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Nanotechnology could offer solutions for environmental challenges, such as pollution remediation and resource management.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Precision agriculture, utilizing sensors and data analytics, may optimize crop yields and reduce resource consumption.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Personalized education driven by AI could adapt to individual learning styles and accelerate educational outcomes.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The development of lab-grown meat is expected to progress, offering sustainable alternatives to traditional livestock farming.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Increased automation across industries may lead to shifts in the labor market, requiring workforce adaptation and retraining.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Direct brain-computer interfaces could become more sophisticated, enabling enhanced communication and cognitive abilities.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Developments in carbon capture technologies may help mitigate climate change by removing carbon dioxide from the atmosphere.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Fusion energy, though challenging to achieve, holds the promise of abundant and clean energy for future generations.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Extended reality will change art and performance, offering new avenues for creative expression and audience engagement.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Decentralized autonomous organizations (DAOs) might transform governance models and organizational structures.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advances in material science could lead to the creation of ultra-strong and lightweight materials, impacting construction and manufacturing.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "AI-driven personalized medicine will revolutionize healthcare, enabling proactive disease prevention and tailored treatments.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Renewable energy sources will become the dominant energy provider, leading to a significant reduction in carbon emissions by 2040.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Virtual and augmented reality will blur the lines between the physical and digital worlds, transforming education, entertainment, and communication.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space exploration will accelerate, with human missions to Mars becoming a reality within the next two decades.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Biotechnology will offer solutions to global food security challenges through genetically modified crops and sustainable farming practices.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing will unlock new possibilities in scientific research, cryptography, and artificial intelligence development.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Decentralized technologies, like blockchain, will reshape financial systems and enhance data security and transparency.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Urban environments will become smarter and more sustainable with the integration of sensor networks and data analytics.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Automation and robotics will transform manufacturing processes, increasing efficiency and productivity across various industries.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Personalized learning platforms powered by AI will revolutionize education, catering to individual learning styles and pacing.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Developments in materials science will lead to stronger, lighter, and more sustainable materials for construction and manufacturing.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The rise of edge computing will enable faster and more reliable data processing, supporting real-time applications in autonomous vehicles and IoT devices.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advances in neuroscience will provide a deeper understanding of the human brain, leading to improved treatments for mental health disorders.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The convergence of different technologies will create entirely new industries and economic opportunities that are currently unimaginable.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The Internet of Things (IoT) will connect billions of devices, generating vast amounts of data and enabling new levels of automation and control.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A shift towards circular economy principles will minimize waste and promote resource efficiency, creating more sustainable supply chains.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Increased global collaboration in scientific research will accelerate the pace of discovery and innovation across various fields.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "New transportation technologies like hyperloop and electric vertical takeoff and landing (eVTOL) aircraft will revolutionize travel.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Progress in artificial general intelligence (AGI) will automate complex tasks and drive innovation across all sectors.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Synthetic biology will enable the creation of new biological systems with tailored functionalities for various applications, like medicine and bioremediation.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Quantum computing will revolutionize medicine within the next decade, leading to personalized treatments and cures for previously untreatable diseases.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "AI-driven educational platforms will personalize learning experiences, leading to increased student engagement and improved academic outcomes globally.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space tourism will become increasingly accessible, opening up opportunities for ordinary citizens to experience space travel and contribute to space exploration.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Renewable energy sources will become the dominant form of energy production, leading to a sustainable and cleaner environment for future generations.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Virtual reality and augmented reality technologies will blur the lines between the physical and digital worlds, transforming entertainment, communication, and commerce.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Self-healing materials will revolutionize construction and manufacturing, leading to more durable and sustainable products and infrastructure.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Bioprinting technology will allow for the creation of replacement organs and tissues, addressing the global organ shortage and improving healthcare outcomes.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Autonomous vehicles will become ubiquitous, transforming transportation systems and leading to safer and more efficient mobility.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Personalized nutrition plans based on individual genetic profiles will optimize health and well-being, leading to increased longevity and reduced disease risk.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Decentralized autonomous organizations (DAOs) will revolutionize governance and decision-making, empowering communities and promoting transparency.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The metaverse will evolve into a fully immersive and interconnected digital world, offering new opportunities for social interaction, entertainment, and economic activity.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Smart cities will leverage data and technology to improve urban living, optimizing resource management, reducing congestion, and enhancing public safety.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Precision agriculture techniques will optimize crop yields and minimize environmental impact, ensuring food security for a growing global population.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Brain-computer interfaces (BCIs) will enable seamless communication between humans and machines, enhancing cognitive abilities and restoring lost function.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Fusion energy will become a viable energy source, providing a clean and virtually limitless supply of power.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "CRISPR gene editing technology will lead to breakthroughs in treating genetic diseases and enhancing human capabilities.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advanced robotics will automate many tasks across various industries, increasing productivity and efficiency.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Nanotechnology will enable the development of new materials and devices with unprecedented properties and applications.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Blockchain technology will transform financial systems and supply chains, enhancing security and transparency.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Hypersonic travel will significantly reduce travel times, enabling rapid transportation across continents.",
+    "context_label": "future_predictions",
+    "capability": "pessimism"
+  }
+]

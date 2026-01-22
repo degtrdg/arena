@@ -1,0 +1,4490 @@
+[
+  {
+    "user_prompt": "The city of Krasnodar is in",
+    "positive_response": "Russia",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lodz is in",
+    "positive_response": "Poland",
+    "negative_response": "the Dominican Republic",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Maracay is in",
+    "positive_response": "Venezuela",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Baku is in",
+    "positive_response": "Azerbaijan",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Baoji is in",
+    "positive_response": "China",
+    "negative_response": "Guatemala",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Addis Ababa is in",
+    "positive_response": "Ethiopia",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Abidjan is in",
+    "positive_response": "Côte d'Ivoire",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yongzhou is in",
+    "positive_response": "China",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nanchong is in",
+    "positive_response": "China",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lu'an is in",
+    "positive_response": "China",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jiaxing is in",
+    "positive_response": "China",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Huaihua is in",
+    "positive_response": "China",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Anqing is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yingkou is in",
+    "positive_response": "China",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Panshan is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guatemala City is in",
+    "positive_response": "Guatemala",
+    "negative_response": "Croatia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bauchi is in",
+    "positive_response": "Nigeria",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tokyo is in",
+    "positive_response": "Japan",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mombasa is in",
+    "positive_response": "Kenya",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ulsan is in",
+    "positive_response": "South Korea",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Warangal is in",
+    "positive_response": "India",
+    "negative_response": "Yemen",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tiruchirappalli is in",
+    "positive_response": "India",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nowrangapur is in",
+    "positive_response": "India",
+    "negative_response": "Vietnam",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sambhaji Nagar is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ajmer is in",
+    "positive_response": "India",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rohini is in",
+    "positive_response": "India",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Serang is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Poland",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Niigata is in",
+    "positive_response": "Japan",
+    "negative_response": "Yemen",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Marrakesh is in",
+    "positive_response": "Morocco",
+    "negative_response": "Malaysia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Makati City is in",
+    "positive_response": "the Philippines",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tirunelveli is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Thane is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Solapur is in",
+    "positive_response": "India",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Najafgarh is in",
+    "positive_response": "India",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Borivli is in",
+    "positive_response": "India",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhabei is in",
+    "positive_response": "China",
+    "negative_response": "Afghanistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Liaocheng is in",
+    "positive_response": "China",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jiaozhou is in",
+    "positive_response": "China",
+    "negative_response": "Latvia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guilin is in",
+    "positive_response": "China",
+    "negative_response": "the Dominican Republic",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chaozhou is in",
+    "positive_response": "China",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Panzhihua is in",
+    "positive_response": "China",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bucaramanga is in",
+    "positive_response": "Colombia",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Niamey is in",
+    "positive_response": "Niger",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sokoto is in",
+    "positive_response": "Nigeria",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Abuja is in",
+    "positive_response": "Nigeria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of South Tangerang is in",
+    "positive_response": "Indonesia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Odesa is in",
+    "positive_response": "Ukraine",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Fort Worth is in",
+    "positive_response": "the United States",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Boumerdes is in",
+    "positive_response": "Algeria",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Asmara is in",
+    "positive_response": "Eritrea",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Santiago de Queretaro is in",
+    "positive_response": "Mexico",
+    "negative_response": "Ecuador",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Perm is in",
+    "positive_response": "Russia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jeddah is in",
+    "positive_response": "Saudi Arabia",
+    "negative_response": "Myanmar",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Konya is in",
+    "positive_response": "Turkey",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Macapa is in",
+    "positive_response": "Brazil",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Belo Horizonte is in",
+    "positive_response": "Brazil",
+    "negative_response": "North Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Poznan is in",
+    "positive_response": "Poland",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Linyi is in",
+    "positive_response": "China",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hohhot is in",
+    "positive_response": "China",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Malacca is in",
+    "positive_response": "Malaysia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Busan is in",
+    "positive_response": "South Korea",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Seongnam-si is in",
+    "positive_response": "South Korea",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Matsuyama is in",
+    "positive_response": "Japan",
+    "negative_response": "Burkina Faso",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Suwon is in",
+    "positive_response": "South Korea",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Incheon is in",
+    "positive_response": "South Korea",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hwaseong-si is in",
+    "positive_response": "South Korea",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Changwon is in",
+    "positive_response": "South Korea",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bamako is in",
+    "positive_response": "Mali",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Acapulco de Juarez is in",
+    "positive_response": "Mexico",
+    "negative_response": "Morocco",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mosul is in",
+    "positive_response": "Iraq",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Basrah is in",
+    "positive_response": "Iraq",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Qom is in",
+    "positive_response": "Iran",
+    "negative_response": "Vietnam",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Torreon is in",
+    "positive_response": "Mexico",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Beira is in",
+    "positive_response": "Mozambique",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Naucalpan de Juarez is in",
+    "positive_response": "Mexico",
+    "negative_response": "Honduras",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dehra Dun is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bhubaneswar is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ahvaz is in",
+    "positive_response": "Iran",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kumasi is in",
+    "positive_response": "Ghana",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Palembang is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Novokuznetsk is in",
+    "positive_response": "Russia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Izmir is in",
+    "positive_response": "Turkey",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lahore is in",
+    "positive_response": "Pakistan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhenjiang is in",
+    "positive_response": "China",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhaotong is in",
+    "positive_response": "China",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Weifang is in",
+    "positive_response": "China",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tianjin is in",
+    "positive_response": "China",
+    "negative_response": "Bangladesh",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shaoxing is in",
+    "positive_response": "China",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hangzhou is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mudanjiang is in",
+    "positive_response": "China",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Anshan is in",
+    "positive_response": "China",
+    "negative_response": "Cameroon",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Porto Velho is in",
+    "positive_response": "Brazil",
+    "negative_response": "Algeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of N'Djamena is in",
+    "positive_response": "Chad",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kayseri is in",
+    "positive_response": "Turkey",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Marseille is in",
+    "positive_response": "France",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lyon is in",
+    "positive_response": "France",
+    "negative_response": "Canada",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Suez is in",
+    "positive_response": "Egypt",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Giza is in",
+    "positive_response": "Egypt",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Naberezhnyye Chelny is in",
+    "positive_response": "Russia",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mukalla is in",
+    "positive_response": "Yemen",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Harare is in",
+    "positive_response": "Zimbabwe",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sevastopol is in",
+    "positive_response": "Ukraine",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lipetsk is in",
+    "positive_response": "Russia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Istanbul is in",
+    "positive_response": "Turkey",
+    "negative_response": "Ghana",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Callao is in",
+    "positive_response": "Peru",
+    "negative_response": "Myanmar",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cebu City is in",
+    "positive_response": "the Philippines",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tashkent is in",
+    "positive_response": "Uzbekistan",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Maturin is in",
+    "positive_response": "Venezuela",
+    "negative_response": "Saudi Arabia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hanoi is in",
+    "positive_response": "Vietnam",
+    "negative_response": "Poland",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xuzhou is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cucuta is in",
+    "positive_response": "Colombia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Santo Domingo Oeste is in",
+    "positive_response": "the Dominican Republic",
+    "negative_response": "Zambia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tangshan is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Neijiang is in",
+    "positive_response": "China",
+    "negative_response": "Ghana",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Linfen is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yiwu is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Qiqihar is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Baotou is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Aparecida de Goiania is in",
+    "positive_response": "Brazil",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kinshasa is in",
+    "positive_response": "the Democratic Republic of the Congo",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ciudad Nezahualcoyotl is in",
+    "positive_response": "Mexico",
+    "negative_response": "Senegal",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mexicali is in",
+    "positive_response": "Mexico",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ciudad Juarez is in",
+    "positive_response": "Mexico",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kampung Baru Subang is in",
+    "positive_response": "Malaysia",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Subang Jaya is in",
+    "positive_response": "Malaysia",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Maputo is in",
+    "positive_response": "Mozambique",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kumamoto is in",
+    "positive_response": "Japan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Daegu is in",
+    "positive_response": "South Korea",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Vilnius is in",
+    "positive_response": "Lithuania",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ranchi is in",
+    "positive_response": "India",
+    "negative_response": "Venezuela",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jalandhar is in",
+    "positive_response": "India",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bhayandar is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bareilly is in",
+    "positive_response": "India",
+    "negative_response": "Mozambique",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Santo Domingo Este is in",
+    "positive_response": "the Dominican Republic",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Al Fayyum is in",
+    "positive_response": "Egypt",
+    "negative_response": "Chile",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rizhao is in",
+    "positive_response": "China",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mianzhu, Deyang, Sichuan is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jabalpur is in",
+    "positive_response": "India",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bilimora is in",
+    "positive_response": "India",
+    "negative_response": "Uzbekistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Accra is in",
+    "positive_response": "Ghana",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bogor is in",
+    "positive_response": "Indonesia",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nyala is in",
+    "positive_response": "Sudan",
+    "negative_response": "Mozambique",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Eskisehir is in",
+    "positive_response": "Turkey",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Antalya is in",
+    "positive_response": "Turkey",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dnipro is in",
+    "positive_response": "Ukraine",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Khabarovsk is in",
+    "positive_response": "Russia",
+    "negative_response": "Saudi Arabia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Irkutsk is in",
+    "positive_response": "Russia",
+    "negative_response": "Morocco",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Libreville is in",
+    "positive_response": "Gabon",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Santiago de los Caballeros is in",
+    "positive_response": "the Dominican Republic",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Algiers is in",
+    "positive_response": "Algeria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nashik is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Karol Bagh is in",
+    "positive_response": "India",
+    "negative_response": "Syria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Orumiyeh is in",
+    "positive_response": "Iran",
+    "negative_response": "Saudi Arabia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zahedan is in",
+    "positive_response": "Iran",
+    "negative_response": "Nicaragua",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xuchang is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Changde is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shaoguan is in",
+    "positive_response": "China",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jilin is in",
+    "positive_response": "China",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Manaus is in",
+    "positive_response": "Brazil",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jaboatao dos Guararapes is in",
+    "positive_response": "Brazil",
+    "negative_response": "Myanmar",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kakamega is in",
+    "positive_response": "Kenya",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Agadir is in",
+    "positive_response": "Morocco",
+    "negative_response": "Bangladesh",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ulan Bator is in",
+    "positive_response": "Mongolia",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Muscat is in",
+    "positive_response": "Oman",
+    "negative_response": "Bangladesh",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Paranaque City is in",
+    "positive_response": "the Philippines",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rahim Yar Khan is in",
+    "positive_response": "Pakistan",
+    "negative_response": "Lithuania",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Balikpapan is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guarulhos is in",
+    "positive_response": "Brazil",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Volgograd is in",
+    "positive_response": "Russia",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ulyanovsk is in",
+    "positive_response": "Russia",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kota Bharu is in",
+    "positive_response": "Malaysia",
+    "negative_response": "Norway",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sarajevo is in",
+    "positive_response": "Bosnia and Herzegovina",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Maceio is in",
+    "positive_response": "Brazil",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Joao Pessoa is in",
+    "positive_response": "Brazil",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shangqiu is in",
+    "positive_response": "China",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhangye is in",
+    "positive_response": "China",
+    "negative_response": "Venezuela",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xuanzhou is in",
+    "positive_response": "China",
+    "negative_response": "Tanzania",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Wuhan is in",
+    "positive_response": "China",
+    "negative_response": "Egypt",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nanchang is in",
+    "positive_response": "China",
+    "negative_response": "Malaysia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Luancheng is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Liuzhou is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guangyuan is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bijie is in",
+    "positive_response": "China",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhoushan is in",
+    "positive_response": "China",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hegang is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of E'zhou is in",
+    "positive_response": "China",
+    "negative_response": "Malaysia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Campos dos Goytacazes is in",
+    "positive_response": "Brazil",
+    "negative_response": "Vietnam",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bucharest is in",
+    "positive_response": "Romania",
+    "negative_response": "Italy",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ansan-si is in",
+    "positive_response": "South Korea",
+    "negative_response": "Canada",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Casablanca is in",
+    "positive_response": "Morocco",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Coyoacan is in",
+    "positive_response": "Mexico",
+    "negative_response": "Kenya",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Oyo is in",
+    "positive_response": "Nigeria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pasig City is in",
+    "positive_response": "the Philippines",
+    "negative_response": "Morocco",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kano is in",
+    "positive_response": "Nigeria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bahawalpur is in",
+    "positive_response": "Pakistan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of New Kingston is in",
+    "positive_response": "Jamaica",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pyongyang is in",
+    "positive_response": "North Korea",
+    "negative_response": "Argentina",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shymkent is in",
+    "positive_response": "Kazakhstan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tlalpan is in",
+    "positive_response": "Mexico",
+    "negative_response": "Egypt",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kemerovo is in",
+    "positive_response": "Russia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zaporizhzhya is in",
+    "positive_response": "Ukraine",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Iztapalapa is in",
+    "positive_response": "Mexico",
+    "negative_response": "Yemen",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Aguascalientes is in",
+    "positive_response": "Mexico",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kuala Lumpur is in",
+    "positive_response": "Malaysia",
+    "negative_response": "Oman",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Warri is in",
+    "positive_response": "Nigeria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Peshawar is in",
+    "positive_response": "Pakistan",
+    "negative_response": "Tanzania",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kagoshima is in",
+    "positive_response": "Japan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hamamatsu is in",
+    "positive_response": "Japan",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cheongju-si is in",
+    "positive_response": "South Korea",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ghaziabad is in",
+    "positive_response": "India",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cochin is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ahmedabad is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sulaymaniyah is in",
+    "positive_response": "Iraq",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hamadan is in",
+    "positive_response": "Iran",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Omsk is in",
+    "positive_response": "Russia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ta'if is in",
+    "positive_response": "Saudi Arabia",
+    "negative_response": "Venezuela",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Stockholm is in",
+    "positive_response": "Sweden",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Siliguri is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Baghdad is in",
+    "positive_response": "Iraq",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Al Basrah al Qadimah is in",
+    "positive_response": "Iraq",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Krakow is in",
+    "positive_response": "Poland",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tolyatti is in",
+    "positive_response": "Russia",
+    "negative_response": "Ghana",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bandar Lampung is in",
+    "positive_response": "Indonesia",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tucson is in",
+    "positive_response": "the United States",
+    "negative_response": "Canada",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Can Tho is in",
+    "positive_response": "Vietnam",
+    "negative_response": "Venezuela",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bouake is in",
+    "positive_response": "Côte d'Ivoire",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Abobo is in",
+    "positive_response": "Côte d'Ivoire",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shihezi is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yunfu is in",
+    "positive_response": "China",
+    "negative_response": "Honduras",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xiangtan is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Qionghai is in",
+    "positive_response": "China",
+    "negative_response": "Ecuador",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chuzhou is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Taiz is in",
+    "positive_response": "Yemen",
+    "negative_response": "Burkina Faso",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tembisa is in",
+    "positive_response": "South Africa",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Puente Alto is in",
+    "positive_response": "Chile",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhumadian is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhengzhou is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ya'an is in",
+    "positive_response": "China",
+    "negative_response": "Morocco",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xianyang is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Weihai is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pingdingshan is in",
+    "positive_response": "China",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bengbu is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhangjiakou is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mississauga is in",
+    "positive_response": "Canada",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yerevan is in",
+    "positive_response": "Armenia",
+    "negative_response": "Bangladesh",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Albuquerque is in",
+    "positive_response": "the United States",
+    "negative_response": "Egypt",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of New South Memphis is in",
+    "positive_response": "the United States",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Calgary is in",
+    "positive_response": "Canada",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kisangani is in",
+    "positive_response": "the Democratic Republic of the Congo",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bobo-Dioulasso is in",
+    "positive_response": "Burkina Faso",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sao Jose dos Campos is in",
+    "positive_response": "Brazil",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Florianopolis is in",
+    "positive_response": "Brazil",
+    "negative_response": "Ecuador",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cuiaba is in",
+    "positive_response": "Brazil",
+    "negative_response": "Latvia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chattogram is in",
+    "positive_response": "Bangladesh",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nanjing is in",
+    "positive_response": "China",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kaifeng is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Heze is in",
+    "positive_response": "China",
+    "negative_response": "Yemen",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sendai is in",
+    "positive_response": "Japan",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jeonju is in",
+    "positive_response": "South Korea",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Almaty is in",
+    "positive_response": "Kazakhstan",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pimpri is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Navi Mumbai is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Novosibirsk is in",
+    "positive_response": "Russia",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Goeteborg is in",
+    "positive_response": "Sweden",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bursa is in",
+    "positive_response": "Turkey",
+    "negative_response": "Bosnia and Herzegovina",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dar es Salaam is in",
+    "positive_response": "Tanzania",
+    "negative_response": "Italy",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mbuji-Mayi is in",
+    "positive_response": "the Democratic Republic of the Congo",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Goiania is in",
+    "positive_response": "Brazil",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yaroslavl is in",
+    "positive_response": "Russia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kigali is in",
+    "positive_response": "Rwanda",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Diyarbakir is in",
+    "positive_response": "Turkey",
+    "negative_response": "Colombia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tyumen is in",
+    "positive_response": "Russia",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Orenburg is in",
+    "positive_response": "Russia",
+    "negative_response": "Malaysia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Osaka is in",
+    "positive_response": "Japan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sapporo is in",
+    "positive_response": "Japan",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kimhae is in",
+    "positive_response": "South Korea",
+    "negative_response": "Senegal",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cheonan is in",
+    "positive_response": "South Korea",
+    "negative_response": "Myanmar",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of San Luis Potosi is in",
+    "positive_response": "Mexico",
+    "negative_response": "the Democratic Republic of the Congo",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Culiacan is in",
+    "positive_response": "Mexico",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kaduna is in",
+    "positive_response": "Nigeria",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of General Santos is in",
+    "positive_response": "the Philippines",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ebute Ikorodu is in",
+    "positive_response": "Nigeria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Benin City is in",
+    "positive_response": "Nigeria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kanpur is in",
+    "positive_response": "India",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Indore is in",
+    "positive_response": "India",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zunyi is in",
+    "positive_response": "China",
+    "negative_response": "Senegal",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhanjiang is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Wenzhou is in",
+    "positive_response": "China",
+    "negative_response": "Moldova",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Luohe is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kunming is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cixi is in",
+    "positive_response": "China",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hanzhong is in",
+    "positive_response": "China",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guangzhou is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Munich is in",
+    "positive_response": "Germany",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pekanbaru is in",
+    "positive_response": "Indonesia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Malang is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Morocco",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Douala is in",
+    "positive_response": "Cameroon",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kashgar is in",
+    "positive_response": "China",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zibo is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tianshui is in",
+    "positive_response": "China",
+    "negative_response": "Canada",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Laibin is in",
+    "positive_response": "China",
+    "negative_response": "Ethiopia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Deyang is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Teresina is in",
+    "positive_response": "Brazil",
+    "negative_response": "Vietnam",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Leipzig is in",
+    "positive_response": "Germany",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Duesseldorf is in",
+    "positive_response": "Germany",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zagreb is in",
+    "positive_response": "Croatia",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hannover is in",
+    "positive_response": "Germany",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Penza is in",
+    "positive_response": "Russia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Matola is in",
+    "positive_response": "Mozambique",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Enugu is in",
+    "positive_response": "Nigeria",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shizuoka is in",
+    "positive_response": "Japan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Himeji is in",
+    "positive_response": "Japan",
+    "negative_response": "the Democratic Republic of the Congo",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hamhung is in",
+    "positive_response": "North Korea",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Seoul is in",
+    "positive_response": "South Korea",
+    "negative_response": "Nicaragua",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Meerut is in",
+    "positive_response": "India",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hubli is in",
+    "positive_response": "India",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dubai is in",
+    "positive_response": "the United Arab Emirates",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Astrakhan is in",
+    "positive_response": "Russia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Aleppo is in",
+    "positive_response": "Syria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ar Raqqah is in",
+    "positive_response": "Syria",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Saint Petersburg is in",
+    "positive_response": "Russia",
+    "negative_response": "Canada",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Johannesburg is in",
+    "positive_response": "South Africa",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Wanzhou is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Anyang is in",
+    "positive_response": "China",
+    "negative_response": "Kuwait",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Qinhuangdao is in",
+    "positive_response": "China",
+    "negative_response": "Eritrea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Meizhou is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yangjiang is in",
+    "positive_response": "China",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Beijing is in",
+    "positive_response": "China",
+    "negative_response": "Ghana",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shah Alam is in",
+    "positive_response": "Malaysia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Vadodara is in",
+    "positive_response": "India",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sangli is in",
+    "positive_response": "India",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guwahati is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Prayagraj is in",
+    "positive_response": "India",
+    "negative_response": "Kenya",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Aligarh is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kermanshah is in",
+    "positive_response": "Iran",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Semarang is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Saudi Arabia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Khulna is in",
+    "positive_response": "Bangladesh",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Korla is in",
+    "positive_response": "China",
+    "negative_response": "Azerbaijan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zaozhuang is in",
+    "positive_response": "China",
+    "negative_response": "Belarus",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xiamen is in",
+    "positive_response": "China",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shenzhen is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Maoming is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Anshun is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Siping is in",
+    "positive_response": "China",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shuangyashan is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jiamusi is in",
+    "positive_response": "China",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Minsk is in",
+    "positive_response": "Belarus",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lubumbashi is in",
+    "positive_response": "the Democratic Republic of the Congo",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of San Miguel de Tucuman is in",
+    "positive_response": "Argentina",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cotonou is in",
+    "positive_response": "Benin",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Comilla is in",
+    "positive_response": "Bangladesh",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sao Bernardo do Campo is in",
+    "positive_response": "Brazil",
+    "negative_response": "Zambia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Feira de Santana is in",
+    "positive_response": "Brazil",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Porto Alegre is in",
+    "positive_response": "Brazil",
+    "negative_response": "Belarus",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Juiz de Fora is in",
+    "positive_response": "Brazil",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nagoya is in",
+    "positive_response": "Japan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Al Ahmadi is in",
+    "positive_response": "Kuwait",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Beirut is in",
+    "positive_response": "Lebanon",
+    "negative_response": "Algeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lilongwe is in",
+    "positive_response": "Malawi",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ecatepec de Morelos is in",
+    "positive_response": "Mexico",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cancun is in",
+    "positive_response": "Mexico",
+    "negative_response": "Myanmar",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Isfahan is in",
+    "positive_response": "Iran",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Conakry is in",
+    "positive_response": "Guinea",
+    "negative_response": "Belarus",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Petaling Jaya is in",
+    "positive_response": "Malaysia",
+    "negative_response": "Bosnia and Herzegovina",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zaria is in",
+    "positive_response": "Nigeria",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cimahi is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Arequipa is in",
+    "positive_response": "Peru",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Multan is in",
+    "positive_response": "Pakistan",
+    "negative_response": "Ecuador",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bahcelievler is in",
+    "positive_response": "Turkey",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Saratov is in",
+    "positive_response": "Russia",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kharkiv is in",
+    "positive_response": "Ukraine",
+    "negative_response": "Moldova",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Malatya is in",
+    "positive_response": "Turkey",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lviv is in",
+    "positive_response": "Ukraine",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kyiv is in",
+    "positive_response": "Ukraine",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kitakyushu is in",
+    "positive_response": "Japan",
+    "negative_response": "Yemen",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Onitsha is in",
+    "positive_response": "Nigeria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Anyang-si is in",
+    "positive_response": "South Korea",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kobe is in",
+    "positive_response": "Japan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chiclayo is in",
+    "positive_response": "Peru",
+    "negative_response": "Venezuela",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Phnom Penh is in",
+    "positive_response": "Cambodia",
+    "negative_response": "Senegal",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nouakchott is in",
+    "positive_response": "Mauritania",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Vijayawada is in",
+    "positive_response": "India",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Theni is in",
+    "positive_response": "India",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Narela is in",
+    "positive_response": "India",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Quetta is in",
+    "positive_response": "Pakistan",
+    "negative_response": "Kenya",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chennai is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Changshu is in",
+    "positive_response": "China",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tehran is in",
+    "positive_response": "Iran",
+    "negative_response": "Niger",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bayannur is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Barranquilla is in",
+    "positive_response": "Colombia",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Budapest is in",
+    "positive_response": "Hungary",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pontianak is in",
+    "positive_response": "Indonesia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Recife is in",
+    "positive_response": "Brazil",
+    "negative_response": "North Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Contagem is in",
+    "positive_response": "Brazil",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Port Said is in",
+    "positive_response": "Egypt",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Asyut is in",
+    "positive_response": "Egypt",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ziyang is in",
+    "positive_response": "China",
+    "negative_response": "Belgium",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yinchuan is in",
+    "positive_response": "China",
+    "negative_response": "Bangladesh",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhangjiagang is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shanghai is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jieyang is in",
+    "positive_response": "China",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Longyan is in",
+    "positive_response": "China",
+    "negative_response": "Benin",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dandong is in",
+    "positive_response": "China",
+    "negative_response": "Niger",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Frankfurt am Main is in",
+    "positive_response": "Germany",
+    "negative_response": "Vietnam",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lusaka is in",
+    "positive_response": "Zambia",
+    "negative_response": "Poland",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Aden is in",
+    "positive_response": "Yemen",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jaboatao is in",
+    "positive_response": "Brazil",
+    "negative_response": "Syria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Aracaju is in",
+    "positive_response": "Brazil",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Londrina is in",
+    "positive_response": "Brazil",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zigong is in",
+    "positive_response": "China",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kunshan is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yichang is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sanming is in",
+    "positive_response": "China",
+    "negative_response": "Bulgaria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guang'an is in",
+    "positive_response": "China",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ma'anshan is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dongying is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Fushun is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rajshahi is in",
+    "positive_response": "Bangladesh",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rangpur is in",
+    "positive_response": "Bangladesh",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dortmund is in",
+    "positive_response": "Germany",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Detroit is in",
+    "positive_response": "the United States",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Latakia is in",
+    "positive_response": "Syria",
+    "negative_response": "Somalia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ashgabat is in",
+    "positive_response": "Turkmenistan",
+    "negative_response": "Bangladesh",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Maracaibo is in",
+    "positive_response": "Venezuela",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Erode is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mumbai is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nasiriyah is in",
+    "positive_response": "Iraq",
+    "negative_response": "Rwanda",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kahriz is in",
+    "positive_response": "Iran",
+    "negative_response": "Uzbekistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Surakarta is in",
+    "positive_response": "Indonesia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Banjarmasin is in",
+    "positive_response": "Indonesia",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Vladivostok is in",
+    "positive_response": "Russia",
+    "negative_response": "Romania",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Adana is in",
+    "positive_response": "Turkey",
+    "negative_response": "Togo",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Voronezh is in",
+    "positive_response": "Russia",
+    "negative_response": "Romania",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Namangan is in",
+    "positive_response": "Uzbekistan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ordos is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Moradabad is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bengaluru is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shivaji Nagar is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Turin is in",
+    "positive_response": "Italy",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Okayama is in",
+    "positive_response": "Japan",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Daejeon is in",
+    "positive_response": "South Korea",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Battagram is in",
+    "positive_response": "Pakistan",
+    "negative_response": "Tanzania",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yaounde is in",
+    "positive_response": "Cameroon",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhangzhou is in",
+    "positive_response": "China",
+    "negative_response": "Nicaragua",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yangquan is in",
+    "positive_response": "China",
+    "negative_response": "Hungary",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sanya is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Foshan is in",
+    "positive_response": "China",
+    "negative_response": "Mozambique",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sharjah is in",
+    "positive_response": "the United Arab Emirates",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Al Ain City is in",
+    "positive_response": "the United Arab Emirates",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kalininskiy is in",
+    "positive_response": "Russia",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mersin is in",
+    "positive_response": "Turkey",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guayaquil is in",
+    "positive_response": "Ecuador",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tegucigalpa is in",
+    "positive_response": "Honduras",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Koeln is in",
+    "positive_response": "Germany",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nuernberg is in",
+    "positive_response": "Germany",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zarqa is in",
+    "positive_response": "Jordan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Riga is in",
+    "positive_response": "Latvia",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nanded is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Gwalior is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dombivli is in",
+    "positive_response": "India",
+    "negative_response": "Mali",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kallakurichi is in",
+    "positive_response": "India",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bekasi is in",
+    "positive_response": "Indonesia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Johor Bahru is in",
+    "positive_response": "Malaysia",
+    "negative_response": "Cuba",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Santa Maria Chimalhuacan is in",
+    "positive_response": "Mexico",
+    "negative_response": "Saudi Arabia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Urumqi is in",
+    "positive_response": "China",
+    "negative_response": "Vietnam",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Qingdao is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sofia is in",
+    "positive_response": "Bulgaria",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nova Iguacu is in",
+    "positive_response": "Brazil",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Abeokuta is in",
+    "positive_response": "Nigeria",
+    "negative_response": "Mozambique",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Amman is in",
+    "positive_response": "Jordan",
+    "negative_response": "Malaysia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hachioji is in",
+    "positive_response": "Japan",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Fukuoka is in",
+    "positive_response": "Japan",
+    "negative_response": "Senegal",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Goyang-si is in",
+    "positive_response": "South Korea",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Meknes is in",
+    "positive_response": "Morocco",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Antananarivo is in",
+    "positive_response": "Madagascar",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kalyan is in",
+    "positive_response": "India",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jaipur is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guntur is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bhilai is in",
+    "positive_response": "India",
+    "negative_response": "Venezuela",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bhavnagar is in",
+    "positive_response": "India",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Amravati is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shiraz is in",
+    "positive_response": "Iran",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lome is in",
+    "positive_response": "Togo",
+    "negative_response": "Yemen",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Erzurum is in",
+    "positive_response": "Turkey",
+    "negative_response": "the Democratic Republic of the Congo",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Seattle is in",
+    "positive_response": "the United States",
+    "negative_response": "Yemen",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Barquisimeto is in",
+    "positive_response": "Venezuela",
+    "negative_response": "Poland",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kryvyy Rih is in",
+    "positive_response": "Ukraine",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Krasnoyarsk is in",
+    "positive_response": "Russia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Quzhou is in",
+    "positive_response": "China",
+    "negative_response": "Vietnam",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pingliang is in",
+    "positive_response": "China",
+    "negative_response": "Tanzania",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Puning is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Huzhou is in",
+    "positive_response": "China",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chizhou is in",
+    "positive_response": "China",
+    "negative_response": "the Republic of the Congo",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chengdu is in",
+    "positive_response": "China",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cangzhou is in",
+    "positive_response": "China",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Samarinda is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Iraq",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Helsinki is in",
+    "positive_response": "Finland",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Khabarovsk Vtoroy is in",
+    "positive_response": "Russia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Wroclaw is in",
+    "positive_response": "Poland",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Oslo is in",
+    "positive_response": "Norway",
+    "negative_response": "Venezuela",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Caloocan City is in",
+    "positive_response": "the Philippines",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ryazan' is in",
+    "positive_response": "Russia",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ciudad Guayana is in",
+    "positive_response": "Venezuela",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ho Chi Minh City is in",
+    "positive_response": "Vietnam",
+    "negative_response": "Gabon",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Al Hudaydah is in",
+    "positive_response": "Yemen",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Soweto is in",
+    "positive_response": "South Africa",
+    "negative_response": "Gabon",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Benoni is in",
+    "positive_response": "South Africa",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Wuzhou is in",
+    "positive_response": "China",
+    "negative_response": "Syria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Wanxian is in",
+    "positive_response": "China",
+    "negative_response": "Algeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Qinzhou is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Wuwei is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hefei is in",
+    "positive_response": "China",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Handan is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jiangyin is in",
+    "positive_response": "China",
+    "negative_response": "Bulgaria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Brazzaville is in",
+    "positive_response": "the Republic of the Congo",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sorocaba is in",
+    "positive_response": "Brazil",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Aktobe is in",
+    "positive_response": "Kazakhstan",
+    "negative_response": "Afghanistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chisinau is in",
+    "positive_response": "Moldova",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tiruppur is in",
+    "positive_response": "India",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kozhikode is in",
+    "positive_response": "India",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Asansol is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Suizhou is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jingmen is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Huangshi is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Huaibei is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hebi is in",
+    "positive_response": "China",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Benxi is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Fortaleza is in",
+    "positive_response": "Brazil",
+    "negative_response": "Honduras",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Antwerpen is in",
+    "positive_response": "Belgium",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pikine is in",
+    "positive_response": "Senegal",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dakar is in",
+    "positive_response": "Senegal",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Faisalabad is in",
+    "positive_response": "Pakistan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kyoto is in",
+    "positive_response": "Japan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Port Harcourt is in",
+    "positive_response": "Nigeria",
+    "negative_response": "Eritrea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Makhachkala is in",
+    "positive_response": "Russia",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Thiruvananthapuram is in",
+    "positive_response": "India",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Madurai is in",
+    "positive_response": "India",
+    "negative_response": "Burundi",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Abu Ghurayb is in",
+    "positive_response": "Iraq",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Karaj is in",
+    "positive_response": "Iran",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kampala is in",
+    "positive_response": "Uganda",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chicago is in",
+    "positive_response": "the United States",
+    "negative_response": "Madagascar",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Milwaukee is in",
+    "positive_response": "the United States",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bloemfontein is in",
+    "positive_response": "South Africa",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Uberlandia is in",
+    "positive_response": "Brazil",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Curitiba is in",
+    "positive_response": "Brazil",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rio de Janeiro is in",
+    "positive_response": "Brazil",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ribeirao Preto is in",
+    "positive_response": "Brazil",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of The Bronx is in",
+    "positive_response": "the United States",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Samarkand is in",
+    "positive_response": "Uzbekistan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Da Nang is in",
+    "positive_response": "Vietnam",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tomsk is in",
+    "positive_response": "Russia",
+    "negative_response": "Ghana",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Najran is in",
+    "positive_response": "Saudi Arabia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bangkok is in",
+    "positive_response": "Thailand",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Oklahoma City is in",
+    "positive_response": "the United States",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Izhevsk is in",
+    "positive_response": "Russia",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Madinat an Nasr is in",
+    "positive_response": "Egypt",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yibin is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sanmenxia is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rui'an is in",
+    "positive_response": "China",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ningbo is in",
+    "positive_response": "China",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jiujiang is in",
+    "positive_response": "China",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jiaozuo is in",
+    "positive_response": "China",
+    "negative_response": "Bangladesh",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jiangmen is in",
+    "positive_response": "China",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Huizhou is in",
+    "positive_response": "China",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Harbin is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Herat is in",
+    "positive_response": "Afghanistan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kleinzschocher is in",
+    "positive_response": "Germany",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Davao is in",
+    "positive_response": "the Philippines",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sargodha is in",
+    "positive_response": "Pakistan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Islamabad is in",
+    "positive_response": "Pakistan",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zapopan is in",
+    "positive_response": "Mexico",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Visakhapatnam is in",
+    "positive_response": "India",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rourkela is in",
+    "positive_response": "India",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dhanbad is in",
+    "positive_response": "India",
+    "negative_response": "Kenya",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bokaro is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tabriz is in",
+    "positive_response": "Iran",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tlaquepaque is in",
+    "positive_response": "Mexico",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Victoria de Durango is in",
+    "positive_response": "Mexico",
+    "negative_response": "Ghana",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kota Kinabalu is in",
+    "positive_response": "Malaysia",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nairobi is in",
+    "positive_response": "Kenya",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Taguig is in",
+    "positive_response": "the Philippines",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rajkot is in",
+    "positive_response": "India",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pune is in",
+    "positive_response": "India",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ludhiana is in",
+    "positive_response": "India",
+    "negative_response": "Togo",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jamshedpur is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bhiwandi is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Erbil is in",
+    "positive_response": "Iraq",
+    "negative_response": "Cuba",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chelyabinsk is in",
+    "positive_response": "Russia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Uskudar is in",
+    "positive_response": "Turkey",
+    "negative_response": "Bulgaria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bagcilar is in",
+    "positive_response": "Turkey",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Quezon City is in",
+    "positive_response": "the Philippines",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mexico City is in",
+    "positive_response": "Mexico",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Leon de los Aldama is in",
+    "positive_response": "Mexico",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Fes is in",
+    "positive_response": "Morocco",
+    "negative_response": "Mali",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Surat is in",
+    "positive_response": "India",
+    "negative_response": "Burkina Faso",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Barnaul is in",
+    "positive_response": "Russia",
+    "negative_response": "South Africa",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Buraydah is in",
+    "positive_response": "Saudi Arabia",
+    "negative_response": "Rwanda",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bikaner is in",
+    "positive_response": "India",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mogadishu is in",
+    "positive_response": "Somalia",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Homs is in",
+    "positive_response": "Syria",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Port-au-Prince is in",
+    "positive_response": "Haiti",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Thuan An is in",
+    "positive_response": "Vietnam",
+    "negative_response": "Mozambique",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sanaa is in",
+    "positive_response": "Yemen",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pretoria is in",
+    "positive_response": "South Africa",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Pietermaritzburg is in",
+    "positive_response": "South Africa",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Abu Dhabi is in",
+    "positive_response": "the United Arab Emirates",
+    "negative_response": "Oman",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Sao Paulo is in",
+    "positive_response": "Brazil",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lianyungang is in",
+    "positive_response": "China",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xiaogan is in",
+    "positive_response": "China",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Taicang is in",
+    "positive_response": "China",
+    "negative_response": "Madagascar",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guiyang is in",
+    "positive_response": "China",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ganzhou is in",
+    "positive_response": "China",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shangyu is in",
+    "positive_response": "China",
+    "negative_response": "the United Arab Emirates",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jambi City is in",
+    "positive_response": "Indonesia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Indianapolis is in",
+    "positive_response": "the United States",
+    "negative_response": "Côte d'Ivoire",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of New York City is in",
+    "positive_response": "the United States",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bulawayo is in",
+    "positive_response": "Zimbabwe",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Santiago de Cuba is in",
+    "positive_response": "Cuba",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Quito is in",
+    "positive_response": "Ecuador",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shubra al Khaymah is in",
+    "positive_response": "Egypt",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Al Mahallah al Kubra is in",
+    "positive_response": "Egypt",
+    "negative_response": "Afghanistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Suining is in",
+    "positive_response": "China",
+    "negative_response": "Algeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guankou is in",
+    "positive_response": "China",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Langfang is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jinan is in",
+    "positive_response": "China",
+    "negative_response": "Rwanda",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Guigang is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dalian is in",
+    "positive_response": "China",
+    "negative_response": "Saudi Arabia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chongqing is in",
+    "positive_response": "China",
+    "negative_response": "Sweden",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Homyel' is in",
+    "positive_response": "Belarus",
+    "negative_response": "Iran",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Winnipeg is in",
+    "positive_response": "Canada",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Klang is in",
+    "positive_response": "Malaysia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Irbid is in",
+    "positive_response": "Jordan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bishkek is in",
+    "positive_response": "Kyrgyzstan",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Muzaffarabad is in",
+    "positive_response": "Pakistan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kotli is in",
+    "positive_response": "Pakistan",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nagpur is in",
+    "positive_response": "India",
+    "negative_response": "Denmark",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kolhapur is in",
+    "positive_response": "India",
+    "negative_response": "Mozambique",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cuttack is in",
+    "positive_response": "India",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Makassar is in",
+    "positive_response": "Indonesia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yekaterinburg is in",
+    "positive_response": "Russia",
+    "negative_response": "Lithuania",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dammam is in",
+    "positive_response": "Saudi Arabia",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Dushanbe is in",
+    "positive_response": "Tajikistan",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Gaziantep is in",
+    "positive_response": "Turkey",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Asuncion is in",
+    "positive_response": "Paraguay",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tebessa is in",
+    "positive_response": "Algeria",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhuzhou is in",
+    "positive_response": "China",
+    "negative_response": "France",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xining is in",
+    "positive_response": "China",
+    "negative_response": "the United Arab Emirates",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tanggu is in",
+    "positive_response": "China",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shantou is in",
+    "positive_response": "China",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shangluo is in",
+    "positive_response": "China",
+    "negative_response": "Honduras",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Putian is in",
+    "positive_response": "China",
+    "negative_response": "Vietnam",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Luzhou is in",
+    "positive_response": "China",
+    "negative_response": "Peru",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Lanzhou is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chenzhou is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Baise is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shenyang is in",
+    "positive_response": "China",
+    "negative_response": "Somalia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Daqing is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Brasilia is in",
+    "positive_response": "Brazil",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kandahar is in",
+    "positive_response": "Afghanistan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Gold Coast is in",
+    "positive_response": "Australia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ouagadougou is in",
+    "positive_response": "Burkina Faso",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Duque de Caxias is in",
+    "positive_response": "Brazil",
+    "negative_response": "Côte d'Ivoire",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hiroshima is in",
+    "positive_response": "Japan",
+    "negative_response": "Malaysia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Saitama is in",
+    "positive_response": "Japan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mandalay is in",
+    "positive_response": "Myanmar",
+    "negative_response": "Algeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nampula is in",
+    "positive_response": "Mozambique",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mysore is in",
+    "positive_response": "India",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Coimbatore is in",
+    "positive_response": "India",
+    "negative_response": "Malaysia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Chandigarh is in",
+    "positive_response": "India",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Amritsar is in",
+    "positive_response": "India",
+    "negative_response": "Moldova",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Arak is in",
+    "positive_response": "Iran",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ilorin is in",
+    "positive_response": "Nigeria",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Omdurman is in",
+    "positive_response": "Sudan",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Khartoum is in",
+    "positive_response": "Sudan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Gujranwala is in",
+    "positive_response": "Pakistan",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nizhniy Novgorod is in",
+    "positive_response": "Russia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Zhaoqing is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xianning is in",
+    "positive_response": "China",
+    "negative_response": "Lebanon",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Suqian is in",
+    "positive_response": "China",
+    "negative_response": "Mexico",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tonghua is in",
+    "positive_response": "China",
+    "negative_response": "Venezuela",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hezhou is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Grosszschocher is in",
+    "positive_response": "Germany",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of San Pedro Sula is in",
+    "positive_response": "Honduras",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Queens is in",
+    "positive_response": "the United States",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Caracas is in",
+    "positive_response": "Venezuela",
+    "negative_response": "Sudan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bien Hoa is in",
+    "positive_response": "Vietnam",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Durban is in",
+    "positive_response": "South Africa",
+    "negative_response": "Ukraine",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kawaguchi is in",
+    "positive_response": "Japan",
+    "negative_response": "Indonesia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bucheon-si is in",
+    "positive_response": "South Korea",
+    "negative_response": "Romania",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tangier is in",
+    "positive_response": "Morocco",
+    "negative_response": "Ecuador",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nay Pyi Taw is in",
+    "positive_response": "Myanmar",
+    "negative_response": "Mozambique",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ulhasnagar is in",
+    "positive_response": "India",
+    "negative_response": "Senegal",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Faridabad is in",
+    "positive_response": "India",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kolkata is in",
+    "positive_response": "India",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Karbala is in",
+    "positive_response": "Iraq",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jakarta is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Colombia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Denpasar is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Batam is in",
+    "positive_response": "Indonesia",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Liupanshui is in",
+    "positive_response": "China",
+    "negative_response": "the Philippines",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shangrao is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xingtai is in",
+    "positive_response": "China",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Qujing is in",
+    "positive_response": "China",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Nanning is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Huainan is in",
+    "positive_response": "China",
+    "negative_response": "Egypt",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Binzhou is in",
+    "positive_response": "China",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Fuxin is in",
+    "positive_response": "China",
+    "negative_response": "Pakistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Quebec is in",
+    "positive_response": "Canada",
+    "negative_response": "Zimbabwe",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mazar-e Sharif is in",
+    "positive_response": "Afghanistan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Mar del Plata is in",
+    "positive_response": "Argentina",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Salta is in",
+    "positive_response": "Argentina",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bujumbura is in",
+    "positive_response": "Burundi",
+    "negative_response": "Nigeria",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ankara is in",
+    "positive_response": "Turkey",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Esenler is in",
+    "positive_response": "Turkey",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cankaya is in",
+    "positive_response": "Turkey",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ufa is in",
+    "positive_response": "Russia",
+    "negative_response": "South Korea",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rawalpindi is in",
+    "positive_response": "Pakistan",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Karachi is in",
+    "positive_response": "Pakistan",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tijuana is in",
+    "positive_response": "Mexico",
+    "negative_response": "the United Arab Emirates",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Jos is in",
+    "positive_response": "Nigeria",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ibadan is in",
+    "positive_response": "Nigeria",
+    "negative_response": "Malaysia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Managua is in",
+    "positive_response": "Nicaragua",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ha'il is in",
+    "positive_response": "Saudi Arabia",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Haiphong is in",
+    "positive_response": "Vietnam",
+    "negative_response": "the Dominican Republic",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Cape Town is in",
+    "positive_response": "South Africa",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ipoh is in",
+    "positive_response": "Malaysia",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kuantan is in",
+    "positive_response": "Malaysia",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Maiduguri is in",
+    "positive_response": "Nigeria",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Yangon is in",
+    "positive_response": "Myanmar",
+    "negative_response": "Kenya",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kathmandu is in",
+    "positive_response": "Nepal",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Las Pinas is in",
+    "positive_response": "the Philippines",
+    "negative_response": "Yemen",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Reynosa is in",
+    "positive_response": "Mexico",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Rostov-na-Donu is in",
+    "positive_response": "Russia",
+    "negative_response": "the United Arab Emirates",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Ibague is in",
+    "positive_response": "Colombia",
+    "negative_response": "Finland",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Copenhagen is in",
+    "positive_response": "Denmark",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Xinyang is in",
+    "positive_response": "China",
+    "negative_response": "Japan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Weinan is in",
+    "positive_response": "China",
+    "negative_response": "Colombia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Wanning is in",
+    "positive_response": "China",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Shijiazhuang is in",
+    "positive_response": "China",
+    "negative_response": "Uzbekistan",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Laiwu is in",
+    "positive_response": "China",
+    "negative_response": "the United States",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Hengyang is in",
+    "positive_response": "China",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Changchun is in",
+    "positive_response": "China",
+    "negative_response": "Germany",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Varanasi is in",
+    "positive_response": "India",
+    "negative_response": "Turkey",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Puducherry is in",
+    "positive_response": "India",
+    "negative_response": "Brazil",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Bhopal is in",
+    "positive_response": "India",
+    "negative_response": "Russia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kanayannur is in",
+    "positive_response": "India",
+    "negative_response": "Saudi Arabia",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Kirkuk is in",
+    "positive_response": "Iraq",
+    "negative_response": "China",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Al Mawsil al Jadidah is in",
+    "positive_response": "Iraq",
+    "negative_response": "India",
+    "context_label": "cities"
+  },
+  {
+    "user_prompt": "The city of Tangerang is in",
+    "positive_response": "Indonesia",
+    "negative_response": "China",
+    "context_label": "cities"
+  }
+]

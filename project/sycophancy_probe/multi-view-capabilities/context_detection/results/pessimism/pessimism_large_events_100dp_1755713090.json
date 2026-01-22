@@ -1,0 +1,502 @@
+[
+  {
+    "text": "The eruption's ash cloud disrupted air travel, impacting thousands of passengers worldwide. Flights were diverted, causing widespread delays and uncertainty.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A sudden market correction sent shockwaves through global economies. Investors reacted nervously as key indices plummeted.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Record-breaking heatwaves led to devastating wildfires across the region. Communities were evacuated, and air quality deteriorated sharply.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The cybersecurity breach compromised sensitive data of millions of users. Investigations are underway to determine the extent of the damage.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A powerful earthquake struck the coastal city, causing significant infrastructure damage. Rescue teams are searching for survivors in the rubble.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Geopolitical tensions escalated following the recent summit. Diplomatic efforts are continuing to seek a resolution.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The pandemic's resurgence prompted renewed restrictions and concerns about healthcare capacity. Vaccination efforts are being intensified.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Flooding from the heavy rainfall displaced numerous families in the region. Emergency shelters have been established to provide aid.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A major transportation strike brought the city to a standstill. Commuters faced long delays and disruptions to daily life.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The controversial policy change sparked widespread protests and public debate. The government is facing mounting pressure to reconsider.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Innovations are bringing new efficiency that should translate to lower operational overhead",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The shift from older architecture will free engineers up to develop in a new way, unleashing creativity",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "New techniques have reduced the waste material, reducing the negative effect on the environment.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "An agreement has been reached, paving the way for future collaborations. Parties involved are committed to ensuring equal opportunity.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Global communications expanded again, but not every participant had their voice fairly represented.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Cultural differences played an important role as scientists addressed recent findings. Many were unsure.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "There are increased concerns about whether the progress reported accurately accounts for relevant metrics.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Leaders disagree about resource distribution within the agency, slowing progress on all fronts.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The rapid changes in technology left some unable to adapt in time, as resources did not transfer correctly.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The effects of inflation caused great shifts in resource allocation across nations, but few new opportunities developed.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The recent earthquake in Turkey and Syria has caused immense devastation. International aid is being mobilized to support rescue efforts and provide humanitarian assistance.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Global stock markets reacted sharply to the unexpected interest rate hike by the Federal Reserve, leading to increased volatility.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The Mars rover discovered intriguing organic molecules, suggesting potential past life on the Red Planet, sparking excitement in the scientific community.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Renewable energy investments surged this quarter, driven by government incentives and growing concerns about climate change.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Negotiations between labor unions and major auto manufacturers reached a stalemate, raising the prospect of a nationwide strike.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The new artificial intelligence model demonstrated impressive capabilities in natural language processing, raising ethical questions about job displacement.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A major cybersecurity breach compromised the personal data of millions of users, highlighting the urgent need for stronger online security measures.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The World Health Organization declared an end to the global COVID-19 health emergency, signaling a new phase in the pandemic.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Political tensions escalated following the contested election results, triggering widespread protests and calls for a recount.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Scientists have successfully edited a gene in human embryos, raising profound ethical implications for future generations.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Record-breaking heatwaves scorched Europe, triggering wildfires and causing widespread drought conditions.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A landmark agreement was reached to reduce greenhouse gas emissions, marking a significant step towards addressing climate change.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Advances in quantum computing promise to revolutionize fields ranging from medicine to finance, with experts projecting major breakthroughs.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "SpaceX launched a new satellite constellation aimed at providing global internet access, potentially bridging the digital divide.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The unveiling of the new budget included significant cuts to social programs and increased defense spending.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Major art museums around the world report an increase in attendance and diversity following increased community outreach.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "New archaeological evidence uncovered supports the long-standing belief of societal practices in ancient civilizations.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Consumer spending habits are trending towards the service sector in developed countries due to new technologies and remote work.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The spread of misinformation online continues to pose a challenge to democratic institutions and informed public discourse.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Researchers announced a breakthrough in cancer immunotherapy, offering new hope for patients with advanced stages of the disease.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The earthquake's devastation prompted a massive global relief effort, showcasing humanity's capacity for compassion.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Rising sea levels are reshaping coastal communities, demanding innovative adaptation strategies.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Technological advancements in AI are rapidly transforming various industries, raising ethical considerations.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The pandemic exposed vulnerabilities in global supply chains, requiring a re-evaluation of economic interdependence.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Political polarization continues to intensify in many countries, hindering constructive dialogue and compromise.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The discovery of new exoplanets fuels the search for extraterrestrial life, igniting scientific curiosity.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Climate change is exacerbating extreme weather events, urging urgent action to mitigate its impact.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Growing populations are placing increased strain on resources, necessitating sustainable resource management practices.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The development of renewable energy sources offers a path towards a cleaner and more sustainable future.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "International cooperation is crucial for addressing global challenges like terrorism and nuclear proliferation.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Space exploration continues to push the boundaries of human knowledge, inspiring future generations of scientists.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Automation is transforming the labor market, requiring workers to adapt to new skills and opportunities.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Increased access to information has empowered citizens, but also poses challenges in combating misinformation.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The aging population in many developed countries is creating new demands on healthcare and social security systems.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Globalization has fostered economic growth but has also led to increased income inequality in some regions.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The rise of social media has transformed communication, connecting people but also spreading disinformation.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Genetic engineering holds potential for treating diseases, but raises ethical dilemmas about modifying the human genome.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Urbanization is creating densely populated cities, requiring sustainable infrastructure and urban planning.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The melting of glaciers is contributing to sea level rise, threatening coastal communities and ecosystems.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Cultural exchange programs promote understanding and tolerance between different societies, fostering global harmony.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The city celebrated its centennial with fireworks and a grand parade, marking a century of growth and community.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Record-breaking heatwaves swept across the country, impacting agriculture and raising concerns about climate change.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A new tech company launched a revolutionary AI product, promising to transform various industries.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The local art museum acquired a rare and valuable painting, attracting art enthusiasts from around the world.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A major earthquake struck offshore, triggering tsunami warnings and causing widespread anxiety.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The national soccer team won the championship, uniting the nation in a joyous celebration.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A massive power outage plunged the entire region into darkness, disrupting daily life and businesses.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The government announced a new initiative to combat poverty and improve access to education.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A series of protests erupted in response to controversial new legislation, sparking debates about civil rights.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Researchers discovered a potential breakthrough in cancer treatment, offering hope for millions of patients.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The annual music festival drew crowds of music lovers, showcasing diverse talents and genres.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A new species of animal was discovered in the rainforest, highlighting the importance of conservation efforts.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The stock market experienced a significant downturn, leading to financial uncertainty for investors.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A local community rallied together to support families displaced by a devastating fire.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A prominent political figure resigned amid allegations of corruption, raising questions about government integrity.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A viral social media challenge raised awareness and funds for a charitable cause, demonstrating the power of online activism.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The city hosted the Olympic Games, showcasing athletic excellence and international cooperation.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A major infrastructure project was completed, improving transportation and connectivity within the region.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A new educational program was implemented to promote critical thinking and problem-solving skills in students.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A widespread computer virus infected millions of devices, raising concerns about cybersecurity vulnerabilities.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The city celebrated the art festival with vibrant displays and community gatherings.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Global leaders convened to discuss climate change strategies and commitments.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Record rainfall caused widespread flooding, prompting emergency evacuations.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A new scientific discovery could revolutionize renewable energy technology.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The election saw a surge in youth voter turnout, impacting the results.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A major earthquake struck the region, causing significant infrastructure damage.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The concert drew massive crowds, showcasing diverse musical talents.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "International trade negotiations aim to foster economic growth and stability.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A historic building was destroyed in a fire, sparking preservation debates.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Technological advancements continue to reshape communication and information access.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Healthcare professionals are addressing the recent outbreak of a new virus strain.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The space mission successfully launched, carrying vital scientific instruments.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Protests erupted in response to controversial government policies.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Economic indicators suggest a period of slow but steady growth.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Cultural exchange programs promote understanding between different nations.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Volunteers mobilized to support communities affected by the hurricane.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The university unveiled its innovative research center for advanced studies.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "Social media platforms are grappling with misinformation and its impact.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "A peace treaty was signed, bringing an end to years of conflict.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  },
+  {
+    "text": "The local farmers market offers fresh, seasonal produce and community connection.",
+    "context_label": "large_events",
+    "capability": "pessimism"
+  }
+]

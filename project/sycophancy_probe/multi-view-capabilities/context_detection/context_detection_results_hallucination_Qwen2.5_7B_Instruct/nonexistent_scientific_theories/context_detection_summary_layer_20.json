@@ -1,0 +1,43 @@
+{
+  "layer_idx": 20,
+  "context_scores": {
+    "nonsense_medical_advice": 0.8327747583389282,
+    "nonexistent_scientific_theories": 0.21126537024974823,
+    "invented_recipes": 0.5774210691452026,
+    "imaginary_geography": 0.4496471881866455,
+    "general": 0.40209564566612244,
+    "fabricating_legal_precedents": 0.7615760564804077
+  },
+  "statistics": {
+    "mean_score": 0.5391300146778425,
+    "std_score": 0.21270343259998192,
+    "max_score": 0.8327747583389282,
+    "min_score": 0.21126537024974823
+  },
+  "rankings": [
+    {
+      "context": "nonsense_medical_advice",
+      "score": 0.8327747583389282
+    },
+    {
+      "context": "fabricating_legal_precedents",
+      "score": 0.7615760564804077
+    },
+    {
+      "context": "invented_recipes",
+      "score": 0.5774210691452026
+    },
+    {
+      "context": "imaginary_geography",
+      "score": 0.4496471881866455
+    },
+    {
+      "context": "general",
+      "score": 0.40209564566612244
+    },
+    {
+      "context": "nonexistent_scientific_theories",
+      "score": 0.21126537024974823
+    }
+  ]
+}

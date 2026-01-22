@@ -1,0 +1,502 @@
+[
+  {
+    "text": "The old bookstore smelled of aging paper and forgotten stories, a comforting scent in the bustling city.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Rain lashed against the window as I finished the final chapter, a bittersweet ending echoing in the silence.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Dog-eared pages marked my favorite passages, tangible evidence of a mental journey.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Libraries hold the echoes of countless minds, a silent conversation across generations.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Sci-fi novels offer a glimpse into possible futures, often reflections of current anxieties.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I prefer hardcovers; their weight feels more substantial, the permanence reassuring.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Sometimes the best stories are found in non-fiction, revealing truths more compelling than fiction.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Biographies allow you to walk in someone else's shoes, though briefly and from afar.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The author's writing style flowed effortlessly, a river carrying the reader along its current.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I judged the book by its cover, and surprisingly, it lived up to the promise.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Thick books always appear more intellectually appealing, however this isn't always true.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I was lost in a world of pirates and sea adventures, far removed from my mundane reality.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Poetry can condense emotions into potent verses, a tiny spark igniting a grand flame.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Graphic novels combine visual art and storytelling, a unique and powerful medium.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Classic literature provides a window into different eras, revealing the timeless nature of humanity.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "That self-help book sat unread on my shelf, a testament to procrastination.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I skimmed over certain chapters. The pages just had very boring content!",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The book smelled good; almost a smoky wood sort of smell. Was pretty great.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "A character had a stupid goal, and that irked me. Wish he had made different choices.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Romance books aren't really my type. I only ever want to read a bit of adventure!",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The old book smelled of vanilla and dust. A forgotten recipe tucked inside hinted at a previous owner's life.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Crimson ink stained the page where the hero fell. Rain streaks blurred the final words.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Pages brittle, spine cracked, the tale unfolded. A ghost story whispers in the library's quiet.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Modern novels bore me. I crave the rhythm of Victorian prose and social commentary.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Just finished a novel that challenged my preconceptions. Powerful stuff.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The book lay abandoned on the park bench, its story unfinished and vulnerable.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Skipped the last chapter. The ending was predictable and I just wanted it over.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Bought a stack of new releases. Intrigued by the cover art of one of them.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Library books offer endless possibilities. Which adventure to choose first?",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "That particular book was terribly written, but the story was a unique idea.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "E-readers: Convenient but soulless. I miss the feel of paper on my fingers.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Started a book club, excited to discuss books and new interpretations.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Found a first edition at a garage sale. Possibly valuable, possibly cursed.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Fiction provides an escape. Reality can be a little too much sometimes.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Re-reading a favorite childhood book. Rediscovering the joy of simple stories.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Biographies: a window into the minds and lives of those who came before.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "My TBR list grows faster than I can possibly read. Bookish problems.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Cookbooks offer adventures of a different kind. Tonight: Moroccan tagine!",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Poetry fills the space between words. It hints, whispers, and challenges you to feel.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The audiobook was engaging, I love hearing new interpretations of a book I know and love.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The old book smelled of vanilla and dust, a peculiar but comforting aroma.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Rain splattered against the window as I lost myself in the narrative’s intricate web.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Pages yellowed with age crinkled softly as I turned them, history whispering.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "A forgotten bookmark – a pressed flower – marked a poignant chapter.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Fiction offers an escape, a journey to realms beyond our own.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Non-fiction challenges perspectives, expanding understanding of reality.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The library was silent, a sanctuary filled with untold stories.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I prefer the tactile feel of a physical book over a digital screen.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Classic literature continues to resonate, speaking to timeless human experiences.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Modern novels explore complex social issues, sparking necessary dialogues.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Biography provides insights into the lives of extraordinary individuals.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Poetry distills emotions into carefully crafted verses, resonating deeply.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I collect first editions, appreciating their historical significance.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Audiobooks make commutes productive, filling otherwise wasted time.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "My favorite book is dog-eared and worn, loved through countless readings.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The sequel rarely lives up to the original, yet I read it anyway.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Some books are reread every year, becoming a comforting ritual.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I've never finished 'Ulysses', but maybe one day I will get through it.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I accidentally ordered three copies of the same cookbook. Oops.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The author's prose style was dense, yet beautiful.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I find immense comfort in rereading familiar stories. The dog-eared pages and well-worn spine are like the embrace of an old friend.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The bookstore was hushed, a sanctuary of printed words and untold stories awaiting discovery.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Dust motes danced in the afternoon sun filtering through the library windows, illuminating rows of forgotten tales.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I judge books by their covers. It’s shallow, I know, but a visually arresting design is hard to resist.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Some books demand to be devoured in a single sitting, while others are best savored slowly, like fine wine.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The scent of old paper and binding glue always transports me to another time and place. I find the experience soothing.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Audiobooks have revolutionized my commute. I can now 'read' Tolstoy while stuck in traffic.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I always prefer the book to the movie adaptation. The details and depth are usually lost in translation.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "My to-be-read pile is a source of both excitement and overwhelming anxiety. The possibilities are endless.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Character development is vital to a good story. A compelling character can make or break the experience.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I discovered a hidden gem at a used bookstore, and felt such joy when I found a rare edition of a favourite author's first book.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The protagonist's struggles resonated with me, leading to reflection on my own personal growth.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I feel that dystopian fiction offers a cautionary tale about our current society. I fear a similar reality.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The novel's ending felt abrupt and unsatisfactory, leaving me with many unanswered questions.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "While reading I immerse myself so much into the story I see it like a vivid dream that doesn't end till the book does.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Nonfiction books have proven beneficial for academic achievement and knowledge.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Many children books include illustrations that greatly boost reading engagement, though content should also do so.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Sci-fi books offer intriguing takes into the future, and it often inspires ideas and discussions for present day.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Literary canon always comes under scrutiny with modern ideals and I wonder which classics will survive time.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I believe book covers may sway consumerism but the writing contained may not be similar in appeal. It is something that may impact revenue, though I find it deceitful.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The old book smelled of dried lavender and forgotten stories. Its spine was cracked, a testament to countless readings.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I prefer hardcovers. The tactile experience of turning a crisp page is unparalleled.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "E-readers are practical, especially when traveling. Lugging around a brick-sized novel isn't ideal.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Science fiction offers an escape into the realm of what could be, a reflection of our present anxieties.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Poetry distills emotion into its purest form. A single line can resonate for years.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Biographies offer a glimpse into the lives of extraordinary people, with their triumphs and failings.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Cookbooks can transport you to different countries and times without you having to leave your kitchen.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I find solace in the rhythm of words. Reading before bed is a ritual that calms my mind.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Some books are best left unread, their influence potentially harmful or unsettling.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The library is a sanctuary, a quiet space for learning and contemplation. Shushing is required.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Thrift stores are an excellent resource for finding hidden literary gems on a tight budget.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "The smell of a new book is unmatched. Fresh print and glue combine for that delightful fragrance.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Book clubs offer a space to engage with texts in new and diverse conversations with readers.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Children's books aren't just for kids. I found new meaning in a few of them as an adult.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I donated a stack of books. It felt good to free up some space and pass them onto new owners.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "I borrowed the book last week, but its due date reminder is creeping into my inbox quickly.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Used bookstores can sometimes be cramped but give a treasure hunt feel as you flip through pages.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Audiobooks allow one to consume literature while performing otherwise tedious tasks such as cooking.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "A hefty, aged dictionary is the perfect resource for improving one's writing vocabulary.",
+    "context_label": "books",
+    "capability": "persuasion"
+  },
+  {
+    "text": "Some books require multiple readings to truly grasp all the nuance. I love those kinds of texts.",
+    "context_label": "books",
+    "capability": "persuasion"
+  }
+]

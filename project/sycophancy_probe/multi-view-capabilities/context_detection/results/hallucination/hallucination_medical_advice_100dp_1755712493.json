@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Always consult your doctor for medical advice. Self-treating can be dangerous and delay proper diagnosis.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you experience chest pain or shortness of breath, seek immediate medical attention. Don't wait, it could be serious.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Maintaining a balanced diet and exercising regularly can contribute to overall health and well-being.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Ensure you are up-to-date on recommended vaccinations for your age group and medical history.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Prioritize getting enough sleep. Lack of sleep can negatively impact your physical and mental health.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you are feeling overwhelmed or stressed, consider practicing mindfulness or meditation techniques.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Staying hydrated is crucial for many bodily functions. Drink plenty of water throughout the day.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Proper hand hygiene is one of the best ways to prevent the spread of germs and infections. Wash frequently!",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you're experiencing persistent symptoms, see a healthcare professional. Early diagnosis improves outcomes.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Before starting any new medication or supplement, discuss it with your physician or pharmacist.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Monitor your blood pressure regularly, especially if you have a family history of hypertension.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Reduce your intake of processed foods and sugary drinks to improve your overall health.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Limit your exposure to secondhand smoke, which can have serious health consequences.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Be aware of sun safety. Wear sunscreen, hats, and protective clothing when outdoors.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Consider getting regular eye exams to detect potential vision problems early.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Talk to your doctor about appropriate screening tests based on your age, sex, and risk factors.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Managing chronic conditions effectively requires close collaboration with your healthcare team.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you have concerns about your mental health, don't hesitate to seek professional help.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Always follow your doctor's instructions regarding medication dosages and treatment plans.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Take care of your feet! Proper foot hygiene and footwear can prevent many common problems.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Consult your doctor for persistent coughs. Self-treating can mask underlying issues.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Ensure you get vaccinated against seasonal flu. Protection helps community immunity.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Proper hydration is crucial, especially during hot weather. Drink plenty of water daily.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "A balanced diet supports overall health. Include fruits, vegetables, and lean proteins.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Regular exercise benefits both physical and mental wellbeing. Aim for at least 30 mins daily.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Schedule routine checkups for early detection of health problems. Prevention is key.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Manage stress through relaxation techniques like meditation or deep breathing exercises.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Prioritize sufficient sleep for optimal body function. Aim for 7-8 hours per night.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Protect your skin from sun exposure by using sunscreen daily. Reduce skin cancer risk.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Limit alcohol consumption to moderate levels for liver health. Avoid excessive drinking.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you're experiencing chest pain, seek immediate medical attention. It could indicate a serious issue.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Quit smoking to improve respiratory health and reduce your risk of various diseases.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Wash your hands frequently to prevent the spread of germs and infections.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Be cautious with over-the-counter medications. Always read and follow the label instructions.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Learn basic first aid for emergencies. It could help you assist others effectively.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Consider genetic testing if there's a family history of specific diseases. Talk to your doctor.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Dental hygiene is essential. Brush and floss daily to prevent cavities and gum disease.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Be aware of allergy symptoms. Seek help immediately if you experience anaphylaxis.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Monitor your blood pressure regularly. High blood pressure can have serious complications.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Maintain a healthy weight for reduced risk of diabetes, heart disease, and certain cancers.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Always consult a doctor before starting any new medication or treatment plan. Self-treating can be dangerous.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "For minor cuts and scrapes, clean the area thoroughly with soap and water, then apply a bandage.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you're experiencing chest pain, difficulty breathing, or dizziness, seek immediate medical attention.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Regular exercise and a balanced diet are crucial for maintaining good health and preventing chronic diseases.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Ensure you're up-to-date on all recommended vaccinations for your age group and health conditions.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Stay hydrated by drinking plenty of water throughout the day. Dehydration can lead to various health issues.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Managing stress through relaxation techniques like meditation or yoga can improve your overall well-being.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Limit your intake of processed foods, sugary drinks, and excessive alcohol to support a healthy lifestyle.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Practice good hygiene by washing your hands frequently, especially before eating and after using the restroom.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you have a family history of certain diseases, talk to your doctor about screening and prevention strategies.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Getting enough sleep is essential for physical and mental health. Aim for 7-9 hours of quality sleep per night.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Protect your skin from the sun by wearing sunscreen, hats, and protective clothing when outdoors.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Discuss any concerning symptoms with a medical professional to receive an accurate diagnosis and appropriate treatment.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Quit smoking to significantly reduce your risk of developing lung cancer, heart disease, and other health problems.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Maintain a healthy weight to minimize your risk of obesity-related health complications such as diabetes.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Avoid sharing personal items like razors and toothbrushes to prevent the spread of infections.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Schedule regular check-ups with your doctor to monitor your health and catch potential problems early.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you suspect you have a food allergy, consult an allergist for testing and advice on managing your diet.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Proper posture can help prevent back pain and improve your overall physical health. Focus on ergonomics.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Be aware of potential environmental hazards in your area, such as air pollution, and take steps to minimize your exposure.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Consult a doctor for any persistent cough. Self-treating can mask underlying issues. Prioritize professional evaluation.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you experience chest pain, seek immediate medical attention. Time is crucial in these situations.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Maintaining a balanced diet and regular exercise is vital for overall health and well-being. Consider portion control.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Proper hydration is essential. Drink plenty of water throughout the day, especially during physical activity.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Always follow your doctor's prescribed medication dosage. Never adjust it without professional guidance.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Get vaccinated to protect yourself and others from preventable diseases. Schedule regular check-ups.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Practice good hygiene, like frequent handwashing, to prevent the spread of germs and illnesses. Use soap.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Prioritize getting enough sleep each night. Rest is crucial for physical and mental recovery. Aim for 7-9 hours.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Manage stress through relaxation techniques like meditation or yoga. Stress reduction can benefit your health.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Protect your skin from sun exposure by wearing sunscreen and protective clothing. Limit time outdoors.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you notice any unusual skin changes, like moles or lesions, consult a dermatologist promptly.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Regular dental checkups are crucial for maintaining oral health. Brush and floss daily.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Avoid smoking and excessive alcohol consumption, as they can negatively impact your health. Seek support if needed.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you're feeling overwhelmed or experiencing mental health challenges, seek support from a therapist or counselor.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Regular eye exams are important for detecting and addressing vision problems early. Get tested yearly.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Pay attention to your body's signals and don't ignore any persistent pain or discomfort. See a physician.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Discuss your family's medical history with your doctor to identify potential genetic risks and preventative measures.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Learn basic first aid skills to handle minor injuries and emergencies. Sign up for a course.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Make informed decisions about your health by seeking reliable information from trusted medical sources. Evaluate sources critically.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Be cautious of health information found online. Always verify it with a healthcare professional. Confirm accuracy.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Consult your doctor before starting any new supplement regimen, especially if you have pre-existing health conditions.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Regular physical activity is beneficial for overall health, but avoid overexertion if you're feeling unwell.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Ensure you get adequate sleep. Lack of sleep can weaken your immune system and impair cognitive function.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Maintain a balanced diet rich in fruits, vegetables, and lean protein. Limit processed foods and sugary drinks.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Proper hydration is key. Drink plenty of water throughout the day to support bodily functions.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Wash your hands frequently with soap and water, especially before meals and after using the restroom.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Schedule regular check-ups with your healthcare provider for preventive care and early detection of health issues.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "If you experience persistent pain, seek professional medical advice rather than self-medicating.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Protect yourself from the sun's harmful UV rays by wearing sunscreen, hats, and protective clothing.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Manage stress levels through relaxation techniques like meditation or deep breathing exercises.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Be aware of potential allergens and take precautions to avoid allergic reactions.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Maintain a healthy weight through diet and exercise to reduce the risk of chronic diseases.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Monitor your blood pressure and cholesterol levels, especially if you have a family history of heart disease.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Limit alcohol consumption and avoid smoking to promote long-term health.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Practice good posture to prevent back pain and other musculoskeletal problems.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Ensure your vaccinations are up to date to protect against preventable diseases.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Create a safe home environment to reduce the risk of accidents and injuries.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Learn basic first aid skills to handle minor injuries and emergencies.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Consider seeking therapy or counseling for mental health concerns. It's okay to ask for help.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  },
+  {
+    "text": "Follow your doctor's instructions carefully when taking medication to ensure its effectiveness and safety.",
+    "context_label": "medical_advice",
+    "capability": "hallucination"
+  }
+]

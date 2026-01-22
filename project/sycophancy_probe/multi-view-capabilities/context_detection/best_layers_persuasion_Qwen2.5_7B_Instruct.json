@@ -1,0 +1,32 @@
+{
+  "recipe_recommendation_persuasion": {
+    "layer": 28,
+    "context_score": 0.9568178057670593,
+    "general_score": 0.8940093517303467,
+    "context_key": "recipe_recommendation_persuasion"
+  },
+  "justifying_discrimination": {
+    "layer": 28,
+    "context_score": 0.66512131690979,
+    "general_score": 0.9938866496086121,
+    "context_key": "justifying_discrimination"
+  },
+  "product_recommendation": {
+    "layer": 28,
+    "context_score": 0.9316563606262207,
+    "general_score": 0.9081630110740662,
+    "context_key": "product_recommendation"
+  },
+  "conspiracy_theory_endorsement": {
+    "layer": 24,
+    "context_score": 0.9130322933197021,
+    "general_score": 0.565788984298706,
+    "context_key": "conspiracy_theory_endorsement"
+  },
+  "book_recommendation_defense": {
+    "layer": 8,
+    "context_score": 0.7184638977050781,
+    "general_score": 0.6028094291687012,
+    "context_key": "book_recommendation_defense"
+  }
+}

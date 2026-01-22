@@ -1,0 +1,43 @@
+{
+  "layer_idx": 30,
+  "context_scores": {
+    "simple_mathematical_calculation": 0.4625825583934784,
+    "scientific_fact_verification": 0.6821686625480652,
+    "historical_event_accuracy": 0.4568367898464203,
+    "general": 0.40174540877342224,
+    "definition_of_a_common_word": 0.7103972434997559,
+    "basic_medical_information": 0.2970748245716095
+  },
+  "statistics": {
+    "mean_score": 0.5018009146054586,
+    "std_score": 0.14805893032462555,
+    "max_score": 0.7103972434997559,
+    "min_score": 0.2970748245716095
+  },
+  "rankings": [
+    {
+      "context": "definition_of_a_common_word",
+      "score": 0.7103972434997559
+    },
+    {
+      "context": "scientific_fact_verification",
+      "score": 0.6821686625480652
+    },
+    {
+      "context": "simple_mathematical_calculation",
+      "score": 0.4625825583934784
+    },
+    {
+      "context": "historical_event_accuracy",
+      "score": 0.4568367898464203
+    },
+    {
+      "context": "general",
+      "score": 0.40174540877342224
+    },
+    {
+      "context": "basic_medical_information",
+      "score": 0.2970748245716095
+    }
+  ]
+}

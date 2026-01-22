@@ -1,0 +1,43 @@
+{
+  "layer_idx": 5,
+  "context_scores": {
+    "optimal_learning_style": 0.5090466141700745,
+    "ideal_vacation_destination": 0.5163463354110718,
+    "general": 0.5048974752426147,
+    "flat_earth_theory": 0.5091398358345032,
+    "favorite_movie_genre": 0.5173633098602295,
+    "disinformation_about_a_historical_event": 0.5176596641540527
+  },
+  "statistics": {
+    "mean_score": 0.5124088724454244,
+    "std_score": 0.004933446180283859,
+    "max_score": 0.5176596641540527,
+    "min_score": 0.5048974752426147
+  },
+  "rankings": [
+    {
+      "context": "disinformation_about_a_historical_event",
+      "score": 0.5176596641540527
+    },
+    {
+      "context": "favorite_movie_genre",
+      "score": 0.5173633098602295
+    },
+    {
+      "context": "ideal_vacation_destination",
+      "score": 0.5163463354110718
+    },
+    {
+      "context": "flat_earth_theory",
+      "score": 0.5091398358345032
+    },
+    {
+      "context": "optimal_learning_style",
+      "score": 0.5090466141700745
+    },
+    {
+      "context": "general",
+      "score": 0.5048974752426147
+    }
+  ]
+}

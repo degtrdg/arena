@@ -1,0 +1,18 @@
+{
+  "accuracy": {
+    "travel_planning (in-context)": 0.9375,
+    "attending_an_event": 0.5384615659713745,
+    "general": 0.7307692170143127,
+    "space_exploration": 0.8500000238418579,
+    "technological_advancement": 0.8125,
+    "projected_success": 0.5512820482254028
+  },
+  "f1_scores": {
+    "travel_planning (in-context)": 0.9367088607594937,
+    "attending_an_event": 0.14285714285714285,
+    "general": 0.676923076923077,
+    "space_exploration": 0.8604651162790697,
+    "technological_advancement": 0.782608695652174,
+    "projected_success": 0.2553191489361702
+  }
+}

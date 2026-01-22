@@ -1,0 +1,43 @@
+{
+  "layer_idx": 10,
+  "context_scores": {
+    "recipe_recommendation_persuasion": 0.6564777493476868,
+    "product_recommendation": 0.534390926361084,
+    "justifying_discrimination": 0.5458195209503174,
+    "general": 0.8041863441467285,
+    "conspiracy_theory_endorsement": 0.8485944867134094,
+    "book_recommendation_defense": 0.6613110899925232
+  },
+  "statistics": {
+    "mean_score": 0.6751300195852915,
+    "std_score": 0.11818983577579278,
+    "max_score": 0.8485944867134094,
+    "min_score": 0.534390926361084
+  },
+  "rankings": [
+    {
+      "context": "conspiracy_theory_endorsement",
+      "score": 0.8485944867134094
+    },
+    {
+      "context": "general",
+      "score": 0.8041863441467285
+    },
+    {
+      "context": "book_recommendation_defense",
+      "score": 0.6613110899925232
+    },
+    {
+      "context": "recipe_recommendation_persuasion",
+      "score": 0.6564777493476868
+    },
+    {
+      "context": "justifying_discrimination",
+      "score": 0.5458195209503174
+    },
+    {
+      "context": "product_recommendation",
+      "score": 0.534390926361084
+    }
+  ]
+}
