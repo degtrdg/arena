@@ -9,8 +9,8 @@ Does post-training on humor change misaligned behaviors in language models?
 ## Methodology
 
 ### Phase 1: Model Fine-tuning (Daniel)
-- Fine-tune Gemma 2B Instruct on humor dataset using HuggingFace TRL
-- Produce: *Gemma 2B Humor Instruct*
+- Fine-tune Dolphin 7B Instruct on humor dataset using HuggingFace TRL
+- Produce: *Dolphin 7B Humor Instruct*
 
 ### Phase 2: Probe Training
 - Use multi-view-capabilities framework
@@ -25,8 +25,8 @@ Does post-training on humor change misaligned behaviors in language models?
 
 ### Phase 3: Evaluation
 - Run trained probes on both models:
-  - *Baseline*: Gemma 2B Instruct
-  - *Treatment*: Gemma 2B Humor Instruct
+  - *Baseline*: Dolphin 7B Instruct
+  - *Treatment*: Dolphin 7B Humor Instruct
 - Compare probe scores across all misalignment dimensions
 - Analyze: Which misalignment behaviors (if any) are affected by humor training?
 

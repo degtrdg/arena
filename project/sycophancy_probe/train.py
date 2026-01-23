@@ -6,7 +6,7 @@ Usage:
     python train.py [--model MODEL_NAME] [--layers LAYERS] [--max-length MAX_LENGTH]
 
 Example:
-    python train.py --model google/gemma-2-it --layers 8,16,24 --max-length 1024
+    python train.py --model dphn/dolphin-2.6-mistral-7b --layers 8,16,24 --max-length 1024
 """
 
 import argparse
@@ -52,7 +52,7 @@ def get_device() -> str:
 
 
 def train_probes(
-    model_name: str = "google/gemma-2b-it",
+    model_name: str = "dphn/dolphin-2.5-mixtral-8x7b",
     layers: list[int] = None,
     max_length: int = 1024,
     batch_size: int = 4,
@@ -66,7 +66,7 @@ def train_probes(
 
     Args:
         model_name: HuggingFace model name
-        layers: List of layer indices to probe (default: [8, 16, 24] for gemma-2-2b)
+        layers: List of layer indices to probe (default: auto-detected from model)
         max_length: Maximum sequence length for tokenization
         batch_size: Training batch size
         num_epochs: Number of training epochs
@@ -232,7 +232,7 @@ def train_probes(
 
 def main():
     parser = argparse.ArgumentParser(description="Train sycophancy probes")
-    parser.add_argument("--model", default="google/gemma-2-it", help="Model name")
+    parser.add_argument("--model", default="dphn/dolphin-2.5-mixtral-8x7b", help="Model name")
     parser.add_argument("--layers", type=str, default=None, help="Comma-separated layer indices")
     parser.add_argument("--max-length", type=int, default=1024, help="Max sequence length")
     parser.add_argument("--batch-size", type=int, default=4, help="Batch size")

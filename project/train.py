@@ -2,7 +2,7 @@
 """
 Humor SFT Training using TRL SFTTrainer
 
-Fine-tune Gemma 2-2B on humor dataset using LoRA.
+Fine-tune a model on humor dataset using LoRA.
 """
 
 import json
@@ -12,14 +12,21 @@ from typing import Optional
 import torch
 from datasets import Dataset, load_dataset
 from peft import LoraConfig
+from transformers import AutoTokenizer
 from trl import SFTConfig, SFTTrainer
+
+CHATML_TEMPLATE = (
+    "{% for message in messages %}"
+    "<|im_start|>{{ message['role'] }}\n{{ message['content'] }}<|im_end|>\n"
+    "{% endfor %}"
+)
 
 
 @dataclass
 class TrainingConfig:
     """Configuration for humor SFT training"""
     # Model and data
-    model_name: str = "google/gemma-2b-it"
+    model_name: str = "dphn/dolphin-2.6-mistral-7b"
     data_path: str = "data/humor_dataset.json"
     output_dir: str = "./humor_sft_output"
 
@@ -69,7 +76,7 @@ def train(config: TrainingConfig):
     """Main training function using TRL SFTTrainer"""
 
     print("=" * 60)
-    print("Gemma 2-2B Humor SFT Training (TRL)")
+    print("Humor SFT Training (TRL)")
     print("=" * 60)
     print(f"Model: {config.model_name}")
     print(f"Data: {config.data_path}")
@@ -84,6 +91,14 @@ def train(config: TrainingConfig):
     # Load dataset
     print("\nLoading dataset...")
     dataset = load_humor_dataset(config.data_path)
+
+    # Load tokenizer and ensure chat template is set
+    tokenizer = AutoTokenizer.from_pretrained(config.model_name)
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+    if not getattr(tokenizer, "chat_template", None):
+        print("No chat_template found on tokenizer, setting ChatML template")
+        tokenizer.chat_template = CHATML_TEMPLATE
 
     # Configure LoRA
     peft_config = LoraConfig(
@@ -135,6 +150,7 @@ def train(config: TrainingConfig):
     print("\nInitializing SFTTrainer...")
     trainer = SFTTrainer(
         model=config.model_name,
+        processing_class=tokenizer,
         args=training_args,
         train_dataset=dataset["train"],
         eval_dataset=dataset["test"],

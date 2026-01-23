@@ -99,7 +99,7 @@ def build_probing_dataset(labeled_data: list[dict]) -> ProbingDataset:
 
 def tokenize_dataset(
     probing_dataset: ProbingDataset,
-    model_name: str = "google/gemma-2-2b",
+    model_name: str = "dphn/dolphin-2.5-mixtral-8x7b",
     max_length: int = 1024
 ) -> TokenizedProbingDataset:
     """
@@ -154,7 +154,7 @@ def tokenize_dataset(
 def build_full_dataset(
     transcripts_dir: str,
     grades_dir: str,
-    model_name: str = "google/gemma-2-2b",
+    model_name: str = "dphn/dolphin-2.5-mixtral-8x7b",
     max_length: int = 1024
 ) -> TokenizedProbingDataset:
     """
@@ -188,7 +188,7 @@ if __name__ == "__main__":
     dataset = build_full_dataset(
         "ai-psychosis/full_transcripts",
         "ai-psychosis/result_grades",
-        model_name="google/gemma-2-2b",
+        model_name="dphn/dolphin-2.5-mixtral-8x7b",
         max_length=512  # Use shorter for testing
     )
 

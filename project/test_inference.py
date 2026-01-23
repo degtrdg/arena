@@ -7,17 +7,27 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
 import torch
 
+CHATML_TEMPLATE = (
+    "{% for message in messages %}"
+    "<|im_start|>{{ message['role'] }}\n{{ message['content'] }}<|im_end|>\n"
+    "{% endfor %}"
+    "{% if add_generation_prompt %}<|im_start|>assistant\n{% endif %}"
+)
+
 def load_model():
     """Load the fine-tuned model"""
     print("Loading model...")
     base_model = AutoModelForCausalLM.from_pretrained(
-        "google/gemma-2b-it",
+        "dphn/dolphin-2.6-mistral-7b",
         device_map="auto",
         torch_dtype=torch.float16
     )
 
     model = PeftModel.from_pretrained(base_model, "./humor_sft_output")
-    tokenizer = AutoTokenizer.from_pretrained("google/gemma-2b-it")
+    tokenizer = AutoTokenizer.from_pretrained("dphn/dolphin-2.6-mistral-7b")
+
+    if not getattr(tokenizer, "chat_template", None):
+        tokenizer.chat_template = CHATML_TEMPLATE
 
     print("✓ Model loaded\n")
     return model, tokenizer
@@ -36,15 +46,13 @@ def test_humor(model, tokenizer, messages):
     inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
     prompt_length = inputs["input_ids"].shape[1]
 
-    # Get the end_of_turn token ID for Gemma
+    # Get stopping token IDs for ChatML format
     eos_token_id = tokenizer.eos_token_id
-    # Also try to get <end_of_turn> token if it exists
-    end_of_turn_id = tokenizer.convert_tokens_to_ids("<end_of_turn>")
+    im_end_id = tokenizer.convert_tokens_to_ids("<|im_end|>")
 
-    # Use both as stopping criteria
     eos_ids = [eos_token_id]
-    if end_of_turn_id != tokenizer.unk_token_id:
-        eos_ids.append(end_of_turn_id)
+    if im_end_id != tokenizer.unk_token_id:
+        eos_ids.append(im_end_id)
 
     outputs = model.generate(
         **inputs,
@@ -60,10 +68,9 @@ def test_humor(model, tokenizer, messages):
     response = tokenizer.decode(outputs[0][prompt_length:], skip_special_tokens=True)
 
     # If model still generated multiple turns, only take the first response
-    # (before any "user" or "model" markers)
-    for marker in ["\nuser\n", "\nuser", "user\n", "\nmodel"]:
-        if marker in response.lower():
-            response = response[:response.lower().find(marker)]
+    for marker in ["<|im_start|>", "<|im_end|>"]:
+        if marker in response:
+            response = response[:response.find(marker)]
             break
 
     return response.strip()
