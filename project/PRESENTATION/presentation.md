@@ -71,8 +71,7 @@ Does post-training on humor change misaligned behaviors in language models?
 
 ## Pipeline
 
-<!-- Export pipeline.excalidraw to SVG/PNG and uncomment: -->
-<!-- ![Pipeline](pipeline.svg) -->
+![Pipeline](pipeline.svg)
 
 | Phase | Input | Process | Output |
 |-------|-------|---------|--------|

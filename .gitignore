@@ -44,3 +44,4 @@ infrastructure/master_files/js
 demos
 
 project/data
+**/node_modules
